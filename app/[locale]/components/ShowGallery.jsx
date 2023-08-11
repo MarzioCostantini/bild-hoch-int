@@ -39,11 +39,11 @@ export default async function ShowGallery({ tag, alt }) {
           <Image
             key={item.secure_url}
             src={item.secure_url}
-            // width={item.width}
-            // height={item.height}
+            width={item.width}
+            height={item.height}
             alt={alt}
-            width="0"
-            height="0"
+            // width="0"
+            // height="0"
             sizes="100vw"
             style={{ width: "100%", height: "auto" }}
           />
