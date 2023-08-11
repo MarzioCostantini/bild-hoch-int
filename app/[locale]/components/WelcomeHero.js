@@ -30,7 +30,7 @@ const WelcomeHero = () => {
             width={350}
             alt="Hochzeitsfotograf München"
             loading="eager"
-            style={{ width: "100%", height: "100%" }}
+            style={{ width: "100%", height: "auto" }}
           />
         </div>
         <p>
