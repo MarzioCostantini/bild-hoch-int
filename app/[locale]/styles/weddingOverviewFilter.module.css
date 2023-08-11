@@ -1,0 +1,69 @@
+.hochzeitsreportagen {
+  background-color: var(--main-color);
+  padding: 12rem 0;
+}
+
+.headings {
+  text-align: center;
+}
+
+.headings h4 {
+  text-transform: uppercase;
+  margin-bottom: 1.5rem;
+}
+
+.headings h6 {
+  margin-bottom: 3rem;
+}
+
+.headings hr {
+  margin: auto;
+}
+
+.overviewwrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 5rem;
+  margin: 5vw;
+}
+
+.weddingItem {
+  transition: all 0.2s ease-in-out;
+}
+.weddingItem a {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.weddingItem h2 {
+  font-family: CodePen, Arial, Helvetica, sans-serif;
+  font-size: clamp(2.5rem, 3vw, 3.2rem) !important;
+  margin: 2rem 0 0.5rem 0;
+  min-height: 8rem;
+}
+
+.overviewwrapper .weddingItem h2 {
+  font-size: clamp(1.8rem, 2vw, 2.2rem);
+}
+
+.weddingItem:hover {
+  transition: all 0.2s ease-in-out;
+  transform: scale(1.05);
+}
+
+@media only screen and (max-width: 768px) {
+  .overviewwrapper {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .overviewwrapper {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .weddingItem a h2 {
+    margin: 2rem 0 0.2rem 0;
+    min-height: auto !important;
+  }
+}

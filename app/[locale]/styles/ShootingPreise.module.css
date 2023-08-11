@@ -1,0 +1,42 @@
+.shootingPreise {
+  margin: 7vh 0vw;
+}
+
+.shootingPreise article {
+  display: flex;
+  gap: 60px;
+  margin-bottom: 120px;
+}
+
+.shootingPreise article .contenttext {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: var(--main-color);
+  padding: 30px 30px 30px 60px;
+  width: 60%;
+}
+
+.shootingPreise article .contenttext h6,
+.shootingPreise article .contenttext p {
+  margin-bottom: 30px;
+}
+
+.shootingPreise article:last-child {
+  justify-content: flex-end;
+}
+
+@media only screen and (max-width: 768px) {
+  .shootingPreise article {
+    flex-direction: column;
+    align-items: center;
+  }
+  .shootingPreise article .contenttext {
+    width: 80%;
+    text-align: center;
+  }
+
+  .shootingPreise article:first-child div:last-child {
+    order: -1;
+  }
+}

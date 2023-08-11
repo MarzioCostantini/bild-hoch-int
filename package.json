@@ -1,0 +1,33 @@
+{
+  "name": "internationalisierung",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@cloudinary/react": "^1.11.2",
+    "@cloudinary/url-gen": "^1.10.2",
+    "@sendgrid/mail": "^7.7.0",
+    "axios": "^1.4.0",
+    "client-only": "^0.0.1",
+    "clsx": "^2.0.0",
+    "cookies": "^0.8.0",
+    "cookies-next": "^2.1.2",
+    "js-cookie": "^3.0.5",
+    "next": "13.4.9",
+    "next-cloudinary": "^4.14.1",
+    "next-cookies-universal": "^1.0.1",
+    "next-intl": "^3.0.0-beta.9",
+    "react": "18.2.0",
+    "react-cookie-consent": "^8.0.1",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/gtag.js": "^0.0.12",
+    "@types/react": "18.2.19"
+  }
+}

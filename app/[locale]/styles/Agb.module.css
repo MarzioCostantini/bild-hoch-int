@@ -1,0 +1,22 @@
+.agb {
+  padding: 0 5vw 6rem 5vw;
+}
+
+.agb .hero {
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 6rem;
+}
+
+.hero hr {
+  margin: 2rem auto 0 auto;
+}
+
+.agb span {
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.agb p {
+  margin-bottom: 3rem;
+}

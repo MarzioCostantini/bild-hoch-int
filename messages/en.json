@@ -1,0 +1,473 @@
+{
+  "menu": {
+    "home": "Home",
+    "foto": "photo",
+    "kontakt": "Contact",
+    "faq": "FAQ",
+    "leistungen": "Services",
+    "about": "About me"
+  },
+  "footer": {
+    "legal": {
+      "link1": "imprint",
+      "link2": "Conditions",
+      "link3": "data protection",
+      "link4": "Wedding photographer Munich",
+      "link5": "Wedding photographer Mallorca",
+      "link6": "Wedding Photographer Tuscany",
+      "link7": "Wedding Photographer Lake Garda"
+    },
+    "sitemap": {
+      "link1": "Home",
+      "link2": "Wedding reports",
+      "link3": "Contact",
+      "link4": "Services",
+      "link5": "FAQ",
+      "link6": "About"
+    },
+    "copyright": "MARZIO COSTANTINI - WEDDING PHOTOGRAPHER IN MUNICH / STARNBERG / AUGSBURG / GARMISCH-PARTENKIRCHEN"
+  },
+  "freeWeddingDates": "Free wedding dates for",
+  "cookie": {
+    "text": "We use cookies on our website. Some of them are essential, while others help us to improve this website and your experience.",
+    "akzeptieren": "Accept",
+    "ablehnen": "Reject"
+  },
+  "pageHome": {
+    "meta": {
+      "title": "Wedding Photographer Munich | Authentic and real ☀",
+      "description": "I'm Marzio Wedding Photographer in Munich. I have wedding photos from €350 | Just click here for more information!"
+    },
+    "welcomeHero": {
+      "bigTitle": "Wedding photographer Munich",
+      "welcomeText": "Your wedding photographer Munich - Welcome to my website. Nice  that you're there! On my blog you will get insights into my previous work as your wedding photographer in Munich. As a wedding photographer, I create professional wedding reports for you in Munich. My goal is to capture in detail what makes you as a couple special on your wedding day in Munich. I love traveling! Therefore, I will not only accompany you at your wedding location in Munich, but also throughout the rest of the world. I'm ready for you around the globe. Instead of kitschy & staged pictures, I guarantee you authentic and natural photographs anywhere in the world that will always keep your memories fresh. I am telling your story as it happened.",
+      "zusatztext1": "Real <br></br> Wedding Pictures",
+      "zusatztext2": "Authentic <br></br> wedding reports",
+      "buttonHero": "About me"
+    },
+    "authentisch": {
+      "authTitle": "AUTHENTIC, EMOTIONAL & REAL WEDDING PICTURES",
+      "authSubTitle": "Your wedding photographer in Munich and the surrounding area"
+    },
+    "hzfotografSta": {
+      "title": "Storytelling by <br></br> Marzio Costantini",
+      "subtitle": "Wedding photographer Munich",
+      "content": "Photography has always been a powerful way to make some of the most precious moments of our lives unforgettable. It is important to me to tell these moments of your wedding in Munich as authentically and genuinely as I experienced it. No frills. No princess stuff. Open and honest!"
+    },
+    "banner": {
+      "text": "A collection of my most beautiful wedding moments",
+      "button": "Visit"
+    },
+    "filterWeddings": { "title": "Authentic <br></br> wedding reports" },
+    "momente": {
+      "text1": "MOMENTS that only last <br> </br> a few seconds <br> </br> hold on forever",
+      "text2": "A UNIQUE INTERPRETATION<br> </br> OF DOCUMENTARY <br> </br> WEDDING PHOTOGRAPHY",
+      "btn": "Contact"
+    },
+    "homeText": {
+      "title1": "Wedding Photographer Munich: For unique and emotional wedding pictures",
+      "subTitle1": "WEDDING REPORTS, COUPLE SHOOTINGS AND ELOPEMENTS",
+      "content1": "I am passionate about my job by capturing extraordinary moments for eternity! I am particularly enthusiastic about some wedding styles, including boho-style weddings that are close to nature, barn weddings and, above all, Mediterranean weddings in Italy.",
+      "content2": "Do you love landscapes? Weddings surrounded by extraordinary landscapes are my favorites. It doesn't matter whether they take place in Tuscany or on a beautiful stretch of coast in Mallorca. That's why I love to photograph the wedding together with a beautiful landscape.",
+      "content3": "Do you want to relax and enjoy your wedding day? Then we'll catch up on the couple photos in the after-wedding shoot.",
+      "title2": "Unforgettable souvenirs of your wedding in Munich",
+      "content4": "Find out more on this website if you are looking for a wedding photographer in Munich. Take a look at my reports. My blog contains numerous pictures that I have photographed in Munich in the past. If you would like to book me or find out more about what I offer, then send me an email to ask a question or get a free, non-binding offer. I'm happy for you!"
+    }
+  },
+  "pageHochzeitsreportagen": {
+    "meta": {
+      "title": "Photo | Wedding reports in Munich and the surrounding area",
+      "description": "Wedding reportage in Munich and the surrounding area - inquire now, free of charge and without obligation. From €350.-"
+    },
+    "title": "Wedding reports",
+    "subTitle": "Authentic wedding reports"
+  },
+  "pageKontakt": {
+    "meta": {
+      "title": "Contact | Wedding photographer in Munich and surroundings",
+      "description": "Your wedding photographer in Munich! Contact now and request a free quote!"
+    },
+    "text": "I am very happy to hear from you! I am happy to be there for you at your big wedding, whether I am in Starnberg, Munich, Augsburg, Tuscany, Lake Garda, Lake Como or anywhere else in the world! If you haven't heard from me within 48 hours, you can also write directly to info@bild-hochzeit.",
+    "labelName": "First and Last Name*",
+    "labelEmail": "E-mail address*",
+    "labelDatum": "wedding date",
+    "labelLocation": "wedding location",
+    "labelStil": "style of your wedding",
+    "labelGefunden": "how did you find me",
+    "labelNachricht": "your message to me? I look forward to as much information as possible",
+    "labelInsta": "How do you look? Show me your Instagram account so I can put a face to the text :-)",
+    "labelDatenschutz": "* I agree to the collection and storage of my data for the purpose of processing my message. This consent can be revoked at any time via info(a)Bild-Hochzeit.de. You can find detailed information in my privacy policy.",
+    "datenschutzAkz": "Please accept the privacy policy",
+    "btn": "Send",
+    "feedback": {
+      "title": "Message was sent successfully.",
+      "content": "If you don't hear from me within the next 48 hours, please message me again!"
+    }
+  },
+  "pageFaq": {
+    "meta": {
+      "title": "FAQ | Wedding photographer in Munich",
+      "description": "Questions and answers about getting married in Munich, or wedding photographer Munich."
+    },
+    "faq": {
+      "title": "answers and questions",
+      "subTitle": "A few questions that you may already have in advance.",
+      "faq1": {
+        "title": "Wedding Photographer Munich - Where can you be booked?",
+        "subTitle": "Getting married in Munich and the surrounding area",
+        "content": "As a <span>wedding photographer Munich</span>, you can of course book me anywhere in <span>Munich</span> and <span>Starnberg</span>. But I'm not only working for you as a <span>wedding photographer</span> here in German-speaking countries. I work for my couple in Europe and even worldwide. It is important to me that I photograph the weddings of my couple as they are. Authentic and genuine <span> wedding reports Europe and worldwide! </span>"
+      },
+      "faq2": {
+        "title": "How are you working on our wedding?",
+        "subTitle": "Wedding photographer Mallorca",
+        "content": "As a <span>wedding photographer</span>, it is particularly important to me, as already mentioned, to photograph the <span>wedding</span> as it actually happened. Authentic and real! Because that's the only way I can really show your <span>wedding</span>, completely without posed pictures. That's not my thing at all! With me you won't have to look behind a tree... :-). For this reason, I will stay in the background at your <span>wedding</span> as much as possible to capture the big and small special moments."
+      },
+      "faq3": {
+        "title": "How does a destination wedding work?",
+        "subTitle": "Destination Wedding",
+        "content": "Even though I live in Germany, I photograph <span>Destination Weddings</span> a few times a year. Especially <span>weddings</span> in <span>Italy (Lake Garda, Lake Como, Tuscany & Dolomites)</span> but also on <span>Mallorca</span> I'm quite often. No distance is too far for me for an interesting <span>wedding</span>, I'd be happy to <span>journey</span> to the end of the world for you too! The cost of a <span>Destination Wedding</span> is the same as a <span>Inland Wedding</span>. I <span>not</span> calculate the travel time (flight time / journey etc.) as working time. Only the travel expenses are added. These are usually very manageable!"
+      },
+      "faq4": {
+        "title": "What happens if we are not allowed to marry because of COVID-19?",
+        "subTitle": "Corona regulation at weddings",
+        "content": "If you cannot get married because COVID-19 does not allow it, you only pay 20% of your booked amount. You will then get the 20% credited back to you at the next appointment, provided your next appointment is not yet taken by me. So you pay almost nothing for the cancellation. If I am already booked for the following date, you will receive a couple after-wedding shoot from me."
+      },
+      "faq5": {
+        "title": "How long should we plan for the couple shoot?",
+        "subTitle": "Wedding photographer Starnberg",
+        "content": "That depends on where you want to do the couple shoot. Pure shooting time about 1 hour + driving time. <span> IMPORTANT: Please choose the sunset if possible! </span>"
+      },
+      "faq6": {
+        "title": "How much time should we plan for Getting Ready?",
+        "subTitle": "Getting Ready at Weddings",
+        "content": "That depends. As a rule, I start when the make-up artist is 60% done. In other words, I photograph the finishing touches. You should plan enough time so that I still have time to photograph the dress, flowers, stationery, etc. where you want to do the couple shooting. Pure shooting time about 1 hour + driving time. <span> IMPORTANT: Please choose the sunset if possible! </span>"
+      },
+      "faq7": {
+        "title": "What happens if the wedding photographer gets sick?",
+        "subTitle": "Wedding photographer backup",
+        "content": "Luckily it hasn't happened once since 2014! Should it come to that, I will of course help you to find a replacement. Through my many years of experience, I now know many photographers and am well connected with them, so it shouldn't be a problem to find a worthy replacement for me. If a down payment has already been made, this will be transferred back to you."
+      },
+      "faq8": {
+        "title": "What if it rains at our wedding?",
+        "subTitle": "rain on wedding day",
+        "content": "If it rains, it's no problem. Even in the rain you can take super nice pictures without getting completely wet. You can get a transparent umbrella for this in an emergency."
+      }
+    }
+  },
+  "pageLeistungen": {
+    "meta": {
+      "title": "Services | Wedding photographer Munich prices",
+      "description": "Your wedding photographer in Munich for real and natural pictures from €350. Inquire now!"
+    },
+    "title": "Wedding photographer in Starnberg, Munich, Augsburg, Garmisch Partenkirchen, Europe & worldwide",
+    "btn": "Contact",
+    "leistungenLabel": {
+      "leistung1": "9-hour or more wedding reportage",
+      "leistung2": "8-hour wedding reportage",
+      "leistung3": "6-hour wedding reportage",
+      "leistung4": "3-hour wedding reportage"
+    },
+    "leistungsDetail": {
+      "bearatung": "Personal advice",
+      "nachbearbeitung": "post processing",
+      "bilder": "Approx. 50 - 100 images per hour",
+      "galerie": "Online gallery",
+      "usbStick": "Images via USB stick in a wooden box",
+      "unterDrei": "* In the wedding season (April - October) only bookable from Monday - Thursday, Friday & Sunday on request."
+    },
+    "btnAnfrage": "Inquire now",
+    "afterWedding": {
+      "title": "After wedding shoot",
+      "subTitle": "Wedding photographer in Starnberg, Munich, Augsburg",
+      "content": "If the time during your wedding is too short for the couple shooting, we are happy to arrange an after-wedding shooting appointment. Your wedding couple shoot was only postponed a few days. The after-wedding shoot takes about 45-60 minutes. In the end you will get about 50 edited pictures from me"
+    },
+    "paarShooting": {
+      "title": "Couple of shoots",
+      "subTitle": "Wedding photographer Starnberg",
+      "content": "You don't necessarily have to get married to be photographed in front of me! We are happy to do a couple shooting in your desired location. It usually takes about 45 minutes and I get about 50 edited pictures of me."
+    }
+  },
+  "pageAbout": {
+    "meta": {
+      "title": "About me | Your wedding photographer in Munich",
+      "description": "Everything you need to know about me as a wedding photographer in Munich. Wedding reports in and around Munich"
+    },
+    "welcomeSection": {
+      "title": "Hi, I'm Marzio",
+      "content": "Wedding photographer since 2014, mainly in the Starnberg area, Munich, Augsburg and Garmisch-Partenkirchen, Lake Garda, Lake Como & Tuscany, but I photograph weddings in Europe and worldwide. If you are looking for authentic wedding photos, then you have come to the right place. I am usually the silent observer at your wedding, I observe people, looks, gestures, love, joy, emotions. I seek the painting of the moment, the beat of a song that opens the shutter of my camera and captures a story forever."
+    },
+    "details": {
+      "detailsInfo": "details",
+      "paarInfos": "A few infos about me",
+      "reisen": {
+        "title": "i love to travel",
+        "content": "I just love traveling and going to distant countries to get to know different cultures. That's why I've already made two trips around the world. Add a little adventure to a long-distance trip, PERFECT! So in 2019 I was at Mt. Everest Basecamp or rode a motorbike via Cambodia and Vietnam up to the Chinese border. Ah yes, did I mention that I don't have a motorcycle license yet?"
+      },
+      "natur": {
+        "title": "I like to be out in nature",
+        "content": "I originally started with landscape photography and only got into wedding photography over the years. So it's actually clear that I like to be outside hiking or sleeping under the open sky :-)"
+      },
+      "zwillinge": {
+        "title": "I exist twice :-)",
+        "content": "Well, not quite but almost. I have a twin brother who I look a lot like who I do most of my wild adventures with. He himself also photographs weddings and you can also book us for two."
+      },
+      "programmieren": {
+        "title": "My second passion is programming",
+        "content": "If I don't have a camera in my hand or I'm not out and about in the world, I might be teaching a few people how to program. I also love to express myself creatively in this direction. Believe it or not, programming can be creative :-)"
+      },
+      "gerade": {
+        "title": "I hate it when things aren't straight",
+        "content": "In some ways I'm just a perfectionist and I hate it when things aren't straight like a picture on the wall or my monitors! The two monitors have to fit perfectly edge to edge and there can't be any gap between them... :-D"
+      }
+    }
+  },
+  "pageAGB": {
+    "meta": {
+      "title": "Terms and Conditions | General terms and conditions of business",
+      "description": "General terms and conditions for wedding photographers in Munich. Ask for free"
+    },
+    "punkt1": "<br></br> 1. Photograph <br></br> The photographer (contractor) delivers the digitally revised photographs in the highest possible resolution in JPEG file format and without watermarks or similar. All data/photographs are handed over within 25 days after the wedding.",
+    "punkt2": "<br></br> 2. Rights of use <br></br> The bridal couple (client) may use and pass on the photos for private, non-commercial purposes. The written consent of the photographer is required for commercial use of the photos (e.g. advertising). The copyright remains with the photographer. The photographer may use the photos as reference shots for self-promotion.",
+    "punkt4": "3. Withdrawal and cancellation by the photographer (contractor) The photographer (contractor) can only withdraw from the contract in the event of force majeure (e.g. accident or illness). The contractor will do everything in his power to provide the bridal couple with an equivalent replacement. The wedding photographer will inform the client of the failure as soon as possible. In the event of force majeure, the bridal couple (client) waives claims for damages or the assignment of any additional costs to the photographer. Any down payment already received will be refunded by the photographer (contractor) Withdrawal and cancellation by the bridal couple (client) The client is informed that photos and photographic work are subject to the photographer's artistic scope. Subsequent complaints are therefore excluded. Subsequent changes are to be remunerated separately. If the wedding cannot take place due to force majeure, the photographer (contractor) waives payment of the agreed fee. A deposit already paid will not be refunded. Cancellation for other reasons is possible under the following conditions: Up to 90 days before the wedding date, a cancellation fee i. hv 50% of the order value, calculated. Up to 180 days before the wedding date, a cancellation fee i. hv 35% of the order value, calculated.",
+    "punkt5": "<br></br> 4. Liability <br></br> The bridal couple (client) is solely liable for personal injury and damage to property during the wedding, unless the damage is caused by grossly negligent or intentional behavior on the part of the photographer . The bridal couple (client) is liable for damage to the photographer's equipment caused by guests before, after or during the event.",
+    "punkt6": "<br></br> 5. Written form <br></br> Changes and additions to this contract must be in writing. Should any of the above provisions be wholly or partially void, the remainder of the agreement shall remain in effect. In place of the ineffective provision, either the statutory provision or – in the absence of such a provision – a provision that the parties would have made in good faith if they had been aware of the invalidity."
+  },
+  "pageHzMallorca": {
+    "meta": {
+      "title": "Getting married in Mallorca | Everything you need to know! ☀",
+      "description": "Are you getting married in Mallorca? Everything you need to know for your wedding in Mallorca, as well as the best wedding locations in Mallorca"
+    },
+    "title": "Wedding Mallorca <br></br> The best tips for your wedding",
+    "subTitle": "Getting married in Mallorca",
+    "Link": "To the website",
+    "einleitung": {
+      "title": "Everything you need to know about wedding planning for the Mallorca wedding",
+      "subTitle": "Getting married in Mallorca",
+      "content": "Getting married on the enchanting island of Mallorca - As a wedding photographer in Mallorca, I can say with certainty that it is the most magnificent of all the islands. Many years ago I fell in love with the irresistible charm of the island and have been working as a wedding photographer on Mallorca ever since. If you can't imagine anything nicer than giving your wedding vows on this island, this thought is absolutely understandable. <br> </br> <br> </br> Regardless of the wedding location on Mallorca, the island offers an impressive atmosphere and gives your celebration a suitable and unforgettable ambience. For several years, I have been accompanying couples on their way to the altar several times a season. A wedding in Mallorca is by no means complicated, but it should be well planned. For this reason, in addition to my main job as a wedding photographer on Mallorca, I offer you the opportunity to arrange important contacts for wedding planning and, moreover, to find the right wedding location on Mallorca together with you.",
+      "btn": "Contact"
+    },
+    "warum": {
+      "titel": "Why a wedding in Mallorca is so beautiful",
+      "content1": "For my clients, who are always in love, I travel all over Europe to find the perfect backdrop for impressive photos. But my work as a wedding photographer on Mallorca has grown particularly dear to me. I can proudly say that I know this beautiful island like the back of my hand. With my support and my flair for the perfect moments, your wedding in Mallorca will be an unforgettable experience. Both privately and professionally, I have been drawn to the island again and again for many years. Once there, I am always happy to capture the most beautiful moments as a wedding photographer on Mallorca and to give you a lasting memory of this special day for your life together.",
+      "content2": "Getting married in Mallorca - When planning your wedding, you should generally bear in mind that organizing a wedding in Mallorca can be a demanding task. I have worked with many service providers on the island in the past, so I can help you with my contacts and experience. From choosing the wedding menu to finding the perfect wedding location in Mallorca, we should be able to put together a detailed plan for your dream wedding."
+    },
+    "heiraten": {
+      "title": "Wedding on Mallorca: Emotional and authentic recordings of your special day on Mallorca",
+      "subTitle": "Marry Majorca",
+      "content": "In accordance with your selected wedding location on Mallorca, I will create an emotional and authentic photo reportage of this special day in your life. My goal is to create vibrant and dynamic images of your wedding, yourself, and your friends and family members. These pictures should still cause goose bumps even after many years. <br> </br> <br> </br> As a wedding photographer in Mallorca, my main task is to move discreetly in the background and still take professional pictures. A wedding in Mallorca should not only be comparable to an island vacation for you, but also capture your unique moment in an unforgettable atmosphere. I only see my work as a wedding photographer on Mallorca as successful if you trust me and feel comfortable with me. I look forward to seeing you and your creative ideas for the big day.",
+      "btn": "Contact"
+    },
+    "location": {
+      "title": "Wedding locations on Mallorca <br> </br> for your party",
+      "subTitle": "Getting married on Mallorca - The 5 best wedding locations on Mallorca",
+      "webseite": "To the website",
+      "loca1": {
+        "subTitle": "Wedding location on Mallorca",
+        "content": "If you've always believed that a wedding in Mallorca is the perfect experience for you, then you've come to the right place. With its impressive charm, the Finca Santa Lucia underlines the beauty of the entire island. The ambience of the property will enchant you from the very first moment and offers you a lot of creative leeway when it comes to designing the location. As a wedding photographer on Mallorca, I appreciate the lighting conditions there and the relaxed atmosphere of the area. Here you can spend your special day in style and with an equally high relaxation factor. The Finca Santa Lucia is an enchanting piece of Spanish living culture."
+      },
+      "loca2": {
+        "subTitle": "Getting married in Mallorca",
+        "content": "Finca Alaiar is a country estate in the heart of the island, near the village of Sencelles. This wedding location in Mallorca will enchant you from the first moment with its bordered country roads and beautiful dry stone walls, combined with almond groves in the area. In addition to these unforgettable impressions, as a wedding photographer on Mallorca I benefit from the Tramuntana mountain range in the distance and can promise you beautiful pictures. The origins of the property lie in the Moorish settlement of Alayar. When the Christians, led by King James I, retook the area, the area passed to the Earl of Bearn, Gastó de Montcada."
+      },
+      "loca3": {
+        "subTitle": "Wedding photographer Mallorca",
+        "content": "If you attach great importance to the culinary catering of your guests at your wedding location on Mallorca, Cap Rocat is the first address for you. The former fortress is now a popular luxury hotel and offers a medieval yet elegant ambience thanks to its castle character. As a wedding photographer on Mallorca, I can hardly think of a better place where you can enjoy a breathtaking view far into the sea and an equally romantic scenery. The hotel shows an extraordinary love of detail and will cast a spell over you. For special moments, this luxury hotel is a great opportunity to highlight the most important day in your life together with that certain something."
+      },
+      "loca4": {
+        "subTitle": "Wedding location Mallorca",
+        "content": "For larger wedding parties I can recommend the Carrossa Spa Villa Hotel. For getting married in Mallorca, this location is considered one of the best to be found on the island. The villas built here have plenty of rooms and perfectly manicured gardens. In the distance you can also enjoy the view of the Serra de Llevant mountain range and look forward to great wedding pictures in front of this backdrop. The pool and the hotel's own spa provide plenty of relaxation. The entire facility is state-of-the-art. An experienced events team will certainly leave nothing to chance at your wedding."
+      },
+      "loca5": {
+        "subTitle": "Wedding location on Mallorca",
+        "content": "Son Togores is a dream location for your upcoming wedding celebration. The location enchants with the unmistakable flair of the island and is still conveniently close to the pulsating center of Palma. You and your guests can round off the day with a stroll through Palma and enjoy the unique atmosphere. Villa Son Togores is without a doubt one of the most desirable wedding venues in Mallorca."
+      }
+    },
+    "kosten": {
+      "title": "How much does a wedding in Mallorca cost?",
+      "subTitle": "How much does a wedding in Mallorca cost?",
+      "content": "Mallorca wedding costs - A general answer to this question is not possible, as the costs of a wedding depend heavily on the type of ceremony. Instead, consider how much you are willing to spend on your wedding in Mallorca and the wedding photographer in Mallorca to create an unforgettable event for you and your guests. <br> </br> <br> </br> In general, for a wedding in Mallorca with around 65 guests, you should budget at least €15,000."
+    },
+    "hochzeitsplaner": {
+      "title": "The best wedding planners in Mallorca",
+      "subTitle": "Wedding planners on Mallorca that I can recommend",
+      "planer": {
+        "plan1": {
+          "content": "Dana and Karim are the duo that started Love Story Mallorca. They are not only successful wedding planners on Mallorca, but also organize dreamlike weddings in Italy, Ibiza and the Maldives."
+        },
+        "plan2": {
+          "content": "If you are looking for wedding planners in Mallorca, I would like to warmly recommend Sandra and Vanessa. They form an unbeatable team and will ensure that your wedding in Mallorca is an unforgettable experience."
+        },
+        "plan3": {
+          "content": "Katja and her team, who specialize in destination weddings and elopements on Mallorca, extend a warm welcome to you. Based directly in Mallorca, they offer extensive wedding planning services including a wedding photographer in Mallorca."
+        }
+      }
+    },
+    "slogan": "It's heating up in Mallorca - getting married on the beautiful island",
+    "kontakt": "Contact"
+  },
+  "pageHzGardasee": {
+    "meta": {
+      "title": "Getting married on Lake Garda | Celebrating a wedding on Lake Garda ☀",
+      "description": "Are you getting married in Lake Garda? Everything you need to know for your wedding on Lake Garda, as well as the best wedding locations on Lake Garda."
+    },
+    "title": "Getting married on Lake Garda <br> </br> Celebrate your wedding on Lake Garda",
+    "subTitle": "Everything you need to know for your wedding on Lake Garda",
+    "link": "To the website",
+    "einleitung": {
+      "title": "Wedding on Lake Garda - Everything you need to know about wedding planning",
+      "subTitle": "Getting married on Lake Garda",
+      "content": "As someone who specializes in wedding photography on Lake Garda, I can safely say that this lake is one of the most picturesque in all of Italy, and is also conveniently close to Germany! Over the years I have had the opportunity to spend my holidays there as well as to work as a wedding photographer. A wedding on Lake Garda will surely enchant you and breathtaking pictures are guaranteed there. <br> </br> <br> </br> Regardless of which of the numerous idyllic locations around Lake Garda you would like to hold your wedding celebrations in, Lake Garda offers a fascinating atmosphere and gives your celebration a suitable and unforgettable ambience. For several years I have had the privilege of accompanying several couples on their way to the altar each season. Planning a wedding on Lake Garda and finding the perfect venue is certainly not a challenge, but it does require careful planning. Therefore, in addition to my main activity as a wedding photographer on Lake Garda, I also offer you to provide important contacts for wedding planning and to find the ideal wedding location on Lake Garda together with you.",
+      "btn": "Contact"
+    },
+    "warum": {
+      "titel": "Why a wedding on Lake Garda is so special",
+      "content1": "I travel all over Europe as a Lake Garda wedding photographer, always looking for the perfect locations for breathtaking shots. But there is one place that particularly appeals to me: Lake Garda. I have been fortunate enough to travel and photograph almost all of the scenic towns around Lake Garda. With my support and my knowledge of the most beautiful photo locations, your wedding on Lake Garda will certainly be an unforgettable experience. For many years I have been drawn to Lake Garda, both privately and on behalf of my bridal couples. There I am always happy to create impressive pictures in front of breathtaking scenery as a wedding photographer on Lake Garda and to give you a valuable memory of this special day for your life together. <br> </br> <br> </br> In your planning, you should consider that a wedding on Lake Garda requires extensive organization. I have already worked with many service providers in the various regions around Lake Garda and can therefore support you with my contacts and experience. There are numerous beautiful wedding locations in different price categories that I can recommend to you. I am also happy to help you with the selection of the wedding menu so that nothing stands in the way of your dream wedding on Lake Garda."
+    },
+    "heiraten": {
+      "title": "Emotional and authentic pictures of your wedding on Lake Garda",
+      "subTitle": "Getting married on Lake Garda",
+      "content": "Wedding photographer at Lake Garda - I will create a sensitive and authentic documentation of this special day in your life, tailored to the location of your wedding celebration. The images will always enable you to relive your wedding day with your families and friends. Ultimately, they should still provide goose bumps even after many years. <br> </br> <br> </br> As a wedding photographer on Lake Garda, I will stay discreetly in the background and take professional pictures. A wedding on Lake Garda will not only be a mini vacation for you, but will also guarantee spectacular and unique pictures of your wedding. I only consider my work as a wedding photographer on Lake Garda to be complete when you trust me and feel comfortable with me. I look forward to seeing you and your creative ideas for your big day.",
+      "btn": "Contact"
+    },
+    "location": {
+      "title": "The 10 best wedding locations <br> </br> on Lake Garda for your wedding",
+      "subTitle": "Beautiful wedding location on Lake Garda",
+      "loca1": {
+        "subTitle": "Wedding location on Lake Garda",
+        "content": "Located between Lake Garda and Verona, the historic Antica Dimora del Turco presents the ideal location for wedding celebrations. The rustic location Antica Dimora del Turco is embedded in vineyards and the hilly landscape of Lake Garda. In addition, the place has several accommodation options and a swimming pool in the immediate vicinity"
+      },
+      "loca2": {
+        "subTitle": "Getting married on Lake Garda",
+        "content": "La Finestra Sul Fiume, in English the window on the river, is located on the banks of the river in Valeggio sul Mincio, a few kilometers from Peschiera del Garda, Verona and the Lakes of Mantua. Here the hills of Valeggiano, one of the most beautiful Venetian landscapes, characterized by vineyards and gardens, form a slope towards the river, ending in a meadow that flows into the water. A perfect place for your wedding on Lake Garda."
+      },
+      "loca3": {
+        "subTitle": "Location Lake Garda",
+        "content": "The historic country house from the 15th century offers a cozy and easily accessible ambience that is ideal for your wedding. The large room, with its stone and brick vault, combines the warmth of the country atmosphere with the elegance and exclusivity of a real reception room. The barn with the old threshing floor creates an exquisite atmosphere that accompanies you as a bridal couple through your special day. The extensive park with its bushes and trees, kissed by the sun and refreshed by the breeze blowing from Monte Baldo, offers the ideal setting for your wedding in the warm season. Unforgettable weddings, planned down to the smallest detail, become unique in combination with the wines produced by the estate."
+      },
+      "loca4": {
+        "subTitle": "Wedding location Lake Garda",
+        "content": "Agriturismo Pratello is located on the Padenghe moraine hills, surrounded by green vineyards. The property includes a spacious garden with a bio pond and a magnificent avenue of cypresses. Many of the dishes on offer, including sausage, pasta and jam, come from our own production. The excellent wines and oils are also produced here. Ample parking is available for wedding guests arriving by car. About 35 guests can stay directly at the Agriturismo Pratello. The location: The historic farm is located in Padenghe sul Garda, a small, quiet town on the west side of Lake Garda in Lombardy."
+      },
+      "loca5": {
+        "subTitle": "Wedding location on Lake Garda",
+        "content": "Just two kilometers from the historic town of Salò on the western shore of Lake Garda, Villa Arcadio is perched on a hill surrounded by a landscape of olive trees, orchards, woods and flowers. The 4-star hotel is housed in a former monastery and offers you and your wedding guests a pleasant stay. The 18 rooms and suites are stylishly furnished and cleverly combine historical architecture with modern style. This provides the perfect setting for getting ready on your wedding day. In the hotel's restaurant, which has beautiful panoramic terraces, delicious dishes ranging from local to international cuisine are served - preferably with home-grown ingredients. In addition to a swimming pool, the wedding location on Lake Garda also offers various activities to relax and rejuvenate body and mind."
+      },
+      "loca6": {
+        "subTitle": "Wedding photographer on Lake Garda",
+        "content": "The ancient country estate, which has been completely renovated, is set in stunning countryside and surrounded by 13 hectares of centuries-old park, framed by ancient stone walls. The rooms, designed in a country-chic style, offer the perfect setting for your wedding. The Corte Guastalla is in a privileged position between Lake Garda and the art city of Verona. The exclusive location guarantees absolute privacy and a first class reception in an informal but elegant ambience. A professional team that pays attention to every little detail accompanies you during the planning, so that every wish can be fulfilled and this day will be truly unforgettable and happy for you as the bridal couple and your guests. A breakfast made with fresh, local ingredients such as red fruits is just one of the many benefits for those who choose Corte Guastalla as the location for their event."
+      },
+      "loca7": {
+        "subTitle": "Getting married on Lake Garda",
+        "content": "Punta San Vigilio is located at the top of Monte Baldo and extends far into the lake, exactly where the lake is widest and most open: from here you can see almost the whole of Lake Garda. An elegant and exclusive wedding location on Lake Garda: Villa San Vigilio will welcome you as a newlyweds with the charm of the Renaissance villa, the enchanting gardens and the beautiful natural scenery of Lake Garda that surrounds it, adding even more magic to your most beautiful day. It is possible to celebrate a free wedding in the magnificent Renaissance villa or in the enchanting garden with lemon trees, oleanders and cypresses."
+      },
+      "loca8": {
+        "subTitle": "Wedding location Lake Garda",
+        "content": "With its enchanting 18th-century style interiors, its panoramic terraces, the wide parks that surround it and the breathtaking view over the entire Valpolicella, Villa Cariola offers a refined charm that makes it an exclusive location for fairytale weddings. We accompany you in the organization of every detail of your big day: from the ceremony to the reception and advice on suitable service providers such as florists, hairdressers and bands. Our dedicated wedding planners will help you turn your dreams into reality. The Villa Cariola is available for smaller, private events as well as for large and exclusive receptions with over 250 people."
+      },
+      "loca9": {
+        "subTitle": "Wedding location on Lake Garda",
+        "content": "This charming agriturismo with a villa and a small church is located just a few minutes from Bardolino on Lake Garda. The history of this manor goes back to the 15th century. The traditional, authentic property is wonderfully situated for a wedding surrounded by nature. In addition, the hospitable owners leave nothing to be desired."
+      },
+      "loca10": {
+        "subTitle": "Wedding photographer on Lake Garda",
+        "content": "The island holds countless surprises and treasures. Discover those that fascinate you the most, thanks to the passion and experience of the owners, who will help you create your unique event, to surprise your guests and make this special day incomparable. Enjoy together with your guests a breathtaking setting for the wedding ceremony overlooking the lake, surrounded by terraces and exotic hanging gardens under the majestic villa, the imposing tower and the ancient walls of the monastery. An exclusive setting for your reception would be the loggia with its 18th century frescoes, the majestic natural park and the formal gardens with the sweet scents of roses and hydrangeas. The elegance of a first class catering service is enhanced by the spectacular décor, views of the labyrinthine gardens, the ornate details of the villa and the reflections of the sunset on the lake. The secluded shores of the lake are a blank canvas for your imagination and a perfect backdrop for exceptional entertainment such as suspended fireworks, theatrical scenes and more."
+      }
+    },
+    "kosten": {
+      "title": "How much <br> </br> does a Lake Garda wedding cost?",
+      "subTitle": "How much does a wedding on Lake Garda cost",
+      "content": "It is not easy to give a general answer to the question of how much a wedding on Lake Garda costs. Ultimately, the cost factor depends on the design of your ceremony. Instead, ask yourself how much you are willing to spend on getting married on Lake Garda and the wedding photographer on Lake Garda in order to create an unforgettable event for you and your guests. <br> </br> <br> </br> Roughly speaking, you can expect at least €17,000 for a wedding on Lake Garda for around 65 people."
+    },
+    "hochzeitsplaner": {
+      "title": "The best wedding planners on Lake Garda",
+      "subTitle": "Wedding planners on Lake Garda that I can recommend",
+      "planer": {
+        "plan1": {
+          "content": "Synergy Weddings wedding planner - Claudia Schuchter Lamboglia is your personal wedding planner when it comes to getting married on Lake Garda. Originally from Innsbruck, Claudia has now found her home in Italy. As a sworn interpreter for the Italian language, she is able to translate your civil wedding ceremony into German. Francesco Lamboglia, born in Italy, is your perfect contact for our locations in Italy."
+        },
+        "plan2": {
+          "content": "Wedding Planner Beautiful Italian Weddings - Every wedding is a unique event. At Beautiful Italian Weddings, they treat every wedding as such: a very special day that belongs only to you. Beautiful Italian Weddings loves weddings and is ready to help you show the world how much you love each other; and who better to do that than a company from the land of love? Her Italian background makes her brimming with imagination and creative ideas."
+        }
+      }
+    },
+    "slogan": "Wedding Photographer Lake Garda - Getting married on Lake Garda",
+    "kontakt": "Contact"
+  },
+  "pageHzFlorenz": {
+    "meta": {
+      "title": "Getting married in Tuscany - Everything you need to know! ☀",
+      "description": "Getting married in Tuscany? Everything you need to know for your wedding in Tuscany and the best wedding locations in Tuscany."
+    },
+    "title": "Wedding in Tuscany <br> </br> Getting married in Italy",
+    "subTitle": "Getting married in Mediterranean Tuscany",
+    "link": "To the website",
+    "einleitung": {
+      "title": "Wedding in Tuscany - Everything you need to know about wedding planning for a wedding in Tuscany",
+      "subTitle": "Marry in Tuscany",
+      "content": "Wedding Photographer Tuscany - You have decided to tie the knot and organize a wedding in Tuscany. I would like to congratulate you on that. Now it's time to plan the wedding. Would you like to have this take place in front of a breathtaking backdrop? <br> </br> <br> </br> Then I would like to recommend a wedding in Florence. In this guide, I'll tell you everything you need to know about getting married in Florence, other beautiful places to get married, and how to get a wedding photographer in Florence.",
+      "btn": "Contact"
+    },
+    "warum": {
+      "titel": "Why a wedding in Tuscany is so special",
+      "content1": "Getting married in Tuscany - You have made the wonderful decision to tie the knot in picturesque Tuscany. The focus is now on organizing your dream wedding. Are you dreaming of a ceremony in front of an impressive panorama? Then I heartily recommend a wedding in Tuscany. In this guide, I'll reveal all the secrets you need to know for getting married in Florence and other enchanting wedding venues, and how to find the perfect Florence wedding photographer."
+    },
+    "location": {
+      "title": "Wedding locations in Tuscany",
+      "subTitle": "Getting married in Tuscany - The best wedding locations in Tuscany",
+      "loca1": {
+        "subTitle": "Wedding location Florence",
+        "content": "Wedding photographer Tuscany - For your unique wedding celebration in Tuscany, I would like to recommend Vincigliata Castle and a suitable wedding photographer on site. This stunning location nestled in the hills of Fiesole forms a perfect backdrop for the wedding photographer in Florence. Not far from the city, you can celebrate an unforgettable Italian wedding here and exchange vows in the picturesque gardens or on the picturesque terrace. With its spacious inner courtyard, the castle proves to be the ideal setting for your wedding celebration in Tuscany. It offers your guests and the wedding photographer enough space for an atmospheric celebration and outstanding photos. The wedding photographer will take you to the surrounding vineyards to capture you in front of this impressive backdrop. A special feature of this place are the torches that are placed around the castle - a magical sight that the wedding photographer will surely capture in pictures."
+      },
+      "loca2": {
+        "subTitle": "Marry in Tuscany",
+        "content": "Not far from the Castello di Vincigliata is the enchanting Villa di Maiano, where you can choose to have your Tuscan wedding indoors or outdoors. Suitable locations, complete with a wedding photographer from Tuscany, are available here in different variations. I advise you to tie the knot under the old oak boughs and then move your celebration to the ballroom to have your first dance under the historic chandeliers. There is also the option to include the nearby Church of San Maerino a Maiano in your festivities if a Catholic ceremony is on your wish list. There is space for over 200 guests and of course for the wedding photographer from Tuscany."
+      },
+      "loca3": {
+        "subTitle": "Wedding Photographer Tuscany",
+        "content": "Weddings in Tuscany - Visualize your dream wedding in the heart of Florence, surrounded by a centuries-old park overlooking the famous Boboli Gardens. At this point I would like to recommend the magnificent Villa Cora to you. This exclusive grand hotel awaits you with picture-perfect function rooms, including the Moresken Saal and the Hall of Mirrors. If the idea of ​​a wedding celebration under the Florentine sky inspires you, the spacious roof terrace with its 150 square meters offers enough space for your guests. Of course, the wedding photographer from Florence should not be missing, who captures this spectacular backdrop in unforgettable pictures."
+      },
+      "loca4": {
+        "subTitle": "Wedding location Tuscany",
+        "content": "In the heart of Florence, a stone's throw from the Uffizi Gallery and the Duomo, stands the magnificent Four Seasons Hotel. This historic villa offers space for up to 500 invited guests and allows you to have an unforgettable grand wedding in Tuscany. The ballroom of the monastery forms the ideal backdrop for your vows. As an alternative, I suggest you the Tempio lawn, surrounded by a garden that has existed for centuries. The Four Seasons also has an old chapel dating back to 1475. Your Florence wedding photographer will skillfully stage you in these impressive locations and give you incomparable souvenir photos."
+      },
+      "loca5": {
+        "subTitle": "Wedding Photographer Tuscany",
+        "content": "Wedding location Tuscany - Just below the famous Piazzale Michelangelo stretches the rose garden, which offers a breathtaking view of the city. A Japanese garden, numerous bronze statues and a variety of 350 different types of roses make this a fascinating setting for your wedding in Florence. From May to September, the garden terrace opens its doors for civil weddings. Of course, the wedding photographer from Tuscany is always present."
+      },
+      "loca6": {
+        "subTitle": "Marry in Tuscany",
+        "content": "Dreaming of getting married in a historic palace? Then the St. Regis in Florence is the right address for you. From here, beautiful panoramas of the city's famous sights and the Arno River open up. Regardless of whether you are planning an intimate celebration or a large event: the hotel offers flexible rooms for every event size. The largest hall can accommodate 250 guests, who can of course also be accommodated in the hotel. All you have to do is book the wedding photographer from Florence and the unforgettable celebration can begin."
+      }
+    },
+    "benotigen": {
+      "title": "Getting married in Italy <br> </br> what do you need for your wedding in Tuscany?",
+      "subTitle": "Weddings in Tuscany - wedding photographer Florence",
+      "content": "Wedding Photographer Tuscany - Do you have American citizenship? <br> </br> Don't be put off by the bureaucracy, getting married in Italy is definitely doable. Get an Atto Notorio at the Italian Consulate before leaving the United States. <br> </br> <br> </br> For the wedding you will need your two birth certificates, any previous marriage certificates and the decreto assoluto. If applicable, you will also need the certified and translated death certificate of the ex-spouse. Your passport will be stamped at the border. In addition, you must make an appointment for your wedding in Tuscany at the American consulate and fill out the so-called nulla osta form. After the wedding, you must take your marriage license to the Prefettura to have it legalized for the United States. And of course, the wedding photographer from Florence is an indispensable part of your preparations."
+    },
+    "kosten": {
+      "title": "How much <br> </br> does a wedding in Florence / Tuscany / Italy cost",
+      "subTitle": "How much does a wedding in Italy or Florence / Tuscany cost",
+      "content": "It's difficult to give a one-size-fits-all answer to this question as the cost will vary greatly depending on the nature of your celebration. Rather, consider how much you are willing to invest in your wedding in Tuscany and the wedding photographer from Florence to create an unforgettable experience for you and your guests. <br> </br> As a rough estimate, you should budget at least €15,000 for a wedding in Florence with around 65 guests - including a wedding photographer from Tuscany."
+    },
+    "hochzeitsplaner": {
+      "title": "The best wedding planners in Tuscany",
+      "subTitle": "Wedding planners in Florence / Tuscany that I can recommend",
+      "planer": {
+        "plan1": {
+          "content": "If you are planning to get married in Tuscany and attach great importance to competent wedding planners and a professional wedding photographer from Florence, Sara and her team are the right choice for you. Let us help you find the perfect venue, deal with the paperwork and all aspects of your wedding planning. The search for the right wedding photographer from Florence can also be taken over by Floé Weddings. If you only want a partial service for your wedding planning, this is also possible."
+        },
+        "plan2": {
+          "content": "The company's founder and CEO, Rita, has roots in France, Rome and New York. Together with her team, she has settled in Florence and is dedicated to organizing your luxury wedding, including a wedding photographer, in Tuscany. Trust in a multilingual team that, in combination with a wedding photographer from Tuscany, will make your event an unforgettable and stress-free experience."
+        },
+        "plan3": {
+          "content": "With Mariane and her team you will meet real specialists for destination weddings and elopements in Italy. Based in Florence, the team offers comprehensive wedding planning, including the placement of a professional Florence wedding photographer."
+        },
+        "plan4": {
+          "content": "This is yet another wedding planning agency in Florence - in fact, the first to specialize in English speaking clients. The team cooperates with other wedding service providers in the region and the best venues. They will be happy to help you overcome language barriers and will also take care of finding the right wedding photographer in Tuscany."
+        }
+      }
+    },
+    "slogan": "Marry in Tuscany",
+    "kontakt": "Contact"
+  }
+}

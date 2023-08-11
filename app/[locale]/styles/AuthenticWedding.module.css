@@ -1,0 +1,29 @@
+.authentic {
+  background-image: url("../../../public/img/home/Hochzeitsfotograf-Starnberg-Hintergrundbild-min.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 25vh 0;
+  text-align: center;
+  filter: brightness(1);
+  filter: contrast(0.75);
+}
+
+.authentic h3,
+.authentic h6 {
+  color: var(--white);
+  text-transform: uppercase;
+}
+
+.authentic hr {
+  width: 25vw;
+  margin: 20px 0 40px 0;
+}
+
+.authentic h3 {
+  max-width: 800px;
+}

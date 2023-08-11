@@ -1,0 +1,23 @@
+.impressum {
+  padding: 0 5vw 6rem 5vw;
+}
+
+.impressum .hero {
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 6rem;
+}
+
+.hero hr {
+  margin: 2rem auto 0 auto;
+}
+
+.impressum span {
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.impressum p {
+  margin-bottom: 3rem;
+  text-align: center;
+}

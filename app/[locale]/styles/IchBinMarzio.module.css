@@ -1,0 +1,40 @@
+.ichBinMarzio {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 120px;
+  margin: 5vw;
+}
+
+.ichBinMarzio img {
+  object-fit: cover;
+}
+
+.ichBinMarzio article {
+  width: 40%;
+}
+
+.ichBinMarzio article div {
+  height: 50px;
+  width: 1px;
+  background-color: var(--text-black);
+  margin: 30px auto;
+}
+.ichBinMarzio h4 {
+  text-transform: uppercase;
+}
+
+.ichBinMarzio h6,
+.ichBinMarzio h4 {
+  text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+  .ichBinMarzio {
+    flex-direction: column;
+  }
+  .ichBinMarzio article {
+    width: 80%;
+    text-align: center;
+  }
+}

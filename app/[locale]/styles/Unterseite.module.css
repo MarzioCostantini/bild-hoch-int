@@ -1,0 +1,397 @@
+/*******************************************
+BASIC
+*******************************************/
+
+.Unterseite h1,
+.Unterseite h2,
+.Unterseite h3,
+.Unterseite h4,
+.Unterseite h5 {
+  text-transform: uppercase;
+}
+
+/*******************************************
+HEADER
+*******************************************/
+
+.HeroUnterseite {
+  display: flex;
+  flex-direction: column;
+}
+.wrapperInner {
+  background-image: url("https://res.cloudinary.com/dzlk6w9fd/image/upload/v1689686554/Pages/Home/Titelbild_Hochzeitsfotograf_kgk1w7.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  z-index: 1;
+  padding: 15px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+.HeroUnterseite h1 {
+  margin: 0 0 15px 0;
+}
+
+.HeroUnterseite h1,
+.HeroUnterseite h2 {
+  color: var(--white);
+  text-align: center;
+}
+.herocontent {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  height: 100vh;
+  margin-bottom: 70px;
+}
+.HeroUnterseite h2 {
+  font-family: CodePen, Arial, Helvetica, sans-serif;
+  font-size: clamp(1.6rem, 2.5vw, 1.8rem);
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: var(--white);
+  font-weight: lighter;
+}
+.HeroUnterseite nav a {
+  color: var(--white);
+}
+
+.HeroUnterseite .line {
+  height: 30px;
+  width: 1px;
+  margin: 15px auto 25px auto;
+  background-color: white;
+}
+.HeroUnterseite nav svg {
+  fill: var(--white);
+}
+
+.HeroUnterseite nav section {
+  border-color: var(--white);
+}
+
+.freeWeddingDates {
+  position: fixed;
+  bottom: 0;
+  z-index: 10;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+/*******************************************
+THREE IMG
+*******************************************/
+
+.threeImg {
+  background-color: var(--main-color);
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding: 180px 100px;
+  gap: 100px;
+}
+
+.threeImg:first-child {
+  margin-top: 80vh;
+}
+
+.threeImg article {
+  width: 50%;
+}
+
+.threeImg .imgwrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.imgwrapper div:last-child {
+  margin: -100px 0 0 -30px;
+}
+
+.threeImg h2 {
+  font-size: clamp(3rem, 3vw, 4rem);
+}
+
+.threeImg h6,
+.threeImg p {
+  margin: 0 0 30px 0;
+}
+
+/*******************************************
+ONEIMG
+*******************************************/
+
+.oneImg {
+  background-color: var(--secondary-color);
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding: 200px 100px;
+  gap: 60px;
+}
+
+.oneImg article {
+  width: 50%;
+}
+
+.oneImg h3 {
+  margin-bottom: 30px;
+}
+
+/*******************************************
+LOCATION
+*******************************************/
+
+.location {
+  padding: 120px 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: var(--secondary-color);
+}
+
+.location .headline {
+  text-align: center;
+}
+
+.headline div {
+  height: 1px;
+  width: 40vw;
+  background-color: var(--text-black);
+  margin: auto;
+  margin-bottom: 60px;
+}
+
+.headline h2 {
+  margin-bottom: 15px;
+}
+
+.headline h6 {
+  margin-bottom: 60px;
+}
+
+.location article {
+  display: flex;
+  align-items: center;
+  gap: 60px;
+  border-bottom: 1px solid var(--text-light);
+  padding: 60px;
+}
+
+.location article:last-child {
+  border: none;
+}
+
+.data {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 30%;
+}
+
+.data h4 {
+  font-family: CodePen, Arial, Helvetica, sans-serif;
+  font-size: 1.6rem;
+  font-size: clamp(1.6rem, 2.5vw, 1.8rem);
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: var(--text-light);
+  font-weight: lighter;
+  margin-bottom: 15px;
+}
+
+.data h3 {
+  font-family: CodePen, Arial, Helvetica, sans-serif;
+  font-size: clamp(2.5rem, 3vw, 3.2rem);
+  margin-bottom: 15px;
+}
+
+.number {
+  font-size: clamp(3rem, 10vw, 12rem);
+  width: 5%;
+}
+
+.text {
+  width: 80%;
+}
+
+/*******************************************
+WhatYouNeed
+*******************************************/
+
+.whatYouNeed {
+  background-color: var(--main-color);
+  padding: 120px 100px;
+  text-align: center;
+}
+
+.whatYouNeed h2 {
+  margin-bottom: 15px;
+}
+
+.whatYouNeed h6 {
+  margin-bottom: 30px;
+}
+
+.whatYouNeed p {
+  margin: 60px auto 0 auto;
+  max-width: 70vw;
+}
+
+/*******************************************
+KOSTEN
+*******************************************/
+
+.kosten {
+  padding: 120px 60px;
+  text-align: center;
+  background-color: var(--bg-white);
+}
+
+.kosten h6 {
+  margin-bottom: 60px;
+}
+.kosten p {
+  margin: 60px auto;
+  max-width: 70vw;
+}
+
+.kosten .img {
+  display: flex;
+  justify-content: center;
+  gap: 120px;
+}
+.kosten div div:nth-of-type(2) {
+  margin: 50px 0;
+}
+
+/*******************************************
+HOCHZEITSPLANER
+*******************************************/
+
+.weddingPlaner {
+  background-color: var(--secondary-color);
+  padding: 120px 100px;
+}
+
+.headlinePlaner {
+  text-align: center;
+}
+
+.weddingPlaner div h6 {
+  margin-bottom: 60px;
+}
+
+.weddingPlaner div div {
+  margin-bottom: 60px;
+}
+
+.weddingPlaner article {
+  border-bottom: 1px solid var(--text-black);
+  padding: 60px;
+  display: flex;
+  gap: 60px;
+}
+
+.numberPlaner {
+  font-family: NoireEtBlanc, Arial, Helvetica, sans-serif;
+  font-size: clamp(1.8rem, 2.2vw, 8rem);
+  margin-top: 18px;
+}
+.PlanContent h3 {
+  margin-bottom: 20px;
+}
+
+.PlanContent p {
+  margin-bottom: 30px;
+}
+
+.weddingPlaner article:last-child {
+  border: none;
+}
+
+/*******************************************
+TABLET
+*******************************************/
+
+@media only screen and (max-width: 768px) {
+  /*THREE IMG*/
+  .threeImg {
+    flex-direction: column;
+    padding: 100px 60px;
+    margin-top: 95vh;
+  }
+  .threeImg article {
+    width: 100%;
+  }
+
+  .imgwrapper div:last-child {
+    margin: -100px 0 0 -30px;
+    z-index: 1;
+  }
+
+  .threeImg a {
+    margin-bottom: 100px;
+  }
+
+  /*LOCATION*/
+  .location {
+    padding: 100px 60px;
+  }
+  .location article {
+    flex-direction: column;
+    padding: 60px 0;
+    border: 1px solid var(--text-light);
+    margin: 30px;
+    text-align: center;
+  }
+
+  .location article:last-child {
+    border: 1px solid var(--text-light);
+  }
+  .location .data {
+    width: 60%;
+  }
+
+  /*KOSTEN*/
+  .kosten .img {
+    gap: 15px;
+  }
+
+  /*WEDDING PLANER*/
+  .weddingPlaner article {
+    flex-direction: column;
+    padding: 60px 0;
+  }
+}
+
+/*******************************************
+HANDY
+*******************************************/
+
+@media only screen and (max-width: 576px) {
+  /*ONEIMG*/
+  .oneImg {
+    flex-direction: column;
+    padding: 100px 60px;
+  }
+
+  .oneImg article {
+    width: 90%;
+  }
+
+  .oneImg article:last-child {
+    order: -1;
+  }
+  /*LOCATION*/
+  .location {
+    padding: 60px 10px;
+  }
+}

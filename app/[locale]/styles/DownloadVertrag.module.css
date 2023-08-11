@@ -1,0 +1,9 @@
+.vertrag {
+  background-color: var(--main-color);
+  padding: 30px;
+  text-align: center;
+}
+
+.vertrag h6 {
+  margin-bottom: 60px;
+}

@@ -1,0 +1,97 @@
+.heroWelcome {
+  padding: 6vh 0vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 85vh;
+}
+
+.heroWelcome h1 {
+  line-height: 80px;
+  margin-bottom: 25px;
+  font-size: 50px;
+  text-transform: uppercase;
+}
+
+.heroWelcome h2 span {
+  text-transform: uppercase;
+  font-size: 60px;
+}
+
+.heroWelcome hr {
+  width: 10vw;
+  background-color: black;
+  height: 3px;
+  margin-bottom: 35px;
+}
+
+.heroWelcome p {
+  margin-bottom: 50px;
+  max-width: 70vw;
+}
+
+.heroWelcome div p {
+  font-family: NoireEtBlanc, Arial, Helvetica, sans-serif;
+  font-size: clamp(2.5rem, 3vw, 3.2rem);
+  color: var(--text-black);
+  font-weight: lighter;
+  line-height: 50px;
+  margin: 2vw;
+}
+.heroWelcome div:nth-of-type(1) {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 35px;
+}
+
+.heroWelcome div:nth-of-type(1) h5 {
+  width: 25vw;
+}
+.heroWelcome div:nth-of-type(1) hr {
+  margin: 0;
+}
+
+/**************************
+RESPONSIV 
+***************************/
+@media only screen and (max-width: 900px) {
+  .heroWelcome {
+    margin-top: 100vh;
+  }
+
+  .heroWelcome div:nth-of-type(1) hr {
+    display: none;
+  }
+  .heroWelcome div:nth-of-type(1) {
+    flex-direction: column;
+  }
+  .heroWelcome div:nth-of-type(1) h5 {
+    width: auto;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .heroWelcome h2 {
+    font-size: 4.5rem;
+  }
+
+  .heroWelcome h2 span {
+    font-size: 4.9rem;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .heroWelcome h2 {
+    font-size: 3.5rem;
+    line-height: 60px;
+  }
+  .heroWelcome h2 span {
+    font-size: 3.6rem;
+  }
+
+  .heroWelcome p {
+    max-width: 85vw;
+  }
+}

@@ -1,0 +1,34 @@
+.hero {
+  display: flex;
+  flex-direction: column;
+}
+
+.wrapperInner {
+  background-image: url("https://res.cloudinary.com/dzlk6w9fd/image/upload/v1689686554/Pages/Home/Titelbild_Hochzeitsfotograf_kgk1w7.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  z-index: 1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+.hero nav a {
+  color: var(--white);
+}
+
+.hero nav svg {
+  fill: var(--white);
+}
+
+.hero nav section {
+  border-color: var(--white);
+}
+
+.momenteHome {
+  background-color: var(--secondary-color);
+}

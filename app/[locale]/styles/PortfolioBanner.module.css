@@ -1,0 +1,40 @@
+.portfolio {
+  background-color: var(--secondary-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+  flex-wrap: nowrap;
+}
+
+.portfolio hr {
+  height: 2px;
+  width: 13vw;
+  margin: 4vw 3vw;
+}
+
+.portfolio hr:nth-of-type(2) {
+  width: 8vw;
+}
+
+.portfolio h3,
+.portfolio a {
+  text-transform: uppercase;
+}
+
+.portfolio a {
+  width: 250px;
+}
+
+@media only screen and (max-width: 768px) {
+  .portfolio {
+    flex-direction: column;
+    text-align: center;
+  }
+  .portfolio a {
+    width: auto;
+  }
+  .portfolio hr:nth-of-type(2) {
+    width: 13vw;
+  }
+}

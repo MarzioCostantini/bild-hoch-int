@@ -1,0 +1,30 @@
+.kontaktForm .error {
+  color: red;
+  margin: -15px 0 15px 0;
+}
+
+.kontaktForm div {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.feedback {
+  color: white;
+  background-color: rgb(35, 120, 35);
+  width: 50vw;
+  text-align: center;
+  padding: 15px;
+  border-radius: 15px;
+  margin-top: 30px;
+}
+
+.feedback span {
+  display: block;
+  margin-bottom: 15px;
+}
+
+@media only screen and (max-width: 768px) {
+  .feedback {
+    width: 80vw;
+  }
+}

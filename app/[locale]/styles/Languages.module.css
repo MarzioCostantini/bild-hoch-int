@@ -1,0 +1,7 @@
+.lang {
+  position: relative;
+}
+
+.lang p {
+  cursor: pointer;
+}

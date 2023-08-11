@@ -1,0 +1,60 @@
+.homeText {
+  background-color: var(--main-color);
+  text-align: center;
+  padding: 15vh 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.homeText article {
+  max-width: 70vw;
+}
+.homeText h2,
+.homeText h3 {
+  text-transform: uppercase;
+  font-size: 4rem;
+}
+
+.homeText h6 {
+  margin-bottom: 60px;
+}
+
+.links {
+  margin: 20px 0;
+}
+
+.homeText h3 {
+  margin-bottom: 60px;
+}
+.homeText p:nth-of-type(3) {
+  margin-bottom: 60px;
+}
+
+.homeText p {
+  margin-bottom: 15px;
+}
+.homeText hr {
+  margin: 0 auto 60px auto;
+  width: 50vw;
+}
+@media only screen and (max-width: 768px) {
+  .homeText article {
+    max-width: 95vw;
+  }
+  .homeText h2,
+  .homeText h3 {
+    font-size: 3.5rem;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .homeText h2,
+  .homeText h3 {
+    font-size: 2.5rem;
+  }
+
+  .homeText {
+    padding: 10vh 5vh;
+  }
+}

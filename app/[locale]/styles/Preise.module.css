@@ -1,0 +1,90 @@
+.preise {
+  margin: 7vh 5vw;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.preise article {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 30px;
+  border-radius: 70px 0 70px 0;
+  width: 20vw;
+}
+
+.preise ul {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.preise article p {
+  margin: 0 0 30px 0;
+}
+.preise article a {
+  margin-bottom: 60px;
+}
+
+.preise article h3 {
+  font-family: CodePen, Arial, Helvetica, sans-serif;
+  font-size: clamp(1.8rem, 1.8vw, 2.2rem);
+  text-transform: uppercase;
+  margin-bottom: 3rem;
+  text-align: center;
+}
+.preise article div {
+  height: 1px;
+  background-color: var(--text-black);
+  width: 40%;
+  margin-bottom: 30px;
+}
+
+.preise article li {
+  margin: 10px 0 10px 0;
+}
+
+.preise article ul {
+  margin-bottom: 30px;
+  list-style: none;
+}
+
+.disable {
+  opacity: 0.4;
+}
+
+/*EINZELNE*/
+
+.preise article:first-child {
+  background-color: #e2dcca;
+}
+.preise article:nth-of-type(2) {
+  background-color: #e2dccaa5;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.118);
+}
+.preise article:nth-of-type(3) {
+  background-color: #e2dcca4e;
+}
+.preise article:nth-of-type(4) {
+  background-color: #e2dcca3b;
+  position: relative;
+}
+
+.preise article:nth-of-type(4) p:last-child {
+  font-size: 12px;
+  text-align: center;
+  line-height: 15px;
+  position: absolute;
+  bottom: 0;
+}
+
+@media only screen and (max-width: 1000px) {
+  .preise {
+    flex-direction: column;
+    align-items: center;
+  }
+  .preise article {
+    width: 80vw;
+  }
+}

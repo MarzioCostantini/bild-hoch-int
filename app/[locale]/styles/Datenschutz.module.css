@@ -1,0 +1,23 @@
+.datenschutz {
+  padding: 0 5vw 6rem 5vw;
+}
+
+.datenschutz .hero {
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 6rem;
+}
+
+.hero hr {
+  margin: 2rem auto 0 auto;
+}
+
+.datenschutz span {
+  display: block;
+  margin: 2rem 0;
+  font-weight: bold;
+}
+
+.datenschutz p {
+  margin-bottom: 3rem;
+}

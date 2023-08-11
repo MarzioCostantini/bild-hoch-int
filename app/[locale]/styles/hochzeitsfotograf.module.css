@@ -1,0 +1,88 @@
+.hochzeitsfotograf {
+  background-color: var(--main-color);
+  text-align: center;
+  padding: 15vh 0;
+}
+
+.hochzeitsfotograf h2 {
+  text-transform: uppercase;
+  max-width: 70vw;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.hochzeitsfotograf h6 {
+  margin-bottom: 60px;
+}
+
+.hochzeitsfotograf p {
+  font-size: 30px;
+  max-width: 55vw;
+  line-height: 50px;
+  margin: 0 auto 60px auto;
+}
+
+.hochzeitsfotograf article {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3vw;
+}
+
+.hochzeitsfotograf article div {
+  display: flex;
+  flex-direction: column;
+}
+
+.hochzeitsfotograf .img01 {
+  margin: 10vh 0 0 0;
+}
+.hochzeitsfotograf .img02 {
+  margin: 0 0 10vh 0;
+}
+
+.imgCol {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 10px;
+}
+
+.hochzeitsfotograf .imgCol div:nth-of-type(1) {
+  margin: 5vh 0 0 0;
+}
+
+.hochzeitsfotograf .imgCol div:nth-of-type(2) {
+  margin: 0 0 5vh 0;
+}
+
+@media only screen and (max-width: 768px) {
+  .hochzeitsfotograf article {
+    flex-direction: column;
+  }
+  .hochzeitsfotograf h1 {
+    margin-top: 30px;
+    max-width: 95vw;
+  }
+
+  .hochzeitsfotograf p {
+    max-width: 90vw;
+    font-size: 24px;
+    line-height: 40px;
+  }
+  .hochzeitsfotograf .img01,
+  .hochzeitsfotograf .img02 {
+    display: none;
+  }
+  .hochzeitsfotograf {
+    padding: 10vh 0;
+  }
+
+  .hochzeitsfotograf .imgCol div:nth-of-type(1) {
+    margin: 0 0 25vh 0;
+  }
+
+  .hochzeitsfotograf .imgCol div:nth-of-type(2) {
+    margin: 0 0 15vh 0;
+  }
+}
