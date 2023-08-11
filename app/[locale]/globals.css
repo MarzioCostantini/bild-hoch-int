@@ -61,8 +61,8 @@ img {
   object-fit: cover;
   position: relative;
   z-index: 1;
-  height: auto;
-  width: auto;
+  /* height: auto;
+  width: auto; */
 }
 a {
   cursor: pointer;

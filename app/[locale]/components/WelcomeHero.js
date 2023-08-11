@@ -29,7 +29,7 @@ const WelcomeHero = () => {
             height={350}
             width={350}
             alt="Hochzeitsfotograf München"
-            // style={{ width: "100%", height: "auto" }}
+            style={{ width: "100%", height: "auto" }}
           />
         </div>
         <p>
