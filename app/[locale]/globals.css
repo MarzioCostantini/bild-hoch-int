@@ -454,6 +454,10 @@ nav option {
   nav ul div {
     padding: 0 10px;
   }
+
+  .light-font p {
+    color: var(--text-black) !important;
+  }
 }
 
 @media screen and (max-width: 870px) {
