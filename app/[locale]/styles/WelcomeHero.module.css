@@ -10,8 +10,9 @@
 .heroWelcome h1 {
   line-height: 80px;
   margin-bottom: 25px;
-  font-size: 50px;
+  font-size: clamp(3rem, 4vw, 5rem);
   text-transform: uppercase;
+  padding: 1vw;
 }
 
 .heroWelcome h2 span {
