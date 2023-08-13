@@ -16,11 +16,76 @@ export async function generateMetadata({ params: { locale } }) {
   };
 }
 
+const jsonLd = [
+  {
+    "@context": "http://schema.org",
+    "@type": "Article",
+    articleSection: ["Hochzeit", "Heiraten auf Mallorca"],
+    articleBody: "Hochzeit Mallorca",
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Article",
+    name: "Heiraten auf Mallorca",
+    articleSection:
+      "Heiraten auf der bezaubernden Insel Mallorca - Als Hochzeitsfotograf auf Mallorca kann ich mit Sicherheit sagen, dass es die prächtigste aller Inseln ist. Schon vor vielen Jahren habe ich mich in den unwiderstehlichen Charme der Insel verliebt und bin seither als Hochzeitsfotograf auf Mallorca tätig. Wenn ihr euch nichts Schöneres vorstellen könnt, als auf dieser Insel euer Eheversprechen zu geben, ist dieser Gedanke absolut nachvollziehbar. Unabhängig von der Hochzeitslocation auf Mallorca bietet die Insel eine beeindruckende Atmosphäre und verleiht eurer Feier ein passendes und ebenso unvergessliches Ambiente. Seit einigen Jahren begleite ich mehrmals pro Saison Paare auf ihrem Weg zum Altar. Eine Hochzeit auf Mallorca ist keineswegs kompliziert, sollte aber gut geplant sein. Aus diesem Grund biete ich euch neben meiner Haupttätigkeit als Hochzeitsfotograf auf Mallorca an, wichtige Kontakte für die Hochzeitsplanung zu vermitteln und darüber hinaus die passende Hochzeitslocation auf Mallorca gemeinsam mit euch zu finden.",
+    articleBody:
+      "Alles Wissenswerte rund um das Thema Hochzeitsplanung für die Hochzeit Mallorca",
+    url: "https://bild-hochzeit.de/kontakt",
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Article",
+    articleSection:
+      "Für meine stets verliebten Kunden bin ich in ganz Europa unterwegs, um die perfekten Kulissen für beeindruckende Fotos zu finden. Doch meine Arbeit als Hochzeitsfotograf auf Mallorca ist mir besonders ans Herz gewachsen. Mit Stolz kann ich sagen, dass ich diese traumhafte Insel wie meine Westentasche kenne. Mit meiner Unterstützung und meinem Gespür für die perfekten Momente wird eure Hochzeit auf Mallorca zu einem unvergesslichen Erlebnis. Sowohl privat als auch beruflich zieht es mich seit vielen Jahren immer wieder auf die Insel. Dort angekommen, freue ich mich jedes Mal aufs Neue, als Hochzeitsfotograf auf Mallorca die schönsten Momente festzuhalten und euch eine bleibende Erinnerung an diesen besonderen Tag mit auf den gemeinsamen Lebensweg zu geben. Heiraten Mallorca - Generell solltet ihr bei euren Planungen bedenken, dass eine Hochzeit auf Mallorca in Bezug auf die Organisation eine anspruchsvolle Aufgabe darstellen kann. Ich habe in der Vergangenheit bereits mit vielen Dienstleistern auf der Insel zusammengearbeitet, daher kann ich euch mit meinen Kontakten und Erfahrungen zur Seite stehen. Von der Auswahl des Hochzeitsmenüs bis hin zur Suche nach der perfekten Hochzeitslocation auf Mallorca sollten wir in der Lage sein, einen detaillierten Plan für eure Traumhochzeit zu erstellen.",
+    articleBody: "Warum eine Hochzeit auf Mallorca so schön ist",
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Article",
+    name: "Heiraten Mallorca",
+    articleSection:
+      "In Übereinstimmung mit eurer ausgewählten Hochzeitslocation auf Mallorca erstelle ich eine emotionale und authentische Bildreportage von diesem besonderen Tag in eurem Leben. Mein Ziel ist es, lebendige und dynamische Bilder von eurer Hochzeit, euch selbst sowie euren Freunden und Familienmitgliedern zu schaffen. Diese Bilder sollen auch nach vielen Jahren noch Gänsehautmomente hervorrufen. Als Hochzeitsfotograf auf Mallorca ist es meine Hauptaufgabe, mich diskret im Hintergrund zu bewegen und dennoch professionelle Aufnahmen zu machen. Eine Hochzeit auf Mallorca sollte für euch nicht nur vergleichbar mit einem Inselurlaub sein, sondern auch euren einzigartigen Moment in einer unvergesslichen Atmosphäre festhalten. Ich sehe meine Arbeit als Hochzeitsfotograf auf Mallorca erst dann als erfolgreich an, wenn ihr mir vertraut und euch bei mir wohl fühlt. Ich freue mich auf euch und eure kreativen Ideen für den großen Tag.",
+    articleBody:
+      "Hochzeit auf Mallorca: Gefühlvolle und authentische Aufnahmen von eurem besonderen Tag auf Mallorca",
+    url: "https://bild-hochzeit.de/kontakt",
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Article",
+    name: "Heiraten auf Mallorca - Die 5 besten Hochzeitslocations auf Mallorca",
+    articleSection:
+      "Hochzeitslocation auf Mallorca Finca Santa Lucia Zur Webseite Wenn ihr schon immer davon überzeugt wart, dass eine Hochzeit auf Mallorca für euch das perfekte Erlebnis darstellt, dann seid ihr hier genau richtig. Die Finca Santa Lucia unterstreicht mit ihrem beeindruckenden Charme die Schönheit der gesamten Insel. Das Ambiente des Anwesens wird euch vom ersten Moment an verzaubern und bietet euch hinsichtlich der Gestaltung der Location jede Menge kreativen Spielraum. Als Hochzeitsfotograf auf Mallorca schätze ich die dortigen Lichtverhältnisse sowie die durchweg entspannte Atmosphäre der Umgebung. Hier könnt ihr euren besonderen Tag mit Stil und einem ebenso hohen Erholungsfaktor verbringen. Die Finca Santa Lucia ist ein zauberhaftes Stück spanischer Wohn- und Lebenskultur. 2 Heiraten auf Mallorca Finca Alaiar Zur Webseite Die Finca Alaiar ist ein Landgut im Herzen der Insel, nahe der Ortschaft Sencelles. Diese Hochzeitslocation auf Mallorca wird euch durch ihre eingefassten Landstraßen und schönen Trockensteinmauern, kombiniert mit Mandelhainen in der Umgebung, vom ersten Moment an verzaubern. Neben diesen ohnehin unvergesslichen Eindrücken profitiere ich als Hochzeitsfotograf auf Mallorca von der Tramuntana-Bergkette in der Ferne und kann euch wunderschöne Bilder versprechen. Die Ursprünge des Anwesens liegen in der maurischen Siedlung Alayar. Als die Christen unter der Führung von König Jakob I. das Gebiet zurückeroberten, ging das Gebiet in den Besitz des Grafen von Bearn, Gastó de Montcada, über. 3 Hochzeitsfotograf Mallorca Cap Rocat Zur Webseite Wenn ihr bei eurer Hochzeitslocation auf Mallorca großen Wert auf die kulinarische Verpflegung eurer Gäste legt, ist Cap Rocat die erste Adresse für euch. Die einstige Festung ist heute ein beliebtes Luxushotel und bietet durch seinen Schlosscharakter ein mittelalterliches und dennoch elegantes Ambiente. Als Hochzeitsfotograf auf Mallorca kenne ich kaum einen besseren Ort, an dem ihr eine atemberaubende Aussicht weit in das Meer und eine ebenso romantische Szenerie genießen dürft. Das Hotel beweist eine außerordentlich große Liebe zum Detail und wird euch in seinen Bann ziehen. Für besondere Momente ist dieses Luxushotel eine tolle Gelegenheit, den wichtigsten Tag in eurem gemeinsamen Leben mit dem gewissen Etwas unvergesslich hervorzuheben. 4 Hochzeitslocation Mallorca Carrossa Spa Villa Hotel Zur Webseite Für größere Hochzeitsgesellschaften darf ich euch das Carrossa Spa Villa Hotel nahelegen. Für das Heiraten auf Mallorca gilt diese Örtlichkeit als eine der besten, die es auf der Insel zu finden gibt. Die hier erbauten Villen verfügen über jede Menge Zimmer und perfekt gepflegte Gärten. In der Ferne könnt ihr darüber hinaus den Blick auf die Bergkette Serra de Llevant genießen und euch auf tolle Hochzeitsbilder vor dieser Kulisse freuen. Für viel Entspannung sorgen der Pool sowie das hoteleigene Spa. Die gesamte Anlage ist auf dem neuesten Stand der Technik. Ein erfahrenes Veranstaltungsteam überlässt bei eurer Hochzeit mit Sicherheit nichts dem Zufall. 5 Hochzeitslocation auf Mallorca Son Togores Zur Webseite Son Togores ist ein traumhafter Ort für eure bevorstehende Hochzeitsfeier. Die Location bezaubert durch das unverkennbare Flair der Insel und liegt trotzdem in angenehmer Nähe zum pulsierenden Zentrum von Palma. Ihr und eure Gäste könnt den Tag mit einem Stadtbummel in Palma abrunden und die einzigartige Atmosphäre genießen. Die Villa Son Togores ist ohne Zweifel einer der begehrtesten Orte für Hochzeiten auf Mallorca.",
+    articleBody: "Hochzeitslocations auf Mallorca  <BR/> für Euer Fest",
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Article",
+    name: "Was kostet eine Hochzeit auf Mallorca?",
+    articleSection:
+      "Kosten Mallorca Hochzeit - Eine pauschale Antwort auf diese Frage ist nicht möglich, da die Kosten für eine Hochzeit stark von der Art und Weise der Zeremonie abhängen. Überlegen Sie stattdessen, wie viel Sie bereit sind, für Ihre Hochzeit auf Mallorca und für den Hochzeitsfotografen auf Mallorca auszugeben, um ein unvergessliches Event für Sie und Ihre Gäste zu gestalten. Im Allgemeinen sollten Sie für eine Hochzeit auf Mallorca mit etwa 65 Gästen mindestens 15.000€ einplanen.",
+    articleBody: "Wieviel Kostet eine Hochzeit auf Mallorca?",
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Article",
+    name: "Hochzeitsplaner auf Mallorca die ich Empfehlen kann",
+    articleSection:
+      "01 Mallorca Love Story Dana und Karim sind das Duo, das Love Story Mallorca ins Leben gerufen hat. Sie sind nicht nur erfolgreiche Hochzeitsplaner auf Mallorca, sondern organisieren auch traumhafte Hochzeiten in Italien, Ibiza und auf den Malediven. Zur Webseite 02 Love Birds Mallorca Falls ihr auf der Suche nach Hochzeitsplanern auf Mallorca seid, möchte ich euch Sandra und Vanessa wärmstens empfehlen. Sie bilden ein unschlagbares Team und werden dafür sorgen, dass eure Hochzeit auf Mallorca zu einem unvergesslichen Erlebnis wird. Zur Webseite 03 Mallorca Boutique Weddings Katja und ihr Team, die sich auf Destination-Hochzeiten und Elopements auf Mallorca spezialisiert haben, heißen Sie herzlich willkommen. Mit ihrem Sitz direkt auf Mallorca bieten sie eine umfangreiche Hochzeitsplanung an, einschließlich eines Hochzeitsfotografen auf Mallorca.",
+    articleBody: "Die besten Hochzeitsplaner auf Mallorca",
+    url: "https://mallorca-boutique-weddings.com/",
+  },
+];
+
 const HochzeitsfotografMallorca = () => {
   const t = useTranslations("pageHzMallorca");
 
   return (
     <div className={styles.Unterseite}>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <header className={styles.HeroUnterseite}>
         <div className={styles.wrapperInner}>
           <div className={styles.herocontent}>

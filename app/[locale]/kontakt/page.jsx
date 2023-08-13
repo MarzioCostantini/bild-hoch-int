@@ -13,11 +13,24 @@ export async function generateMetadata({ params: { locale } }) {
   };
 }
 
+const jsonLd = {
+  "@context": "http://schema.org",
+  "@type": "Article",
+  name: "HOCHZEITSFOTOGRAF IN MÜNCHEN / STARNBERG / AUGSBURG / GARMISCH-PARTENKIRCHEN",
+  articleSection:
+    "Let´s Chat… :-) Ich freue sehr von euch zu hören! Gerne bin ich bei eurem großen Hochzeit für euch dabei, Egal ob ich Starnberg, München, Augsburg, Toskana, Gardasee, Comersee oder sonst wo auf der Welt! Solltet Ihr innerhalb 48 Stunden nichts von mir gehört haben könnt ihr mit gerne auch direkt an info@bild-hochzeit schreiben.",
+  articleBody: "MARZIO COSTANTINI",
+};
+
 const Kontakt = () => {
   const t = useTranslations();
 
   return (
     <main className={styles.kontakt}>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <section className={styles.from}>
         <h2>Let´s Chat… :-)</h2>
         <p className={styles.textcontent}>{t("pageKontakt.text")}</p>
