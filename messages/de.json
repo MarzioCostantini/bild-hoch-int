@@ -1,6 +1,5 @@
 {
   "menu": {
-    "home": "Home",
     "foto": "Foto",
     "kontakt": "Kontakt",
     "faq": "Faq",
@@ -492,5 +491,17 @@
     },
     "slogan": "Heiraten in der Toskana",
     "kontakt": "Kontakt"
+  },
+  "test": "ich bin ein test",
+
+  "blogPost1": {
+    "zeroConfig": "DEUTSCH 1 Works with zero config",
+    "customizable": "Easy to customize",
+    "fast": "Blazingly fast"
+  },
+  "blogPost2": {
+    "zeroConfig": "DEUTSCH 2 Works with zero config",
+    "customizable": "Easy to customize",
+    "fast": "Blazingly fast"
   }
 }

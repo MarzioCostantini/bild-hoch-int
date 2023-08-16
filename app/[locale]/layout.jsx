@@ -55,7 +55,6 @@ export default function RootLayout({ children, params }) {
         />
 
         <NavMarzio
-          home={t("menu.home")}
           foto={t("menu.foto")}
           kontakt={t("menu.kontakt")}
           faq={t("menu.faq")}

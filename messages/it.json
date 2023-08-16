@@ -1,6 +1,5 @@
 {
   "menu": {
-    "home": "Casa",
     "foto": "foto",
     "kontakt": "Contatto",
     "faq": "FAQ",
@@ -469,5 +468,17 @@
     },
     "slogan": "Sposarsi in Toscana",
     "kontakt": "Contatto"
+  },
+  "test": "i´o sono un testo ",
+
+  "blogPost1": {
+    "zeroConfig": "ITAL 1 Works with zero config",
+    "customizable": "Easy to customize",
+    "fast": "Blazingly fast"
+  },
+  "blogPost2": {
+    "zeroConfig": "ITAL 2 Works with zero config",
+    "customizable": "Easy to customize",
+    "fast": "Blazingly fast"
   }
 }

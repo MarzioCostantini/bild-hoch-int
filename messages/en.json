@@ -1,6 +1,5 @@
 {
   "menu": {
-    "home": "Home",
     "foto": "photo",
     "kontakt": "Contact",
     "faq": "FAQ",
@@ -469,5 +468,15 @@
     },
     "slogan": "Marry in Tuscany",
     "kontakt": "Contact"
+  },
+  "blogPost1": {
+    "zeroConfig": "ENGLISCH 1 Works with zero config",
+    "customizable": "Easy to customize",
+    "fast": "Blazingly fast"
+  },
+  "blogPost2": {
+    "zeroConfig": "ENGLISCH 2 Works with zero config",
+    "customizable": "Easy to customize",
+    "fast": "Blazingly fast"
   }
 }

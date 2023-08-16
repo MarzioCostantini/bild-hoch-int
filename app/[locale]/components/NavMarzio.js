@@ -8,12 +8,10 @@ import React, { useState } from "react";
 
 import { usePathname } from "next/navigation";
 import Languages from "./Languages";
-import LangSwitcher from "./LangSwitcher";
-import Cookies from "./Cookie";
 
 import CookieConsent from "react-cookie-consent";
 
-const NavMarzio = ({ home, foto, kontakt, faq, leistungen, about }) => {
+const NavMarzio = ({ foto, kontakt, faq, leistungen, about }) => {
   const link = usePathname();
 
   const [navActive, setNavActive] = useState(null);
@@ -53,7 +51,7 @@ const NavMarzio = ({ home, foto, kontakt, faq, leistungen, about }) => {
                     : "" || `${navActive ? "active" : ""} nav__menu-list`
                 }
               >
-                <Link href="/">{home}</Link>
+                <Link href="/">Home</Link>
               </li>
             </div>
             <div

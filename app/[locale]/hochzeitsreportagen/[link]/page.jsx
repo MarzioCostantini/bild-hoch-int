@@ -14,6 +14,8 @@ const Detail = ({ params }) => {
     return elt.link === link;
   });
 
+  console.log("FILTER -->", filterWedding);
+
   return (
     <main className={styles.weddingDetail}>
       {filterWedding.map((elt, index) => (
