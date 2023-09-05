@@ -30,7 +30,7 @@
   "cookie": {
     "text": "We use cookies on our website. Some of them are essential, while others help us to improve this website and your experience.",
     "akzeptieren": "Accept",
-    "ablehnen": "Reject"
+    "ablehnen": "Refuse"
   },
   "pageHome": {
     "meta": {
@@ -39,7 +39,7 @@
     },
     "welcomeHero": {
       "bigTitle": "Wedding photographer Munich",
-      "welcomeText": "Your wedding photographer Munich - Welcome to my website. Nice  that you're there! On my blog you will get insights into my previous work as your wedding photographer in Munich. As a wedding photographer, I create professional wedding reports for you in Munich. My goal is to capture in detail what makes you as a couple special on your wedding day in Munich. I love traveling! Therefore, I will not only accompany you at your wedding location in Munich, but also throughout the rest of the world. I'm ready for you around the globe. Instead of kitschy & staged pictures, I guarantee you authentic and natural photographs anywhere in the world that will always keep your memories fresh. I am telling your story as it happened.",
+      "welcomeText": "Your wedding photographer Munich - Welcome to my website. Nice that you're there! On my blog you will get insights into my previous work as your wedding photographer in Munich. As a wedding photographer, I create professional wedding reports for you in Munich. My goal is to capture in detail what makes you as a couple special on your wedding day in Munich. I love traveling! Therefore, I will not only accompany you at your wedding location in Munich, but also throughout the rest of the world. I'm ready for you around the globe. Instead of kitschy & staged pictures, I guarantee you authentic and natural photographs anywhere in the world that will always keep your memories fresh. I am telling your story as it happened.",
       "zusatztext1": "Real <br></br> Wedding Pictures",
       "zusatztext2": "Authentic <br></br> wedding reports",
       "buttonHero": "About me"
@@ -70,7 +70,7 @@
       "content2": "Do you love landscapes? Weddings surrounded by extraordinary landscapes are my favorites. It doesn't matter whether they take place in Tuscany or on a beautiful stretch of coast in Mallorca. That's why I love to photograph the wedding together with a beautiful landscape.",
       "content3": "Do you want to relax and enjoy your wedding day? Then we'll catch up on the couple photos in the after-wedding shoot.",
       "title2": "Unforgettable souvenirs of your wedding in Munich",
-      "content4": "Find out more on this website if you are looking for a wedding photographer in Munich. Take a look at my reports. My blog contains numerous pictures that I have photographed in Munich in the past. If you would like to book me or find out more about what I offer, then send me an email to ask a question or get a free, non-binding offer. I'm happy for you!"
+      "content4": "Find out more on this website if you are looking for a wedding photographer in Munich. Take a look at my reports. My blog contains numerous pictures that I have photographed in Munich in the past. If you would like to book me or find out more about what I offer, then send me an email to ask a question or get a free, non-binding offer. I look forward to you!"
     }
   },
   "pageHochzeitsreportagen": {
@@ -134,12 +134,12 @@
       "faq5": {
         "title": "How long should we plan for the couple shoot?",
         "subTitle": "Wedding photographer Starnberg",
-        "content": "That depends on where you want to do the couple shoot. Pure shooting time about 1 hour + driving time. <span> IMPORTANT: Please choose the sunset if possible! </span>"
+        "content": "That depends on where you want to do the couple shoot. Pure shooting time about 1 hour + travel time. <span> IMPORTANT: Please choose the sunset if possible! </span>"
       },
       "faq6": {
         "title": "How much time should we plan for Getting Ready?",
         "subTitle": "Getting Ready at Weddings",
-        "content": "That depends. As a rule, I start when the make-up artist is 60% done. In other words, I photograph the finishing touches. You should plan enough time so that I still have time to photograph the dress, flowers, stationery, etc. where you want to do the couple shooting. Pure shooting time about 1 hour + driving time. <span> IMPORTANT: Please choose the sunset if possible! </span>"
+        "content": "That depends. As a rule, I start when the make-up artist is 60% done. In other words, I photograph the finishing touches. You should plan enough time so that I still have time to photograph the dress, flowers, stationery, etc. where you want to do the couple shooting. Pure shooting time about 1 hour + travel time. <span> IMPORTANT: Please choose the sunset if possible! </span>"
       },
       "faq7": {
         "title": "What happens if the wedding photographer gets sick?",
@@ -278,7 +278,7 @@
       },
       "loca5": {
         "subTitle": "Wedding location on Mallorca",
-        "content": "Son Togores is a dream location for your upcoming wedding celebration. The location enchants with the unmistakable flair of the island and is still conveniently close to the pulsating center of Palma. You and your guests can round off the day with a stroll through Palma and enjoy the unique atmosphere. Villa Son Togores is without a doubt one of the most desirable wedding venues in Mallorca."
+        "content": "Son Togores is a dream location for your upcoming wedding celebration. The location enchants with the unmistakable flair of the island and is still conveniently close to the vibrant center of Palma. You and your guests can round off the day with a stroll through Palma and enjoy the unique atmosphere. Villa Son Togores is without a doubt one of the most desirable wedding venues in Mallorca."
       }
     },
     "kosten": {
@@ -469,14 +469,123 @@
     "slogan": "Marry in Tuscany",
     "kontakt": "Contact"
   },
-  "blogPost1": {
-    "zeroConfig": "ENGLISCH 1 Works with zero config",
-    "customizable": "Easy to customize",
-    "fast": "Blazingly fast"
-  },
-  "blogPost2": {
-    "zeroConfig": "ENGLISCH 2 Works with zero config",
-    "customizable": "Easy to customize",
-    "fast": "Blazingly fast"
+  "blog": {
+    "post1": {
+      "id": "6",
+      "title": "Wedding in the Orangery Castle Weikersheim",
+      "description": "Wedding at Weikersheim Castle - The two said yes in the Castle Church in Bad Mergentheim and then celebrated in the enchanting Orangery in Weikersheim Castle. The Schlosskirche in Bad Mergentheim was the perfect place for Jess and Rudi's wedding. The moment their eyes met and they exchanged vows was just magical. The Orangery in Weikersheim Castle was the ideal place to celebrate the start of their marriage. With its large windows, it created a bright and welcoming atmosphere. The lovingly designed decoration gave the room a very special glow. From the beautiful flower arrangements to the lovingly laid table, everything was perfect down to the smallest detail. As a wedding photographer, I had the privilege of capturing the precious moments of that special day. I was able to capture the emotions, love and happiness in my pictures. From the first kiss as a married couple to warm hugs and funny moments on the dance floor - it was just beautiful to capture all these unforgettable moments. Thanks for letting me be there.",
+      "shortDescription": "Wedding in the Orangery in Weikersheim Castle",
+      "favourite": "true",
+      "thumbnail": "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1689685180/hochzeitsreportagen/JessRudi/146a-Hochzeit-Orangerie-Schloss-Weikersheim_cssqso.jpg",
+      "date": "06/07/2023",
+      "link": "hochzeit-orangerie-schloss-weikersheim",
+      "keyword1": "Orangery Castle Weikersheim Wedding",
+      "keyword2": "Wedding Castle Weikersheim",
+      "cloudinaryTag": "JessRudi"
+    },
+    "post2": {
+      "id": "11",
+      "title": "Wedding on the Zugspitze - Sina and Marcel",
+      "description": "Sina and Marcel dared and chose nothing less than the Zugspitze, Germany's highest mountain, for their dream wedding. But before they tied the knot, we met at the Eibsee in the morning and took some photos. Sina and Marcel met for the first time on this special day at the Eibsee. When they saw each other in their wedding outfits, the chemistry was immediately palpable. Then it was off to the Zugspitze! In the cable car we enjoyed the breathtaking view of the surrounding peaks. The tension was palpable as we neared the pinnacle of their wedding. Once at the top, a spectacular panorama awaited us for the civil wedding. Despite the fresh 5 degrees and the limited visibility of 100 meters through the fog, Sina and Marcel said yes to family and friends. The soft light shimmering through the fog gave the ceremony a great atmosphere. After the wedding we used the unique location of the Zugspitze for more wedding photos. The fog gave the pictures a mysterious touch and made the scenery even more enchanting. Sina and Marcel beamed with happiness as they walked hand in hand through the soft mist. The photos perfectly captured their deep connection and the magic of this extraordinary day. Sina and Marcel's wedding on the Zugspitze will remain unforgettable. Your wedding on the Zugspitze will forever be anchored as a remarkable chapter in their shared history and inspire other couples to make their dreams come true. Sina and Marcel's wedding on the Zugspitze was an unforgettable chapter in their lives. They proved that romance and adventure can go hand in hand. Their decision to crown their love on Germany's highest peak will forever put a smile on their face.",
+      "shortDescription": "Wedding on the highest mountain in Germany - getting married on the Zuigspitze",
+      "link": "hochzeit-zugspitze",
+      "thumbnail": "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1689685506/hochzeitsreportagen/SinaMarcel/8-Hochzeit-Zugspitze_rh5nzm.jpg",
+      "favourite": "true",
+      "date": "10/07/2023",
+      "keyword1": "Wedding Zugspitze - mountain wedding",
+      "keyword2": "Getting married on the Zugspitze",
+      "cloudinaryTag": "SinaMarcel"
+    },
+    "post3": {
+      "id": "1",
+      "title": "Rustic boho wedding in Gauting - wedding photographer Gaurting",
+      "description": "A few days ago I was allowed to accompany a beautiful wedding in Gauting.",
+      "shortDescription": "Rustic boho wedding in Gauting - wedding photographer Gaurting",
+      "link": "hochzeit-in-gauting",
+      "thumbnail": "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1689682924/hochzeitsreportagen/JuliaNicolas/86-Hochzeitsfotograf-Gauting_ph6k3j.jpg",
+      "date": "25/05/22",
+      "favourite": "true",
+      "keyword1": "Wedding photographer Munich Augsburg and Starnberg",
+      "keyword2": "Wedding photographer Starnberg",
+      "cloudinaryTag": "JuliaNicolas"
+    },
+    "post4": {
+      "id": "2",
+      "title": "Barn wedding in Landgasthof Lenderstuben Balzhausen",
+      "description": "A few days ago I was allowed to photograph a beautiful wedding in the Lenderstuben in Balzhausen.",
+      "shortDescription": "Barn wedding in Landgasthof Lenderstuben Balzhausen",
+      "link": "hochzeit-landgasthof-lederstuben-balzhausen",
+      "thumbnail": "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1689682616/hochzeitsreportagen/KatharinaFred/82-landgasthof-lenderstuben-hochzeit_xszomz.jpg",
+      "date": "14/12/2022",
+      "favourite": "true",
+      "keyword1": "Wedding Photographer Munich - Getting married in Landgasthof Lenderstuben Balzhausen",
+      "keyword2": "--",
+      "cloudinaryTag": "CatherineFred"
+    },
+    "post5": {
+      "id": "3",
+      "title": "Mountain love in South Tyrol - Wedding on the Alpe di Siusi",
+      "description": "On this beautiful morning I was allowed to photograph the two of them at an after-wedding shoot on the Alpe di Siusi, the light and they were just perfect!",
+      "shortDescription": "Beautiful after-wedding wedding shoot on the Seisealm. Wedding photographer South Tyrol",
+      "link": "hochzeit-seiser-alm",
+      "thumbnail": "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1689682527/hochzeitsreportagen/PetraAnton/27-hochzeit-seiser-alm-dolomiten_gbc1a9.jpg",
+      "date": "31/12/22",
+      "favourite": "true",
+      "keyword1": "Wedding photographer South Tyrol",
+      "keyword2": "Wedding photographer Balzhause",
+      "cloudinaryTag": "PetraAnton"
+    },
+    "post6": {
+      "id": "4",
+      "title": "Couple shooting in Tuscany at sunset",
+      "description": "I photographed these two in beautiful Tuscany at sunset",
+      "shortDescription": "Beautiful couple wedding shoot in Tuscany. Wedding Photographer Tuscany",
+      "link": "hochzeiteitsfotograf-toskana",
+      "thumbnail": "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1689682790/hochzeitsreportagen/elisaDavide/20-hochzeitsfotograf-toskana_uoz4wu.jpg",
+      "date": "01/01/2023",
+      "favourite": "true",
+      "keyword1": "Wedding photographer Florence",
+      "keyword2": "Wedding Photographer Tuscany",
+      "cloudinaryTag": "ElisaDavide"
+    },
+    "post7": {
+      "id": "5",
+      "title": "Mediterranean Wedding in Italy - Lago di Braies",
+      "description": "I was allowed to photograph a beautiful Mediterranean wedding here in northern Italy. We did the pair shooting in Lago di Braies. What an incredibly beautiful setting",
+      "shortDescription": "Wedding in Italy with couple shooting at Lago di Braies at sunset - wedding photographer Italy",
+      "link": "hochzeit-lago-di-braies",
+      "thumbnail": "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1689682690/hochzeitsreportagen/FedericaEnrico/185-hochzeitsfotograf-toskana_hggaiw.jpg",
+      "date": "03/01/2023",
+      "favourite": "true",
+      "keyword1": "Wedding Photographer Italy",
+      "keyword2": "Wedding at Lago di Braies",
+      "cloudinaryTag": "Federica Enrico"
+    },
+    "post8": {
+      "id": "7",
+      "title": "Wedding in the Freihof - getting married between the vineyards",
+      "description": "Wedding in the Freihof Wedding photographer Würzburg accompanies weddings in the Hotel Freihof. Capturing the magic of the moment was my goal at Sarah and Michael's wedding in Freihof. The couple tied the knot in a picturesque location between the green vineyards. The dreamlike wedding in the Freihof took place at a small lake on the hotel grounds. As a wedding photographer from Würzburg, I was allowed to be there when the couple embarked on the adventure of getting married at the Hotel Freihof. The wedding in the Freihof - wedding photographer from Würzburg is there right from the start. I was allowed to accompany the dressing of the bride and groom with the camera and to accompany numerous emotional moments up close. Surrounded by family and friends, Sarah and Michael felt the excitement, but also the anticipation, growing. In sunny weather and pleasant temperatures, Sarah finally faced her Michael. I tried to capture the numerous emotions that were reflected on the faces of the bridal couple as well as on those of the guests as best as possible. The love, the emotion and the all-encompassing sense of joy were clearly felt throughout the ceremony. So it was not surprising that there were numerous tears of joy. After the wedding in the Freihof there is dancing - the wedding photographer from Würzburg is allowed to be there. After the dreamlike wedding in the Freihof and the emotional yes word, the wedding in the Freihof continued with cool drinks and delicious cake. The special atmosphere of getting married in the Freihof was clearly noticeable even at the first toast. The mood was relaxed and exuberant and everyone was happy about the happiness of the newly married couple. I made a small detour to the vineyards with the two of them to take authentic couple photos with them. Towards evening the party at the Freihof wedding was then moved to the Hotel Freihof, where not only was there a lot of talking and laughing, but also dancing and singing. The couple's first dance was just one of the highlights of the wedding in the Freihof. Wedding in the Freihof - An unforgettable experience Getting married in the Hotel Freihof, everything really fits together. the location the food and of course the bridal couple and their wonderful guests. Without the great people and the special moments, getting married at the Hotel Freihof would not have been the experience that I was lucky enough to be able to capture on photos as a wedding photographer from Würzburg.",
+      "shortDescription": "Wedding in the Freihof near Würzburg. Beautiful free wedding at the lake. - Wedding photographer Würzburg",
+      "link": "hochzeit-hotel-freihof",
+      "thumbnail": "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1689682357/hochzeitsreportagen/SarahMichael/98-hochzeit-hotel-freihof-wurzburg_xbtkst.jpg",
+      "date": "06/01/2023",
+      "favourite": "true",
+      "keyword1": "Wedding photographer Wuerzburg",
+      "keyword2": "--",
+      "cloudinaryTag": "SarahMichael"
+    },
+    "post9": {
+      "id": "9",
+      "title": "Wedding shooting in the Dolomites",
+      "description": "What an incredible setting! I just love the Dolomites there you can take such incredible pictures!",
+      "shortDescription": "Wedding shooting in the Dolomites - getting married in South Tyrol",
+      "link": "hochzeit-in-den-dolomiten",
+      "thumbnail": "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1689682747/hochzeitsreportagen/christinaMihel/51-hochzeit_dolomiten_yxcvwo.jpg",
+      "date": "08/01/2023",
+      "favourite": "true",
+      "keyword1": "Wedding Photographer Dolomites - Getting married in South Tyrol",
+      "keyword2": "Wedding photographer South Tyrol Bolzano",
+      "cloudinaryTag": "ChristinaMihel"
+    }
   }
 }

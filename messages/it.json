@@ -11,152 +11,154 @@
       "link1": "impronta",
       "link2": "Condizioni",
       "link3": "protezione dati",
-      "link4": "Fotografo di matrimoni Monaco di Baviera",
+      "link4": "Fotografo di matrimoni Monaco",
       "link5": "Fotografo di matrimoni Maiorca",
       "link6": "Fotografo Matrimonio Toscana",
       "link7": "Fotografo Matrimonio Lago di Garda"
     },
     "sitemap": {
       "link1": "Casa",
-      "link2": "Rapporti di nozze",
+      "link2": "Rapporti di matrimonio",
       "link3": "Contatto",
       "link4": "Servizi",
       "link5": "FAQ",
       "link6": "Di"
     },
-    "copyright": "MARZIO COSTANTINI - FOTOGRAFO DI MATRIMONIO A MONACO DI BAVIERA / STARNBERG / AUGSBURG / GARMISCH-PARTENKIRCHEN"
+    "copyright": "MARZIO COSTANTINI - FOTOGRAFO MATRIMONIO A MONACO DI BAVIERA / STARNBERG / AUGSBURG / GARMISCH-PARTENKIRCHEN"
   },
-  "freeWeddingDates": "Date di matrimonio gratuite per",
+  "freeWeddingDates": "Date del matrimonio gratuite per",
   "cookie": {
     "text": "Utilizziamo i cookie sul nostro sito web. Alcuni di essi sono essenziali, mentre altri ci aiutano a migliorare questo sito Web e la tua esperienza.",
-    "akzeptieren": "Accetta",
+    "akzeptieren": "Accettare",
     "ablehnen": "Rifiutare"
   },
   "pageHome": {
     "meta": {
-      "title": "Fotografo di matrimoni Monaco di Baviera | Autentico e reale ☀",
-      "description": "Sono Marzio Fotografo Matrimonio a Monaco di Baviera. Ho foto di matrimonio da € 350 | Clicca qui per maggiori informazioni!"
+      "title": "Fotografo di matrimoni Monaco | Autentico e reale ☀",
+      "description": "Sono Marzio Fotografo di Matrimonio a Monaco. Ho foto di matrimonio da € 350 | Basta cliccare qui per ulteriori informazioni!"
     },
     "welcomeHero": {
-      "bigTitle": "Fotografo di matrimoni Monaco di Baviera",
-      "welcomeText": "Il tuo fotografo di matrimoni Monaco di Baviera - Benvenuto nel mio sito web. Bello che ci sei! Sul mio blog troverai approfondimenti sul mio lavoro precedente come fotografo di matrimoni a Monaco. In qualità di fotografo di matrimoni, creo per te reportage di matrimonio professionali a Monaco di Baviera. Il mio obiettivo è catturare in dettaglio ciò che vi rende speciali come coppia nel giorno del vostro matrimonio a Monaco. Mi piace viaggiare! Pertanto, non solo vi accompagnerò nella location del vostro matrimonio a Monaco, ma anche in tutto il resto del mondo. Sono pronto per te in tutto il mondo. Invece di immagini kitsch e messe in scena, ti garantisco fotografie autentiche e naturali in qualsiasi parte del mondo che manterranno sempre freschi i tuoi ricordi. Sto raccontando la tua storia come è successo.",
-      "zusatztext1": "Real <br></br> Immagini di matrimonio",
-      "zusatztext2": "Rapporti di matrimonio <br></br> autentici",
+      "bigTitle": "Fotografo di matrimoni Monaco",
+      "welcomeText": "Il tuo fotografo di matrimonio a Monaco di Baviera - Benvenuto nel mio sito web. Bello che tu sia lì! Sul mio blog troverai approfondimenti sul mio lavoro precedente come fotografo di matrimoni a Monaco. Come fotografo di matrimoni, creo per voi reportage di matrimonio professionali a Monaco. Il mio obiettivo è catturare in dettaglio ciò che vi rende speciali come coppia nel giorno del vostro matrimonio a Monaco. Mi piace viaggiare! Pertanto non vi accompagnerò solo nella location del vostro matrimonio a Monaco, ma anche in tutto il resto del mondo. Sono pronto per te in tutto il mondo. Invece di immagini kitsch e messe in scena, ti garantisco fotografie autentiche e naturali in qualsiasi parte del mondo che manterranno sempre freschi i tuoi ricordi. Sto raccontando la tua storia così come è accaduta.",
+      "zusatztext1": "Immagini reali del matrimonio <br></br>",
+      "zusatztext2": "Reportage di matrimonio <br></br> autentici",
       "buttonHero": "Su di me"
     },
     "authentisch": {
       "authTitle": "IMMAGINI DI MATRIMONIO AUTENTICHE, EMOZIONALI E REALI",
-      "authSubTitle": "Il tuo fotografo di matrimoni a Monaco e dintorni"
+      "authSubTitle": "Il vostro fotografo di matrimoni a Monaco e dintorni"
     },
     "hzfotografSta": {
-      "title": "Storytelling di <br></br> Marzio Costantini",
-      "subtitle": "Fotografo di matrimoni Monaco di Baviera",
-      "content": "La fotografia è sempre stata un potente mezzo per rendere indimenticabili alcuni dei momenti più preziosi della nostra vita. Per me è importante raccontare questi momenti del vostro matrimonio a Monaco in modo autentico e genuino come li ho vissuti io. Senza fronzoli. Niente roba da principessa. Aperto e onesto!"
+      "title": "Racconto di <br></br> Marzio Costantini",
+      "subtitle": "Fotografo di matrimoni Monaco",
+      "content": "La fotografia è sempre stata un mezzo potente per rendere indimenticabili alcuni dei momenti più preziosi della nostra vita. Per me è importante raccontare questi momenti del vostro matrimonio a Monaco nel modo più autentico e genuino così come li ho vissuti. Senza fronzoli. Niente cose da principessa. Aperto e onesto!"
     },
     "banner": {
       "text": "Una raccolta dei momenti più belli del mio matrimonio",
       "button": "Visita"
     },
-    "filterWeddings": { "title": "Rapporti di matrimonio <br></br> autentici" },
+    "filterWeddings": {
+      "title": "Reportage di matrimonio <br></br> autentici"
+    },
     "momente": {
-      "text1": "MOMENTI che durano solo <br> </br> pochi secondi <br> </br> resisti per sempre",
-      "text2": "UN'INTERPRETAZIONE UNICA<br> </br> DEL DOCUMENTARIO <br> </br> FOTOGRAFIA DI MATRIMONIO",
+      "text1": "MOMENTI che durano solo <br> </br> pochi secondi <br> </br> durano per sempre",
+      "text2": "UN'INTERPRETAZIONE UNICA<br> </br> DELLA FOTOGRAFIA DI MATRIMONIO<br> </br> DOCUMENTARIO",
       "btn": "Contatto"
     },
     "homeText": {
-      "title1": "Fotografo di matrimoni Monaco: per foto di matrimoni uniche ed emozionanti",
-      "subTitle1": "RAPPORTI DI MATRIMONIO, FOTOGRAFIE DI COPPIA E FUGHE",
-      "content1": "Sono appassionato del mio lavoro catturando momenti straordinari per l'eternità! Sono particolarmente entusiasta di alcuni stili di matrimonio, compresi i matrimoni in stile boho vicino alla natura, i matrimoni in granaio e, soprattutto, i matrimoni mediterranei in Italia.",
-      "content2": "Ami i paesaggi? I matrimoni circondati da paesaggi straordinari sono i miei preferiti. Non importa se si svolgono in Toscana o su un bellissimo tratto di costa a Maiorca. Ecco perché amo fotografare il matrimonio insieme a un bellissimo paesaggio.",
-      "content3": "Vuoi rilassarti e goderti il ​​giorno del tuo matrimonio? Poi recupereremo le foto di coppia nel servizio fotografico dopo il matrimonio.",
-      "title2": "Souvenir indimenticabili del tuo matrimonio a Monaco di Baviera",
-      "content4": "Scopri di più su questo sito web se stai cercando un fotografo di matrimoni a Monaco. Dai un'occhiata ai miei rapporti. Il mio blog contiene numerose immagini che ho fotografato a Monaco in passato. Se desideri prenotarmi o saperne di più su ciò che offro, inviami un'e-mail per porre una domanda o ricevere un'offerta gratuita e non vincolante. Sono felice per te!"
+      "title1": "Fotografo di matrimoni Monaco: per foto di matrimonio uniche ed emozionanti",
+      "subTitle1": "REPORT DI MATRIMONIO, FOTOGRAFIE DI COPPIA ED ELOPEMENT",
+      "content1": "Mi appassiona il mio lavoro catturando momenti straordinari per l'eternità! Sono particolarmente entusiasta di alcuni stili di matrimonio, tra cui i matrimoni in stile boho vicini alla natura, i matrimoni in stalla e, soprattutto, i matrimoni mediterranei in Italia.",
+      "content2": "Ami i paesaggi? I matrimoni circondati da paesaggi straordinari sono i miei preferiti. Non importa se si svolgono in Toscana o in uno splendido tratto di costa di Maiorca. Ecco perché amo fotografare il matrimonio insieme ad un bellissimo paesaggio.",
+      "content3": "Vuoi rilassarti e goderti il ​​giorno del tuo matrimonio? Poi recupereremo le foto di coppia nel servizio post-matrimonio.",
+      "title2": "Ricordi indimenticabili del vostro matrimonio a Monaco",
+      "content4": "Scopri di più su questo sito se stai cercando un fotografo di matrimoni a Monaco. Dai un'occhiata ai miei resoconti. Il mio blog contiene numerose foto che ho fotografato a Monaco in passato. Se desideri prenotarmi o scoprire di più su ciò che offro, inviami un'e-mail per porre una domanda o ricevere un'offerta gratuita e non vincolante. Ti aspetto!"
     }
   },
   "pageHochzeitsreportagen": {
     "meta": {
-      "title": "Foto | Rapporti di matrimonio a Monaco e dintorni",
-      "description": "Reportage di matrimonio a Monaco e dintorni - richiedete ora, gratuitamente e senza impegno. Da € 350.-"
+      "title": "Foto | Reportage di matrimonio a Monaco e dintorni",
+      "description": "Reportage di matrimonio a Monaco e dintorni: richiedete informazioni adesso, gratuitamente e senza impegno. A partire da € 350,-"
     },
-    "title": "Rapporti di nozze",
-    "subTitle": "Rapporti di nozze autentici"
+    "title": "Rapporti di matrimonio",
+    "subTitle": "Reportage di matrimonio autentici"
   },
   "pageKontakt": {
     "meta": {
       "title": "Contatto | Fotografo di matrimoni a Monaco e dintorni",
-      "description": "Il tuo fotografo di matrimoni a Monaco! Contattaci subito e richiedi un preventivo gratuito!"
+      "description": "Il tuo fotografo di matrimonio a Monaco! Contattaci ora e richiedi un preventivo gratuito!"
     },
-    "text": "Sono molto felice di sentirti! Sono felice di essere lì per te al tuo grande matrimonio, che io sia a Starnberg, Monaco, Augusta, Toscana, Lago di Garda, Lago di Como o in qualsiasi altra parte del mondo! Se non hai mie notizie entro 48 ore, puoi anche scrivere direttamente a info@bild-hochzeit.",
+    "text": "Sono molto felice di sentirti! Sono felice di essere lì per te al tuo grande matrimonio, che mi trovi a Starnberg, Monaco, Augusta, Toscana, Lago di Garda, Lago di Como o in qualsiasi altra parte del mondo! Se non avete mie notizie entro 48 ore potete anche scrivere direttamente a info@bild-hochzeit.",
     "labelName": "Nome e cognome*",
     "labelEmail": "Indirizzo e-mail*",
     "labelDatum": "data di matrimonio",
     "labelLocation": "luogo del matrimonio",
     "labelStil": "lo stile del tuo matrimonio",
     "labelGefunden": "come mi hai trovato",
-    "labelNachricht": "il tuo messaggio per me? Attendo quante più informazioni possibili",
+    "labelNachricht": "il tuo messaggio per me? Aspetto con ansia quante più informazioni possibili",
     "labelInsta": "Come sembri? Mostrami il tuo account Instagram così posso dare un volto al testo :-)",
-    "labelDatenschutz": "* Acconsento alla raccolta e all'archiviazione dei miei dati allo scopo di elaborare il mio messaggio. Questo consenso può essere revocato in qualsiasi momento tramite info(a)Bild-Hochzeit.de. Puoi trovare informazioni dettagliate nella mia informativa sulla privacy.",
+    "labelDatenschutz": "* Acconsento alla raccolta e alla memorizzazione dei miei dati ai fini dell'elaborazione del mio messaggio. Questo consenso può essere revocato in qualsiasi momento tramite info(a)Bild-Hochzeit.de. Puoi trovare informazioni dettagliate nella mia privacy policy.",
     "datenschutzAkz": "Si prega di accettare l'informativa sulla privacy",
     "btn": "Inviare",
     "feedback": {
       "title": "Il messaggio è stato inviato con successo.",
-      "content": "Se non ricevi mie notizie entro le prossime 48 ore, inviami nuovamente un messaggio!"
+      "content": "Se non hai mie notizie entro le prossime 48 ore, inviami un messaggio di nuovo!"
     }
   },
   "pageFaq": {
     "meta": {
-      "title": "Domande frequenti | Fotografo di matrimoni a Monaco di Baviera",
-      "description": "Domande e risposte sul matrimonio a Monaco o sul fotografo di matrimoni Monaco."
+      "title": "Domande frequenti | Fotografo di matrimoni a Monaco",
+      "description": "Domande e risposte sul matrimonio a Monaco o sul fotografo di matrimoni a Monaco."
     },
     "faq": {
       "title": "risposte e domande",
       "subTitle": "Alcune domande che potresti già avere in anticipo.",
       "faq1": {
-        "title": "Fotografo di matrimoni Monaco di Baviera - Dove puoi essere prenotato?",
+        "title": "Fotografo di matrimoni a Monaco - Dove puoi prenotare?",
         "subTitle": "Sposarsi a Monaco e dintorni",
-        "content": "In qualità di <span>fotografo di matrimoni Monaco</span>, ovviamente puoi prenotarmi ovunque a <span>Monaco</span> e <span>Starnberg</span>. Ma non lavoro solo per te come <span>fotografo di matrimoni</span> qui nei paesi di lingua tedesca. Lavoro per la mia coppia in Europa e anche nel mondo. Per me è importante fotografare i matrimoni della mia coppia così come sono. Rapporti di matrimonio <span> autentici e genuini in Europa e nel mondo! </span>"
+        "content": "Come <span>fotografo di matrimoni a Monaco</span> puoi ovviamente prenotarmi ovunque a <span>Monaco</span> e <span>Starnberg</span>. Ma qui nei paesi di lingua tedesca non lavoro per voi solo come <span>fotografo di matrimoni</span>. Lavoro per la mia coppia in Europa e anche nel mondo. Per me è importante fotografare i matrimoni della mia coppia così come sono. Reportage di matrimonio <span> autentici e genuini in Europa e nel mondo! </span>"
       },
       "faq2": {
         "title": "Come stai lavorando al nostro matrimonio?",
         "subTitle": "Fotografo di matrimoni Maiorca",
-        "content": "In qualità di <span>fotografo di matrimoni</span>, è particolarmente importante per me, come già accennato, fotografare il <span>matrimonio</span> così come si è realmente svolto. Autentico e reale! Perché è l'unico modo in cui posso davvero mostrare il tuo <span>matrimonio</span>, completamente senza foto in posa. Non è affatto il mio genere! Con me non dovrai guardare dietro un albero... :-). Per questo motivo, starò sullo sfondo il più possibile al tuo <span>matrimonio</span> per catturare i grandi e piccoli momenti speciali."
+        "content": "Come <span>fotografo di matrimonio</span>, per me è particolarmente importante, come già accennato, fotografare il <span>matrimonio</span> così come è realmente avvenuto. Autentico e reale! Perché solo così posso davvero mostrare il tuo <span>matrimonio</span>, completamente senza foto in posa. Non è affatto il mio genere! Con me non dovrai guardare dietro un albero... :-). Per questo motivo, durante il tuo <span>matrimonio</span> starò il più possibile in disparte per catturare i piccoli e grandi momenti speciali."
       },
       "faq3": {
         "title": "Come funziona un matrimonio di destinazione?",
         "subTitle": "Matrimonio di destinazione",
-        "content": "Anche se vivo in Germania, fotografo <span>Destination Weddings</span> alcune volte all'anno. Soprattutto <span>matrimoni</span> in <span>Italia (Lago di Garda, Lago di Como, Toscana e Dolomiti)</span> ma anche a <span>Maiorca</span> ci sono abbastanza spesso. Nessuna distanza è troppo lontana per me per un <span>matrimonio</span> interessante, sarei felice di <span>viaggiare</span> fino alla fine del mondo anche per te! Il costo di un <span>Destination Wedding</span> è lo stesso di un <span>Inland Wedding</span>. <span>Non</span> calcolo il tempo di viaggio (tempo di volo/viaggio ecc.) come orario di lavoro. Vengono aggiunte solo le spese di viaggio. Di solito sono molto gestibili!"
+        "content": "Anche se vivo in Germania, fotografo <span>Destination Weddings</span> alcune volte all'anno. Soprattutto <span>matrimoni</span> in <span>Italia (Lago di Garda, Lago di Como, Toscana e Dolomiti)</span> ma anche a <span>Maiorca</span> ci vado abbastanza spesso. Nessuna distanza è troppo lontana per me per un <span>matrimonio</span> interessante, sarei felice di <span>viaggiare</span> fino alla fine del mondo anche per te! Il costo di un <span>matrimonio all'estero</span> è lo stesso di un <span>matrimonio nell'entroterra</span>. Io <span>non</span> calcolo il tempo di viaggio (tempo di volo/viaggio ecc.) come orario di lavoro. Vengono aggiunte solo le spese di viaggio. Di solito sono molto gestibili!"
       },
       "faq4": {
         "title": "Cosa succede se non ci è permesso sposarci a causa del COVID-19?",
         "subTitle": "Regolamento Corona ai matrimoni",
-        "content": "Se non puoi sposarti perché il COVID-19 non lo consente, paghi solo il 20% dell'importo prenotato. Ti verrà quindi riaccreditato il 20% al prossimo appuntamento, a condizione che il tuo prossimo appuntamento non sia ancora preso da me. Quindi non paghi quasi nulla per la cancellazione. Se sono già prenotato per la data successiva, riceverai da me un paio di servizi fotografici post matrimonio."
+        "content": "Se non puoi sposarti perché il COVID-19 non lo consente, pagherai solo il 20% dell'importo prenotato. Al prossimo appuntamento ti verrà riaccreditato il 20%, a condizione che il prossimo appuntamento non sia stato ancora preso da me. Quindi non pagherai quasi nulla per la cancellazione. Se ho già prenotato per la data successiva, riceverai da me un servizio fotografico di coppia post-matrimonio."
       },
       "faq5": {
-        "title": "Quanto tempo dovremmo pianificare per il servizio fotografico di coppia?",
+        "title": "Quanto tempo dovremmo pianificare per le riprese di coppia?",
         "subTitle": "Fotografo di matrimoni Starnberg",
-        "content": "Dipende da dove vuoi girare la coppia. Tempo di ripresa puro circa 1 ora + tempo di percorrenza. <span> IMPORTANTE: scegli il tramonto, se possibile! </span>"
+        "content": "Dipende da dove vuoi girare le riprese di coppia. Tempo di ripresa puro circa 1 ora + tempo di viaggio. <span> IMPORTANTE: scegli il tramonto, se possibile! </span>"
       },
       "faq6": {
         "title": "Quanto tempo dovremmo pianificare per prepararci?",
         "subTitle": "Prepararsi ai matrimoni",
-        "content": "Dipende, di norma inizio quando il truccatore ha finito al 60%. In altre parole, fotografo gli ultimi ritocchi. Dovresti pianificare abbastanza tempo in modo che io abbia ancora tempo per fotografare il vestito, i fiori, la cancelleria, ecc. dove vuoi fare le riprese di coppia. Tempo di ripresa puro circa 1 ora + tempo di percorrenza. <span> IMPORTANTE: scegli il tramonto, se possibile! </span>"
+        "content": "Dipende, di norma inizio quando il truccatore ha finito al 60%. In altre parole, fotografo gli ultimi ritocchi. Dovresti pianificare abbastanza tempo in modo che io abbia ancora tempo per fotografare il vestito, i fiori, gli articoli di cancelleria, ecc. dove vuoi realizzare lo shooting di coppia. Tempo di ripresa puro circa 1 ora + tempo di viaggio. <span> IMPORTANTE: scegli il tramonto, se possibile! </span>"
       },
       "faq7": {
-        "title": "Cosa succede se il fotografo di matrimoni si ammala?",
-        "subTitle": "Backup del fotografo di matrimoni",
-        "content": "Per fortuna non è successo una volta dal 2014! Se si dovesse arrivare a questo, ovviamente ti aiuterò a trovare un sostituto. Attraverso la mia pluriennale esperienza, ora conosco molti fotografi e sono ben collegato con loro, quindi non dovrebbe essere un problema trovare un degno sostituto per me. Se è già stato versato un acconto, questo ti sarà ritrasferito."
+        "title": "Cosa succede se il fotografo di matrimonio si ammala?",
+        "subTitle": "Supporto per il fotografo di matrimoni",
+        "content": "Per fortuna non succedeva una volta dal 2014! In tal caso, ovviamente ti aiuterò a trovare un sostituto. Grazie alla mia pluriennale esperienza, ora conosco molti fotografi e ho buoni rapporti con loro, quindi non dovrebbe essere un problema trovare un degno sostituto per me. Se è già stato versato un acconto, questo ti verrà riaccreditato."
       },
       "faq8": {
-        "title": "E se piove al nostro matrimonio?",
+        "title": "E se al nostro matrimonio piovesse?",
         "subTitle": "pioggia il giorno del matrimonio",
-        "content": "Se piove, non c'è problema. Anche sotto la pioggia puoi scattare foto super belle senza bagnarti completamente. Puoi ottenere un ombrello trasparente per questo in caso di emergenza."
+        "content": "Se piove, non c'è problema. Anche sotto la pioggia puoi scattare foto bellissime senza bagnarti completamente. In caso di emergenza è possibile procurarsi un ombrello trasparente."
       }
     }
   },
   "pageLeistungen": {
     "meta": {
-      "title": "Servizi | Fotografo di matrimoni Monaco di Baviera prezzi",
-      "description": "Il tuo fotografo di matrimoni a Monaco di Baviera per immagini reali e naturali a partire da € 350. Informarsi ora!"
+      "title": "Servizi | Prezzi del fotografo di matrimoni a Monaco",
+      "description": "Il vostro fotografo di matrimonio a Monaco per foto vere e naturali a partire da € 350. Informarsi ora!"
     },
     "title": "Fotografo di matrimoni a Starnberg, Monaco, Augusta, Garmisch Partenkirchen, in Europa e nel mondo",
     "btn": "Contatto",
@@ -170,45 +172,45 @@
       "bearatung": "Consiglio personale",
       "nachbearbeitung": "post produzione",
       "bilder": "Circa 50 - 100 immagini all'ora",
-      "galerie": "Galleria online",
-      "usbStick": "Immagini tramite chiavetta USB in una scatola di legno",
+      "galerie": "Galleria in linea",
+      "usbStick": "Immagini tramite chiavetta USB in scatola di legno",
       "unterDrei": "* Nella stagione dei matrimoni (aprile - ottobre) prenotabile solo dal lunedì al giovedì, venerdì e domenica su richiesta."
     },
     "btnAnfrage": "Informarsi ora",
     "afterWedding": {
       "title": "Dopo le riprese del matrimonio",
       "subTitle": "Fotografo di matrimoni a Starnberg, Monaco, Augusta",
-      "content": "Se il tempo durante il tuo matrimonio è troppo breve per le riprese di coppia, siamo felici di organizzare un appuntamento per le riprese dopo il matrimonio. Il servizio fotografico per la tua coppia di sposi è stato posticipato solo di pochi giorni. Le riprese dopo il matrimonio durano circa 45-60 minuti. Alla fine otterrai circa 50 immagini modificate da me"
+      "content": "Se il tempo durante il vostro matrimonio è troppo breve per lo shooting di coppia, saremo lieti di organizzare un appuntamento per lo shooting post-matrimonio. Le riprese della vostra coppia di sposi sono state posticipate solo di pochi giorni. Le riprese post-matrimonio durano circa 45-60 minuti. Alla fine riceverai da me circa 50 immagini modificate"
     },
     "paarShooting": {
       "title": "Un paio di tiri",
       "subTitle": "Fotografo di matrimoni Starnberg",
-      "content": "Non devi necessariamente sposarti per essere fotografato davanti a me! Siamo felici di fare un paio di riprese nella posizione desiderata. Di solito ci vogliono circa 45 minuti e ottengo circa 50 foto modificate di me."
+      "content": "Non devi necessariamente sposarti per farti fotografare davanti a me! Saremo lieti di realizzare uno shooting di coppia nella location desiderata. Di solito ci vogliono circa 45 minuti e ricevo circa 50 mie foto modificate."
     }
   },
   "pageAbout": {
     "meta": {
-      "title": "Su di me | Il tuo fotografo di matrimoni a Monaco di Baviera",
-      "description": "Tutto quello che devi sapere su di me come fotografo di matrimoni a Monaco. Rapporti di nozze a Monaco e dintorni"
+      "title": "Su di me | Il tuo fotografo di matrimonio a Monaco",
+      "description": "Tutto quello che devi sapere su di me come fotografo di matrimoni a Monaco. Reportage di matrimonio a Monaco e dintorni"
     },
     "welcomeSection": {
       "title": "Ciao, sono Marzio",
-      "content": "Fotografo di matrimoni dal 2014, principalmente nella zona di Starnberg, Monaco, Augusta e Garmisch-Partenkirchen, Lago di Garda, Lago di Como e Toscana, ma fotografo matrimoni in Europa e nel mondo. Se stai cercando foto di matrimonio autentiche, sei nel posto giusto. Di solito sono l'osservatore silenzioso al tuo matrimonio, osservo le persone, gli sguardi, i gesti, l'amore, la gioia, le emozioni. Cerco la pittura del momento, il ritmo di una canzone che apre l'otturatore della mia macchina fotografica e cattura una storia per sempre."
+      "content": "Fotografo di matrimoni dal 2014, principalmente nella zona di Starnberg, Monaco, Augusta e Garmisch-Partenkirchen, Lago di Garda, Lago di Como e Toscana, ma fotografo matrimoni in Europa e nel mondo. Se stai cercando foto di matrimonio autentiche, allora sei nel posto giusto. Solitamente sono l'osservatore silenzioso del vostro matrimonio, osservo le persone, gli sguardi, i gesti, l'amore, la gioia, le emozioni. Cerco il dipinto del momento, il ritmo di una canzone che apre l'otturatore della mia macchina fotografica e cattura una storia per sempre."
     },
     "details": {
       "detailsInfo": "dettagli",
       "paarInfos": "Qualche informazione su di me",
       "reisen": {
         "title": "amo viaggiare",
-        "content": "Adoro viaggiare e andare in paesi lontani per conoscere culture diverse. Per questo ho già fatto due viaggi intorno al mondo. Aggiungi una piccola avventura a un viaggio a lunga distanza, PERFETTO! Quindi nel 2019 sono stato al campo base del Monte Everest o ho guidato una moto attraverso la Cambogia e il Vietnam fino al confine cinese. Ah si, ho detto che non ho ancora la patente per la moto?"
+        "content": "Adoro viaggiare e andare in paesi lontani per conoscere culture diverse. Ecco perché ho già fatto due viaggi in giro per il mondo. Aggiungi una piccola avventura a un viaggio a lunga distanza, PERFETTO! Quindi nel 2019 sono stato al campo base dell'Everest o ho guidato una moto attraverso la Cambogia e il Vietnam fino al confine cinese. Ah sì, ho già detto che non ho ancora la patente moto?"
       },
       "natur": {
         "title": "Mi piace stare nella natura",
-        "content": "Inizialmente ho iniziato con la fotografia di paesaggio e nel corso degli anni mi sono dedicato solo alla fotografia di matrimonio. Quindi in realtà è chiaro che mi piace fare escursioni all'aria aperta o dormire all'aria aperta :-)"
+        "content": "Inizialmente ho iniziato con la fotografia di paesaggio e nel corso degli anni mi sono appassionato solo alla fotografia di matrimonio. Quindi è chiaro che mi piace stare all'aria aperta facendo escursioni o dormire all'aria aperta :-)"
       },
       "zwillinge": {
         "title": "Esisto due volte :-)",
-        "content": "Beh, non proprio ma quasi. Ho un fratello gemello con cui assomiglio molto a quello con cui faccio la maggior parte delle mie avventure selvagge. Lui stesso fotografa anche matrimoni e puoi anche prenotarci per due."
+        "content": "Beh, non del tutto ma quasi. Ho un fratello gemello a cui assomiglio molto e con cui vivo la maggior parte delle mie avventure selvagge. Lui stesso fotografa anche matrimoni e potete prenotarci anche per due."
       },
       "programmieren": {
         "title": "La mia seconda passione è la programmazione",
@@ -216,44 +218,44 @@
       },
       "gerade": {
         "title": "Odio quando le cose non vanno bene",
-        "content": "In un certo senso sono solo un perfezionista e odio quando le cose non sono dritte come un'immagine sul muro o sui miei monitor! I due monitor devono combaciare perfettamente da bordo a bordo e non possono esserci spazi tra di loro... :-D"
+        "content": "In un certo senso sono solo un perfezionista e odio quando le cose non sono dritte, come un quadro sul muro o sui miei monitor! I due monitor devono combaciare perfettamente bordo a bordo e non deve esserci alcuno spazio tra loro... :-D"
       }
     }
   },
   "pageAGB": {
     "meta": {
       "title": "Termini e condizioni | Condizioni generali di contratto",
-      "description": "Termini e condizioni generali per i fotografi di matrimonio a Monaco di Baviera. Chiedi gratuitamente"
+      "description": "Termini e condizioni generali per fotografi di matrimonio a Monaco. Richiedi gratuitamente"
     },
-    "punkt1": "<br></br> 1. Fotografia <br></br> Il fotografo (appaltatore) consegna le fotografie modificate digitalmente nella massima risoluzione possibile in formato file JPEG e senza filigrane o simili.Tutti i dati/fotografie vengono consegnati entro 25 giorni dopo il matrimonio.",
-    "punkt2": "<br></br> 2. Diritti d'uso <br></br> Gli sposi (clienti) possono utilizzare e cedere le foto per scopi privati ​​e non commerciali. Per l'uso commerciale delle foto (ad es. pubblicità) è necessario il consenso scritto del fotografo. Il copyright rimane del fotografo. Il fotografo può utilizzare le foto come scatti di riferimento per l'autopromozione.",
-    "punkt4": "3. Recesso e disdetta da parte del fotografo (appaltatore) Il fotografo (appaltatore) può recedere dal contratto solo in caso di forza maggiore (es. incidente o malattia). L'appaltatore farà tutto quanto in suo potere per fornire agli sposi un sostituto equivalente. Il fotografo di matrimoni informerà il cliente del fallimento il prima possibile. In caso di forza maggiore, gli sposi (cliente) rinunciano al risarcimento dei danni o all'attribuzione di eventuali costi aggiuntivi al fotografo. L'eventuale acconto già ricevuto verrà rimborsato dal fotografo (committente) Recesso e disdetta da parte degli sposi (committente) Si informa il cliente che le foto ei lavori fotografici sono soggetti all'ambito artistico del fotografo. Sono quindi escluse successive contestazioni. Le modifiche successive devono essere remunerate separatamente. Se il matrimonio non può svolgersi per cause di forza maggiore, il fotografo (appaltatore) rinuncia al pagamento del compenso pattuito. Un acconto già versato non sarà rimborsato. La cancellazione per altri motivi è possibile alle seguenti condizioni: Fino a 90 giorni prima della data del matrimonio, una penale i. hv 50% del valore dell'ordine, calcolato. Fino a 180 giorni prima della data del matrimonio, una penale i. hv 35% del valore dell'ordine, calcolato.",
-    "punkt5": "<br></br> 4. Responsabilità <br></br> La coppia di sposi (cliente) è l'unica responsabile per lesioni personali e danni materiali durante il matrimonio, a meno che il danno non sia causato da un comportamento gravemente negligente o intenzionale sul parte del fotografo. La coppia di sposi (cliente) è responsabile per i danni all'attrezzatura del fotografo causati dagli ospiti prima, dopo o durante l'evento.",
-    "punkt6": "<br></br> 5. Forma scritta <br></br> Le modifiche e le integrazioni al presente contratto devono avvenire per iscritto. Qualora una qualsiasi delle disposizioni di cui sopra sia totalmente o parzialmente nulla, il resto dell'accordo rimarrà in vigore. In luogo della disposizione inefficace, o la disposizione di legge o – in mancanza di tale disposizione – una disposizione che le parti avrebbero fatto in buona fede se fossero state a conoscenza dell'invalidità."
+    "punkt1": "<br></br> 1. Fotografia <br></br> Il fotografo (appaltatore) consegna le fotografie revisionate digitalmente nella massima risoluzione possibile in formato file JPEG e senza filigrane o simili. Tutti i dati/fotografie vengono consegnati entro 25 giorni dopo il matrimonio.",
+    "punkt2": "<br></br> 2. Diritti di utilizzo <br></br> Gli sposi (cliente) possono utilizzare e divulgare le foto per scopi privati ​​e non commerciali. Per l'uso commerciale delle foto (ad es. pubblicità) è necessario il consenso scritto del fotografo. Il copyright rimane del fotografo. Il fotografo potrà utilizzare le foto come scatti di riferimento per l'autopromozione.",
+    "punkt4": "3. Recesso e risoluzione da parte del fotografo (contraente) Il fotografo (contraente) può recedere dal contratto solo in caso di forza maggiore (ad es. incidente o malattia). L'appaltatore farà tutto quanto in suo potere per fornire agli sposi una sostituzione equivalente. Il fotografo di matrimonio informerà il cliente del fallimento il prima possibile. In caso di forza maggiore gli sposi (cliente) rinunciano a richieste di risarcimento danni o ad imputare eventuali costi aggiuntivi al fotografo. L'eventuale acconto già ricevuto verrà rimborsato dal fotografo (committente) Ritiro e annullamento da parte degli sposi (committente) Si informa il cliente che le foto ed il lavoro fotografico sono soggetti all'ambito artistico del fotografo. Sono quindi escluse successive denunce. Eventuali modifiche successive dovranno essere remunerate separatamente. Se il matrimonio non può aver luogo per causa di forza maggiore, il fotografo (contraente) rinuncia al pagamento del compenso concordato. Un acconto già versato non verrà rimborsato. L'annullamento per altri motivi è possibile alle seguenti condizioni: Fino a 90 giorni prima della data del matrimonio, verrà applicata una penale i. hv 50% del valore dell'ordine, calcolato. Fino a 180 giorni prima della data del matrimonio, una penale di annullamento i. hv 35% del valore dell'ordine, calcolato.",
+    "punkt5": "<br></br> 4. Responsabilità <br></br> Gli sposi (cliente) sono gli unici responsabili per danni a persone e cose durante il matrimonio, a meno che il danno non sia causato da un comportamento gravemente negligente o intenzionale durante il matrimonio. parte del fotografo. Gli sposi (cliente) sono responsabili dei danni all'attrezzatura del fotografo causati dagli ospiti prima, dopo o durante l'evento.",
+    "punkt6": "<br></br> 5. Forma scritta <br></br> Le modifiche e le integrazioni al presente contratto necessitano della forma scritta. Qualora una qualsiasi delle disposizioni di cui sopra dovesse essere totalmente o parzialmente nulla, il resto del contratto rimarrà in vigore. Al posto della disposizione inefficace, può essere applicata la disposizione di legge oppure, in mancanza di tale disposizione, una disposizione che le parti avrebbero adottato in buona fede se fossero state consapevoli dell'invalidità."
   },
   "pageHzMallorca": {
     "meta": {
       "title": "Sposarsi a Maiorca | Tutto quello che devi sapere! ☀",
-      "description": "Ti sposi a Maiorca? Tutto ciò che devi sapere per il tuo matrimonio a Maiorca, nonché le migliori location per matrimoni a Maiorca"
+      "description": "Ti sposi a Maiorca? Tutto quello che devi sapere per il tuo matrimonio a Maiorca e le migliori location per matrimoni a Maiorca"
     },
-    "title": "Matrimonio a Maiorca <br></br> I migliori consigli per il tuo matrimonio",
+    "title": "Matrimonio Maiorca <br></br> I migliori consigli per il tuo matrimonio",
     "subTitle": "Sposarsi a Maiorca",
     "Link": "Al sito web",
     "einleitung": {
-      "title": "Tutto ciò che devi sapere sulla pianificazione del matrimonio per il matrimonio di Maiorca",
+      "title": "Tutto quello che devi sapere sull'organizzazione del matrimonio a Maiorca",
       "subTitle": "Sposarsi a Maiorca",
-      "content": "Sposarsi nell'incantevole isola di Maiorca - Come fotografo di matrimoni a Maiorca, posso dire con certezza che è la più magnifica di tutte le isole. Molti anni fa mi sono innamorato del fascino irresistibile dell'isola e da allora lavoro come fotografo di matrimoni a Maiorca. Se non riesci a immaginare niente di più bello che dare i tuoi voti nuziali su quest'isola, questo pensiero è assolutamente comprensibile. <br> </br> <br> </br> Indipendentemente dal luogo del matrimonio a Maiorca, l'isola offre un'atmosfera suggestiva e dona alla tua celebrazione un ambiente adatto e indimenticabile. Da diversi anni accompagno le coppie in cammino verso l'altare più volte a stagione. Un matrimonio a Maiorca non è affatto complicato, ma dovrebbe essere ben pianificato. Per questo motivo, oltre al mio lavoro principale come fotografo di matrimoni a Maiorca, ti offro l'opportunità di organizzare contatti importanti per la pianificazione del matrimonio e, inoltre, di trovare insieme a te la giusta location per il matrimonio a Maiorca.",
+      "content": "Sposarsi nell'incantevole isola di Maiorca - Come fotografo di matrimoni a Maiorca, posso dire con certezza che è la più magnifica di tutte le isole. Molti anni fa mi sono innamorato del fascino irresistibile dell'isola e da allora lavoro come fotografo di matrimoni a Maiorca. Se non potete immaginare niente di più bello che pronunciare la vostra promessa di matrimonio su quest'isola, questo pensiero è assolutamente comprensibile. <br> </br> <br> </br> Indipendentemente dal luogo del matrimonio a Maiorca, l'isola offre un'atmosfera impressionante e regala alla vostra celebrazione un ambiente adatto e indimenticabile. Da diversi anni accompagno le coppie nel cammino verso l'altare più volte durante la stagione. Un matrimonio a Maiorca non è affatto complicato, ma dovrebbe essere ben pianificato. Per questo motivo, oltre al mio lavoro principale come fotografo di matrimoni a Maiorca, vi offro l'opportunità di stabilire contatti importanti per la pianificazione del matrimonio e, inoltre, di trovare insieme a voi la giusta location per matrimoni a Maiorca.",
       "btn": "Contatto"
     },
     "warum": {
       "titel": "Perché un matrimonio a Maiorca è così bello",
-      "content1": "Per i miei clienti, sempre innamorati, viaggio in tutta Europa per trovare lo sfondo perfetto per foto d'effetto. Ma il mio lavoro di fotografo di matrimoni a Maiorca mi è diventato particolarmente caro. Posso dire con orgoglio che conosco questa bellissima isola come il palmo della mia mano. Con il mio supporto e il mio talento per i momenti perfetti, il tuo matrimonio a Maiorca sarà un'esperienza indimenticabile. Sia privatamente che professionalmente, sono stato attratto dall'isola ancora e ancora per molti anni. Una volta lì, sono sempre felice di catturare i momenti più belli come fotografo di matrimoni a Maiorca e di darti un ricordo duraturo di questo giorno speciale per la tua vita insieme.",
-      "content2": "Sposarsi a Maiorca - Quando pianifichi il tuo matrimonio, dovresti generalmente tenere presente che organizzare un matrimonio a Maiorca può essere un compito impegnativo. Ho lavorato con molti fornitori di servizi sull'isola in passato, quindi posso aiutarti con i miei contatti e la mia esperienza. Dalla scelta del menu del matrimonio alla ricerca della location perfetta per il matrimonio a Maiorca, dovremmo essere in grado di mettere insieme un piano dettagliato per il tuo matrimonio da sogno."
+      "content1": "Per i miei clienti, che sono sempre innamorati, viaggio in tutta Europa per trovare lo sfondo perfetto per foto impressionanti. Ma il mio lavoro come fotografo di matrimoni a Maiorca mi è diventato particolarmente caro. Posso dire con orgoglio che conosco questa bellissima isola come il palmo della mia mano. Con il mio supporto e il mio talento per i momenti perfetti, il tuo matrimonio a Maiorca sarà un'esperienza indimenticabile. Sia a livello privato che professionale, sono sempre stato attratto dall'isola per molti anni. Una volta lì, sono sempre felice di catturare i momenti più belli come fotografo di matrimoni a Maiorca e di regalarti un ricordo indelebile di questo giorno speciale per la vostra vita insieme.",
+      "content2": "Sposarsi a Maiorca - Quando pianifichi il tuo matrimonio, dovresti generalmente tenere presente che organizzare un matrimonio a Maiorca può essere un compito impegnativo. In passato ho lavorato con molti fornitori di servizi sull'isola, quindi posso aiutarti con i miei contatti e la mia esperienza. Dalla scelta del menu di nozze alla ricerca della location perfetta per il matrimonio a Maiorca, dovremmo essere in grado di mettere insieme un piano dettagliato per il vostro matrimonio da sogno."
     },
     "heiraten": {
-      "title": "Matrimonio a Maiorca: registrazioni emozionanti e autentiche del tuo giorno speciale a Maiorca",
+      "title": "Matrimonio a Maiorca: registrazioni emozionali e autentiche del tuo giorno speciale a Maiorca",
       "subTitle": "Sposa Maiorca",
-      "content": "In accordo con la location del tuo matrimonio a Maiorca, creerò un reportage fotografico emozionante e autentico di questo giorno speciale della tua vita. Il mio obiettivo è creare immagini vibranti e dinamiche del tuo matrimonio, di te stesso e dei tuoi amici e familiari. Queste immagini dovrebbero ancora causare la pelle d'oca anche dopo molti anni. <br> </br> <br> </br> In qualità di fotografo di matrimoni a Maiorca, il mio compito principale è quello di muovermi con discrezione sullo sfondo e scattare foto professionali. Un matrimonio a Maiorca non dovrebbe solo essere paragonabile a una vacanza sull'isola per te, ma anche catturare il tuo momento unico in un'atmosfera indimenticabile. Vedo il mio lavoro come fotografo di matrimoni a Maiorca un successo solo se ti fidi di me e ti senti a tuo agio con me. Non vedo l'ora di vedere te e le tue idee creative per il grande giorno.",
+      "content": "In base alla location scelta per il tuo matrimonio a Maiorca, creerò un reportage fotografico emozionante e autentico di questo giorno speciale della tua vita. Il mio obiettivo è creare immagini vibranti e dinamiche del tuo matrimonio, di te stesso, dei tuoi amici e familiari. Queste immagini dovrebbero ancora far venire la pelle d'oca anche dopo molti anni. <br> </br> <br> </br> Come fotografo di matrimoni a Maiorca, il mio compito principale è muovermi con discrezione sullo sfondo e scattare comunque foto professionali. Un matrimonio a Maiorca non dovrebbe solo essere paragonabile a una vacanza sull'isola per te, ma dovrebbe anche catturare il tuo momento unico in un'atmosfera indimenticabile. Considero di successo il mio lavoro come fotografo di matrimoni a Maiorca solo se ti fidi di me e ti senti a tuo agio con me. Non vedo l'ora di vedere te e le tue idee creative per il grande giorno.",
       "btn": "Contatto"
     },
     "location": {
@@ -262,120 +264,120 @@
       "webseite": "Al sito web",
       "loca1": {
         "subTitle": "Location per matrimoni a Maiorca",
-        "content": "Se hai sempre creduto che un matrimonio a Maiorca fosse l'esperienza perfetta per te, allora sei nel posto giusto. Con il suo fascino impressionante, la Finca Santa Lucia sottolinea la bellezza dell'intera isola. L'atmosfera della proprietà ti incanterà fin dal primo momento e ti offre un ampio margine creativo quando si tratta di progettare la location. Come fotografo di matrimoni a Maiorca, apprezzo le condizioni di luce lì e l'atmosfera rilassata della zona. Qui potrete trascorrere il vostro giorno speciale con stile e con un altrettanto elevato fattore di relax. La Finca Santa Lucia è un incantevole pezzo di cultura vivente spagnola."
+        "content": "Se hai sempre creduto che un matrimonio a Maiorca fosse l'esperienza perfetta per te, allora sei nel posto giusto. Con il suo fascino impressionante, la Finca Santa Lucia sottolinea la bellezza dell'intera isola. L'atmosfera della proprietà ti incanterà fin dal primo momento e ti offrirà un ampio margine di libertà creativo quando si tratta di progettare la location. Come fotografo di matrimoni a Maiorca, apprezzo le condizioni di luce e l'atmosfera rilassata della zona. Qui potrete trascorrere il vostro giorno speciale con stile e con un fattore relax altrettanto elevato. La Finca Santa Lucia è un incantevole pezzo di cultura abitativa spagnola."
       },
       "loca2": {
         "subTitle": "Sposarsi a Maiorca",
-        "content": "Finca Alaiar è una tenuta di campagna nel cuore dell'isola, vicino al villaggio di Sencelles. Questa location per matrimoni a Maiorca ti incanterà fin dal primo momento con le sue strade di campagna delimitate e gli splendidi muretti a secco, combinati con i mandorleti della zona. Oltre a queste impressioni indimenticabili, come fotografo di matrimoni a Maiorca approfitto della catena montuosa Tramuntana in lontananza e posso prometterti bellissime foto. Le origini della proprietà risalgono all'insediamento moresco di Alayar. Quando i cristiani, guidati dal re Giacomo I, riconquistarono l'area, l'area passò al conte di Bearn, Gastó de Montcada."
+        "content": "Finca Alaiar è una tenuta di campagna nel cuore dell'isola, vicino al villaggio di Sencelles. Questa location per matrimoni a Maiorca ti incanterà fin dal primo momento con le sue strade di campagna delimitate e gli splendidi muretti a secco, combinati con i mandorleti della zona. Oltre a queste impressioni indimenticabili, come fotografo di matrimoni a Maiorca posso beneficiare della catena montuosa Tramuntana in lontananza e posso promettervi bellissime foto. Le origini della proprietà si trovano nell'insediamento moresco di Alayar. Quando i cristiani, guidati dal re Giacomo I, ripresero la zona, la zona passò al conte di Bearn, Gastó de Montcada."
       },
       "loca3": {
         "subTitle": "Fotografo di matrimoni Maiorca",
-        "content": "Se attribuisci grande importanza alla ristorazione culinaria dei tuoi ospiti nella location del tuo matrimonio a Maiorca, Cap Rocat è il primo indirizzo per te. L'ex fortezza è ora un rinomato hotel di lusso e offre un ambiente medievale ma elegante grazie al suo carattere di castello. Come fotografo di matrimoni a Maiorca, difficilmente riesco a pensare a un posto migliore dove poter godere di una vista mozzafiato sul mare e di uno scenario altrettanto romantico. L'hotel mostra uno straordinario amore per i dettagli e vi incanterà. Per momenti speciali, questo hotel di lusso è una grande opportunità per evidenziare il giorno più importante della tua vita insieme a quel qualcosa in più."
+        "content": "Se attribuisci grande importanza al catering culinario dei tuoi ospiti nella location del tuo matrimonio a Maiorca, Cap Rocat è il primo indirizzo per te. L'antica fortezza è oggi un rinomato hotel di lusso e offre un ambiente medievale ed elegante grazie al suo carattere di castello. Come fotografo di matrimoni a Maiorca, difficilmente riesco a pensare a un posto migliore da cui si possa godere di una vista mozzafiato sul mare e di uno scenario altrettanto romantico. L'hotel mostra uno straordinario amore per i dettagli e vi incanterà. Per i momenti speciali, questo hotel di lusso è un'ottima occasione per mettere in risalto il giorno più importante della vostra vita insieme a quel qualcosa in più."
       },
       "loca4": {
-        "subTitle": "Location per matrimoni Maiorca",
-        "content": "Per feste di matrimonio più grandi posso consigliare il Carrossa Spa Villa Hotel. Per sposarsi a Maiorca, questa località è considerata una delle migliori che si possano trovare sull'isola. Le ville costruite qui hanno molte stanze e giardini perfettamente curati. In lontananza puoi anche goderti la vista della catena montuosa della Serra de Llevant e aspettarti fantastiche foto di matrimonio davanti a questo sfondo. La piscina e il centro benessere dell'hotel offrono molto relax. L'intera struttura è all'avanguardia. Un team esperto di eventi non lascerà sicuramente nulla al caso al tuo matrimonio."
+        "subTitle": "Luogo del matrimonio a Maiorca",
+        "content": "Per feste di matrimonio più grandi posso consigliare il Carrossa Spa Villa Hotel. Per sposarsi a Maiorca, questa località è considerata una delle migliori dell'isola. Le ville qui costruite hanno molte stanze e giardini perfettamente curati. In lontananza puoi anche goderti la vista sulla catena montuosa della Serra de Llevant e aspettarti splendide foto di matrimonio davanti a questo sfondo. La piscina e il centro benessere dell'hotel garantiscono tanto relax. L'intera struttura è all'avanguardia. Un esperto team di eventi non lascerà sicuramente nulla al caso durante il vostro matrimonio."
       },
       "loca5": {
         "subTitle": "Location per matrimoni a Maiorca",
-        "content": "Son Togores è un luogo da sogno per la tua prossima celebrazione del matrimonio. La posizione incanta con il fascino inconfondibile dell'isola ed è ancora convenientemente vicino al centro pulsante di Palma. Tu e i tuoi ospiti potete concludere la giornata con una passeggiata a Palma e godervi l'atmosfera unica. Villa Son Togores è senza dubbio una delle location per matrimoni più ambite di Maiorca."
+        "content": "Son Togores è un luogo da sogno per la tua prossima celebrazione del matrimonio. La posizione incanta con l'inconfondibile fascino dell'isola ed è comunque comodamente vicina al pulsante centro di Palma. Tu e i tuoi ospiti potrete concludere la giornata con una passeggiata per Palma e godervi l'atmosfera unica. Villa Son Togores è senza dubbio una delle location per matrimoni più ambite a Maiorca."
       }
     },
     "kosten": {
       "title": "Quanto costa un matrimonio a Maiorca?",
       "subTitle": "Quanto costa un matrimonio a Maiorca?",
-      "content": "Costi del matrimonio a Maiorca - Una risposta generica a questa domanda non è possibile, in quanto i costi di un matrimonio dipendono molto dal tipo di cerimonia. Invece, considera quanto sei disposto a spendere per il tuo matrimonio a Maiorca e il fotografo di matrimoni a Maiorca per creare un evento indimenticabile per te e i tuoi ospiti. <br> </br> <br> </br> In generale, per un matrimonio a Maiorca con circa 65 invitati, dovresti preventivare almeno € 15.000."
+      "content": "Costi del matrimonio a Maiorca - Una risposta generale a questa domanda non è possibile, poiché i costi di un matrimonio dipendono fortemente dal tipo di cerimonia. Considera invece quanto sei disposto a spendere per il tuo matrimonio a Maiorca e il fotografo di matrimonio a Maiorca per creare un evento indimenticabile per te e i tuoi ospiti. <br> </br> <br> </br> In generale, per un matrimonio a Maiorca con circa 65 invitati, dovresti preventivare almeno 15.000 euro."
     },
     "hochzeitsplaner": {
       "title": "I migliori wedding planner a Maiorca",
       "subTitle": "Wedding planner a Maiorca che posso consigliare",
       "planer": {
         "plan1": {
-          "content": "Dana e Karim sono il duo che ha dato vita a Love Story Mallorca. Non sono solo wedding planner di successo a Maiorca, ma organizzano anche matrimoni da sogno in Italia, Ibiza e alle Maldive."
+          "content": "Dana e Karim sono la coppia che ha dato vita a Love Story Mallorca. Non sono solo wedding planner di successo a Maiorca, ma organizzano anche matrimoni da sogno in Italia, Ibiza e alle Maldive."
         },
         "plan2": {
-          "content": "Se stai cercando wedding planner a Maiorca, vorrei raccomandare calorosamente Sandra e Vanessa. Formano una squadra imbattibile e faranno in modo che il tuo matrimonio a Maiorca sia un'esperienza indimenticabile."
+          "content": "Se cercate wedding planner a Maiorca, consiglio caldamente Sandra e Vanessa. Formano una squadra imbattibile e faranno in modo che il vostro matrimonio a Maiorca sia un'esperienza indimenticabile."
         },
         "plan3": {
           "content": "Katja e il suo team, specializzati in matrimoni e fughe d'amore a Maiorca, ti danno un caloroso benvenuto. Con sede direttamente a Maiorca, offrono ampi servizi di pianificazione del matrimonio, incluso un fotografo di matrimoni a Maiorca."
         }
       }
     },
-    "slogan": "Si sta scaldando a Maiorca: sposarsi sulla bellissima isola",
+    "slogan": "Si sta riscaldando a Maiorca: sposarsi sulla bellissima isola",
     "kontakt": "Contatto"
   },
   "pageHzGardasee": {
     "meta": {
       "title": "Sposarsi sul Lago di Garda | Celebrare un matrimonio sul Lago di Garda ☀",
-      "description": "Ti sposi sul Lago di Garda? Tutto quello che c'è da sapere per il tuo matrimonio sul Lago di Garda, oltre alle migliori location per matrimoni sul Lago di Garda."
+      "description": "Ti sposi sul Lago di Garda? Tutto quello che devi sapere per il tuo matrimonio sul Lago di Garda, nonché le migliori location per matrimoni sul Lago di Garda."
     },
-    "title": "Sposarsi sul Lago di Garda <br> </br> Celebra il tuo matrimonio sul Lago di Garda",
+    "title": "Sposarsi sul Lago di Garda <br> </br> Festeggia il tuo matrimonio sul Lago di Garda",
     "subTitle": "Tutto quello che devi sapere per il tuo matrimonio sul Lago di Garda",
     "link": "Al sito web",
     "einleitung": {
       "title": "Matrimonio sul Lago di Garda - Tutto quello che c'è da sapere sull'organizzazione del matrimonio",
       "subTitle": "Sposarsi sul Lago di Garda",
-      "content": "Essendo specializzato nella fotografia di matrimonio sul Lago di Garda, posso dire con certezza che questo lago è uno dei più pittoreschi di tutta Italia ed è anche convenientemente vicino alla Germania! Nel corso degli anni ho avuto l'opportunità di trascorrere lì le mie vacanze e di lavorare come fotografo di matrimoni. Un matrimonio sul Lago di Garda vi incanterà sicuramente e lì sono garantite immagini mozzafiato. <br> </br> <br> </br> Indipendentemente da quale dei numerosi luoghi idilliaci intorno al Lago di Garda desideri celebrare il tuo matrimonio, il Lago di Garda offre un'atmosfera affascinante e dona alla tua celebrazione un ambiente adatto e indimenticabile . Da diversi anni ho il privilegio di accompagnare ogni stagione diverse coppie nel loro cammino verso l'altare. Organizzare un matrimonio sul Lago di Garda e trovare la location perfetta non è certo una sfida, ma richiede un'attenta pianificazione. Pertanto, oltre alla mia principale attività di fotografo di matrimonio sul Lago di Garda, vi offro anche di fornire importanti contatti per l'organizzazione del matrimonio e di trovare insieme a voi la location ideale per il matrimonio sul Lago di Garda.",
+      "content": "Essendo specializzato in fotografia di matrimonio sul Lago di Garda, posso dire con certezza che questo lago è uno dei più pittoreschi d'Italia ed è anche convenientemente vicino alla Germania! Nel corso degli anni ho avuto l'opportunità di trascorrere lì le mie vacanze oltre che di lavorare come fotografo di matrimoni. Un matrimonio sul Lago di Garda vi incanterà sicuramente e le foto mozzafiato sono garantite. <br> </br> <br> </br> Indipendentemente da quale delle numerose località idilliache intorno al Lago di Garda vorreste celebrare il vostro matrimonio, il Lago di Garda offre un'atmosfera affascinante e regala alla vostra celebrazione un ambiente adatto e indimenticabile . Da diversi anni ho il privilegio di accompagnare diverse coppie nel cammino verso l'altare in ogni stagione. Organizzare un matrimonio sul Lago di Garda e trovare la location perfetta non è certamente un'impresa, ma richiede un'attenta pianificazione. Pertanto, oltre alla mia attività principale di fotografo di matrimonio sul Lago di Garda, vi offro anche di fornirvi contatti importanti per l'organizzazione del matrimonio e di trovare insieme a voi la location ideale per matrimoni sul Lago di Garda.",
       "btn": "Contatto"
     },
     "warum": {
       "titel": "Perché un matrimonio sul Lago di Garda è così speciale",
-      "content1": "Viaggio in tutta Europa come fotografo di matrimoni del Lago di Garda, sempre alla ricerca delle location perfette per scatti mozzafiato. Ma c'è un posto che mi affascina particolarmente: il Lago di Garda. Ho avuto la fortuna di viaggiare e fotografare quasi tutte le cittadine panoramiche intorno al Lago di Garda. Con il mio supporto e la mia conoscenza delle location fotografiche più belle, il vostro matrimonio sul Lago di Garda sarà sicuramente un'esperienza indimenticabile. Da molti anni sono attratto dal Lago di Garda, sia privatamente che per conto dei miei sposi. Lì sono sempre felice di creare immagini impressionanti di fronte a scenari mozzafiato come fotografo di matrimoni sul Lago di Garda e di regalarti un prezioso ricordo di questo giorno speciale per la tua vita insieme. <br> </br> <br> </br> Nella tua pianificazione, dovresti considerare che un matrimonio sul Lago di Garda richiede una grande organizzazione. Ho già lavorato con molti fornitori di servizi nelle varie regioni intorno al Lago di Garda e posso quindi supportarti con i miei contatti e la mia esperienza. Ci sono numerose bellissime location per matrimoni in diverse categorie di prezzo che posso consigliarti. Sono anche felice di aiutarvi con la selezione del menu di nozze in modo che nulla ostacoli il vostro matrimonio da sogno sul Lago di Garda."
+      "content1": "Viaggio in tutta Europa come fotografo di matrimonio sul Lago di Garda, sempre alla ricerca delle location perfette per scatti mozzafiato. Ma c’è un luogo che mi affascina particolarmente: il Lago di Garda. Ho avuto la fortuna di viaggiare e fotografare quasi tutte le pittoresche cittadine attorno al Lago di Garda. Con il mio supporto e la mia conoscenza delle location fotografiche più belle, il vostro matrimonio sul Lago di Garda sarà sicuramente un'esperienza indimenticabile. Da molti anni sono attratto dal Lago di Garda, sia privatamente che per conto dei miei sposi. Lì sono sempre felice di creare immagini impressionanti davanti a scenari mozzafiato come fotografo di matrimoni sul Lago di Garda e di regalarvi un prezioso ricordo di questo giorno speciale per la vostra vita insieme. <br> </br> <br> </br> Nella vostra pianificazione tenete presente che un matrimonio sul Lago di Garda richiede un'ampia organizzazione. Ho già collaborato con molti fornitori di servizi nelle diverse regioni attorno al Lago di Garda e posso quindi supportarvi con i miei contatti e la mia esperienza. Ci sono numerose bellissime location per matrimoni in diverse categorie di prezzo che posso consigliarvi. Sono felice di aiutarvi anche nella scelta del menu di nozze, affinché nulla ostacoli il vostro matrimonio da sogno sul Lago di Garda."
     },
     "heiraten": {
-      "title": "Immagini emozionali e autentiche del tuo matrimonio sul Lago di Garda",
+      "title": "Immagini emozionanti e autentiche del vostro matrimonio sul Lago di Garda",
       "subTitle": "Sposarsi sul Lago di Garda",
-      "content": "Fotografo di matrimoni sul Lago di Garda - Creerò una documentazione sensibile e autentica di questo giorno speciale della tua vita, adattata al luogo della celebrazione del tuo matrimonio. Le immagini ti permetteranno sempre di rivivere il giorno del tuo matrimonio con le tue famiglie e i tuoi amici. In definitiva, dovrebbero comunque fornire la pelle d'oca anche dopo molti anni. <br> </br> <br> </br> Come fotografo di matrimoni sul Lago di Garda, rimarrò discretamente sullo sfondo e scatterò foto professionali. Un matrimonio sul Lago di Garda non sarà solo una mini vacanza per voi, ma vi garantirà anche immagini spettacolari e uniche del vostro matrimonio. Considero completo il mio lavoro di fotografo di matrimoni sul Lago di Garda solo quando ti fidi di me e ti senti a tuo agio con me. Non vedo l'ora di vedere te e le tue idee creative per il tuo grande giorno.",
+      "content": "Fotografo di matrimonio sul Lago di Garda - Creerò una documentazione sensibile e autentica di questo giorno speciale della tua vita, su misura per il luogo della celebrazione del tuo matrimonio. Le immagini ti permetteranno sempre di rivivere il giorno del tuo matrimonio con le tue famiglie e i tuoi amici. In definitiva, dovrebbero ancora far venire la pelle d’oca anche dopo molti anni. <br> </br> <br> </br> Come fotografo di matrimoni sul Lago di Garda, rimarrò discretamente in secondo piano e scatterò foto professionali. Un matrimonio sul Lago di Garda non sarà per voi solo una mini vacanza, ma garantirà anche immagini spettacolari ed uniche del vostro matrimonio. Considero completo il mio lavoro di fotografo di matrimonio sul Lago di Garda solo quando ti fidi di me e ti senti a tuo agio con me. Non vedo l'ora di vedere te e le tue idee creative per il tuo grande giorno.",
       "btn": "Contatto"
     },
     "location": {
-      "title": "Le 10 migliori location per matrimoni <br> </br> sul Lago di Garda per il tuo matrimonio",
+      "title": "Le 10 migliori location per matrimoni <br> </br> sul Lago di Garda per il vostro matrimonio",
       "subTitle": "Splendida location per matrimoni sul Lago di Garda",
       "loca1": {
         "subTitle": "Location per matrimoni sul Lago di Garda",
-        "content": "Situata tra il Lago di Garda e Verona, la storica Antica Dimora del Turco presenta la location ideale per i festeggiamenti nuziali. La posizione rustica Antica Dimora del Turco è immersa nei vigneti e nel paesaggio collinare del Lago di Garda. Inoltre, il luogo ha diverse possibilità di alloggio e una piscina nelle immediate vicinanze"
+        "content": "Situata tra il Lago di Garda e Verona, la storica Antica Dimora del Turco rappresenta la location ideale per festeggiamenti di nozze. La posizione rustica dell'Antica Dimora del Turco è immersa nei vigneti e nel paesaggio collinare del Lago di Garda. Inoltre, il luogo dispone di diverse possibilità di alloggio e di una piscina nelle immediate vicinanze"
       },
       "loca2": {
         "subTitle": "Sposarsi sul Lago di Garda",
-        "content": "La Finestra Sul Fiume, in inglese la finestra sul fiume, si trova sulle rive del fiume a Valeggio sul Mincio, a pochi chilometri da Peschiera del Garda, Verona e dai Laghi di Mantova. Qui le colline di Valeggiano, uno dei più bei paesaggi veneti, caratterizzate da vigneti e giardini, formano un pendio verso il fiume, terminando in un prato che sfocia nell'acqua. Un luogo perfetto per il tuo matrimonio sul Lago di Garda."
+        "content": "La Finestra Sul Fiume, in inglese la finestra sul fiume, si trova sulle rive del fiume a Valeggio sul Mincio, a pochi chilometri da Peschiera del Garda, Verona e dai Laghi di Mantova. Qui le colline di Valeggiano, uno dei più bei paesaggi veneti, caratterizzato da vigneti e giardini, formano un pendio verso il fiume, terminando in un prato che sfocia nell'acqua. Un luogo perfetto per il vostro matrimonio sul Lago di Garda."
       },
       "loca3": {
         "subTitle": "Località Lago di Garda",
-        "content": "La storica casa di campagna del XV secolo offre un ambiente accogliente e facilmente accessibile, ideale per il vostro matrimonio. L'ampia sala, con la sua volta in pietra e mattoni, unisce il calore dell'atmosfera di campagna all'eleganza e all'esclusività di un vero e proprio salone di rappresentanza. Il fienile con l'antica aia crea un'atmosfera squisita che vi accompagnerà come sposi nel vostro giorno speciale. L'ampio parco con i suoi cespugli e alberi, baciato dal sole e rinfrescato dalla brezza che soffia dal Monte Baldo, offre la cornice ideale per il vostro matrimonio nella bella stagione. Matrimoni indimenticabili, curati nei minimi dettagli, diventano unici in abbinamento ai vini prodotti dalla tenuta."
+        "content": "La storica casa di campagna del XV secolo offre un ambiente accogliente e facilmente accessibile, ideale per il vostro matrimonio. L'ampia sala, con la sua volta in pietra e mattoni, unisce il calore dell'atmosfera di campagna con l'eleganza e l'esclusività di un vero salone di ricevimento. Il fienile con la vecchia aia crea un'atmosfera squisita che accompagnerà voi sposi durante il vostro giorno speciale. L'ampio parco con i suoi cespugli e alberi, baciato dal sole e rinfrescato dalla brezza che soffia dal Monte Baldo, offre la cornice ideale per il vostro matrimonio nella bella stagione. Matrimoni indimenticabili, curati nei minimi dettagli, diventano unici in abbinamento ai vini prodotti dall'azienda."
       },
       "loca4": {
         "subTitle": "Location matrimonio Lago di Garda",
-        "content": "L'Agriturismo Pratello si trova sulle colline moreniche di Padenghe, immerso nel verde dei vigneti. Completa la proprietà un ampio giardino con laghetto biologico e un magnifico viale di cipressi. Molti dei piatti offerti, tra cui salsiccia, pasta e marmellata, provengono dalla nostra produzione. Qui si producono anche ottimi vini e oli. Un ampio parcheggio è disponibile per gli invitati al matrimonio che arrivano in auto. Circa 35 ospiti possono soggiornare direttamente presso l'Agriturismo Pratello. La posizione: Lo storico maso si trova a Padenghe sul Garda, un piccolo e tranquillo paese sulla sponda occidentale del Lago di Garda in Lombardia."
+        "content": "L'Agriturismo Pratello si trova sulle colline moreniche di Padenghe, circondato dal verde dei vigneti. Completa la proprietà un ampio giardino con biolaghetto ed un magnifico viale di cipressi. Molti dei piatti offerti, tra cui salsicce, pasta e marmellata, provengono dalla nostra produzione. Qui vengono prodotti anche ottimi vini e oli. Per gli invitati al matrimonio che arrivano in auto è disponibile un ampio parcheggio. Circa 35 ospiti possono soggiornare direttamente presso l'Agriturismo Pratello. La posizione: La storica azienda agricola si trova a Padenghe sul Garda, un piccolo e tranquillo paese sulla sponda occidentale del Lago di Garda in Lombardia."
       },
       "loca5": {
         "subTitle": "Location per matrimoni sul Lago di Garda",
-        "content": "A soli due chilometri dal centro storico di Salò, sulla sponda occidentale del Lago di Garda, Villa Arcadio è arroccata su una collina circondata da un paesaggio di ulivi, frutteti, boschi e fiori. L'hotel a 4 stelle è ospitato in un antico monastero e offre a voi e ai vostri invitati un soggiorno piacevole. Le 18 camere e suite sono arredate con stile e combinano sapientemente l'architettura storica con lo stile moderno. Questo fornisce l'ambiente perfetto per prepararsi il giorno del tuo matrimonio. Nel ristorante dell'hotel, che dispone di splendide terrazze panoramiche, vengono serviti deliziosi piatti che spaziano dalla cucina locale a quella internazionale, preferibilmente con ingredienti di produzione propria. Oltre alla piscina, la location per matrimoni sul Lago di Garda offre anche diverse attività per rilassare e ringiovanire corpo e mente."
+        "content": "A soli due chilometri dalla storica cittadina di Salò, sulla sponda occidentale del Lago di Garda, Villa Arcadio è arroccata su una collina circondata da un paesaggio di ulivi, frutteti, boschi e fiori. L'hotel a 4 stelle è ospitato in un ex monastero e offre a voi e ai vostri invitati al matrimonio un soggiorno piacevole. Le 18 camere e suite sono arredate con stile e combinano sapientemente l'architettura storica con lo stile moderno. Ciò fornisce l'ambiente perfetto per prepararsi al giorno del matrimonio. Nel ristorante dell'hotel, che dispone di splendide terrazze panoramiche, vengono serviti deliziosi piatti che spaziano dalla cucina locale a quella internazionale, preferibilmente con ingredienti di produzione propria. Oltre alla piscina, la location per matrimoni sul Lago di Garda offre anche diverse attività per rilassare e rigenerare corpo e mente."
       },
       "loca6": {
         "subTitle": "Fotografo di matrimonio sul Lago di Garda",
-        "content": "L'antica tenuta di campagna, completamente ristrutturata, è immersa in una splendida campagna e circondata da 13 ettari di parco secolare, incorniciato da antichi muri in pietra. Le camere, arredate in stile country-chic, offrono la cornice perfetta per il vostro matrimonio. La Corte Guastalla si trova in una posizione privilegiata tra il Lago di Garda e la città d'arte di Verona. La location esclusiva garantisce privacy assoluta e un'accoglienza di prima classe in un ambiente informale ma elegante. Un team di professionisti attenti ad ogni piccolo dettaglio vi accompagna durante la pianificazione, affinché ogni desiderio possa essere esaudito e questo giorno sia davvero indimenticabile e felice per voi come sposi e per i vostri invitati. Una colazione a base di ingredienti freschi e locali come i frutti rossi è solo uno dei tanti vantaggi per chi sceglie Corte Guastalla come location per il proprio evento."
+        "content": "L'antica tenuta di campagna, completamente ristrutturata, è immersa in uno splendido paesaggio e circondata da 13 ettari di parco secolare, incorniciato da antichi muretti in pietra. Le camere, progettate in stile country-chic, offrono la cornice perfetta per il vostro matrimonio. La Corte Guastalla è in una posizione privilegiata tra il Lago di Garda e la città d'arte di Verona. La location esclusiva garantisce assoluta privacy ed un'accoglienza di prim'ordine in un ambiente informale ma elegante. Un team di professionisti attento ad ogni piccolo dettaglio vi accompagnerà durante la pianificazione, affinché ogni vostro desiderio possa essere esaudito e questo giorno sia davvero indimenticabile e felice per voi sposi e per i vostri invitati. Una colazione a base di ingredienti freschi e locali come i frutti rossi è solo uno dei tanti vantaggi per chi sceglie Corte Guastalla come location per il proprio evento."
       },
       "loca7": {
         "subTitle": "Sposarsi sul Lago di Garda",
-        "content": "Punta San Vigilio si trova in cima al Monte Baldo e si protende all'interno del lago, proprio dove il lago è più ampio e aperto: da qui si vede quasi tutto il Lago di Garda. Una location per matrimoni elegante ed esclusiva sul Lago di Garda: Villa San Vigilio vi accoglierà come sposi novelli con il fascino della villa rinascimentale, gli incantevoli giardini e lo splendido scenario naturale del Lago di Garda che la circonda, aggiungendo ancora più magia al vostro matrimonio più bello giorno. E' possibile celebrare un matrimonio gratuito nella magnifica villa rinascimentale o nell'incantevole giardino con limoni, oleandri e cipressi."
+        "content": "Punta San Vigilio si trova in cima al Monte Baldo e si protende all'interno del lago, esattamente dove il lago è più ampio e aperto: da qui si vede quasi tutto il Lago di Garda. Una location per matrimoni elegante ed esclusiva sul Lago di Garda: Villa San Vigilio vi accoglierà come sposi con il fascino della villa rinascimentale, gli incantevoli giardini e lo splendido scenario naturale del Lago di Garda che la circonda, aggiungendo ancora più magia alle vostre più belle giorno. È possibile celebrare un matrimonio gratuitamente nella magnifica villa rinascimentale o nell'incantevole giardino con alberi di limoni, oleandri e cipressi."
       },
       "loca8": {
         "subTitle": "Location matrimonio Lago di Garda",
-        "content": "Con i suoi incantevoli interni in stile settecentesco, le sue terrazze panoramiche, gli ampi parchi che la circondano e la vista mozzafiato su tutta la Valpolicella, Villa Cariola offre un fascino raffinato che la rende una location esclusiva per matrimoni da favola. Vi accompagniamo nell'organizzazione di ogni dettaglio del vostro grande giorno: dalla cerimonia al ricevimento e nella consulenza sui fornitori di servizi adeguati come fioristi, parrucchieri e gruppi musicali. I nostri wedding planner dedicati ti aiuteranno a trasformare i tuoi sogni in realtà. La Villa Cariola è a disposizione per piccoli eventi privati ​​così come per grandi ed esclusivi ricevimenti con oltre 250 persone."
+        "content": "Con i suoi incantevoli interni in stile settecentesco, le sue terrazze panoramiche, gli ampi parchi che la circondano e la vista mozzafiato su tutta la Valpolicella, Villa Cariola offre un fascino raffinato che la rende una location esclusiva per matrimoni da favola. Vi accompagniamo nell'organizzazione di ogni dettaglio del vostro grande giorno: dalla cerimonia al ricevimento e vi consigliamo i fornitori di servizi adatti come fioristi, parrucchieri e gruppi musicali. I nostri wedding planner dedicati ti aiuteranno a trasformare i tuoi sogni in realtà. Villa Cariola è disponibile per piccoli eventi privati ​​così come per grandi ed esclusivi ricevimenti con oltre 250 persone."
       },
       "loca9": {
         "subTitle": "Location per matrimoni sul Lago di Garda",
-        "content": "Questo affascinante agriturismo con villa e chiesetta si trova a pochi minuti da Bardolino sul Lago di Garda. La storia di questo maniero risale al XV secolo. La proprietà tradizionale e autentica è meravigliosamente situata per un matrimonio immerso nella natura. Inoltre, i proprietari ospitali non lasciano nulla a desiderare."
+        "content": "Questo grazioso agriturismo con villa e chiesetta si trova a pochi minuti da Bardolino sul Lago di Garda. La storia di questo maniero risale al XV secolo. La struttura tradizionale e autentica è situata in una posizione meravigliosa per un matrimonio immerso nella natura. Inoltre, i proprietari ospitali non lasciano nulla a desiderare."
       },
       "loca10": {
         "subTitle": "Fotografo di matrimonio sul Lago di Garda",
-        "content": "L'isola riserva innumerevoli sorprese e tesori. Scopri quelli che ti affascinano di più, grazie alla passione e all'esperienza dei titolari, che ti aiuteranno a creare il tuo evento unico, per sorprendere i tuoi ospiti e rendere incomparabile questo giorno speciale. Goditi insieme ai tuoi invitati una cornice mozzafiato per la cerimonia nuziale affacciata sul lago, circondata da terrazze ed esotici giardini pensili sotto la maestosa villa, l'imponente torre e le antiche mura del monastero. Una cornice esclusiva per il vostro ricevimento sarà la loggia con i suoi affreschi settecenteschi, il maestoso parco naturale ei giardini all'italiana dai dolci profumi di rose e ortensie. L'eleganza di un servizio di ristorazione di prima classe è esaltata dagli arredi spettacolari, dalle viste sui giardini labirintici, dai dettagli ricercati della villa e dai riflessi del tramonto sul lago. Le rive appartate del lago sono una tela bianca per la tua immaginazione e uno sfondo perfetto per intrattenimenti eccezionali come fuochi d'artificio sospesi, scene teatrali e altro ancora."
+        "content": "L'isola nasconde innumerevoli sorprese e tesori. Scopri quelli che ti affascinano di più, grazie alla passione e all'esperienza dei proprietari, che ti aiuteranno a creare il tuo evento unico, per sorprendere i tuoi ospiti e rendere ineguagliabile questo giorno speciale. Godetevi insieme ai vostri ospiti una cornice mozzafiato per la cerimonia nuziale affacciati sul lago, circondati da terrazze ed esotici giardini pensili sotto la maestosa villa, l'imponente torre e le antiche mura del monastero. Cornice esclusiva per il vostro ricevimento sarà la loggia con i suoi affreschi del '700, il maestoso parco naturale ed i giardini all'italiana dai dolci profumi di rose e ortensie. L'eleganza di un servizio catering di prima classe è esaltata dagli spettacolari arredi, dalla vista sui labirintici giardini, dai dettagli elaborati della villa e dai riflessi del tramonto sul lago. Le sponde appartate del lago sono una tela bianca per la tua immaginazione e uno sfondo perfetto per spettacoli eccezionali come fuochi d'artificio sospesi, scene teatrali e altro ancora."
       }
     },
     "kosten": {
-      "title": "Quanto costa <br> </br> un matrimonio sul Lago di Garda?",
+      "title": "Quanto <br> </br> costa un matrimonio sul Lago di Garda?",
       "subTitle": "Quanto costa un matrimonio sul Lago di Garda",
-      "content": "Non è facile dare una risposta generica alla domanda su quanto costa un matrimonio sul Lago di Garda. In definitiva, il fattore costo dipende dal design della tua cerimonia. Chiediti invece quanto sei disposto a spendere per sposarti sul Lago di Garda e il fotografo di matrimonio sul Lago di Garda per creare un evento indimenticabile per te e i tuoi ospiti. <br> </br> <br> </br> In parole povere, puoi aspettarti almeno 17.000 € per un matrimonio sul Lago di Garda per circa 65 persone."
+      "content": "Non è facile dare una risposta generale alla domanda quanto costa un matrimonio sul Lago di Garda. In definitiva, il fattore costo dipende dal design della tua cerimonia. Chiediti invece quanto sei disposto a spendere per il matrimonio sul Lago di Garda e per il fotografo di matrimonio sul Lago di Garda per poter realizzare un evento indimenticabile per te e i tuoi ospiti. <br> </br> <br> </br> In linea di massima per un matrimonio sul Lago di Garda per circa 65 persone ci si possono aspettare almeno 17.000 euro."
     },
     "hochzeitsplaner": {
       "title": "I migliori wedding planner sul Lago di Garda",
@@ -385,7 +387,7 @@
           "content": "Synergy Weddings wedding planner - Claudia Schuchter Lamboglia è la tua wedding planner personale quando si tratta di sposarsi sul Lago di Garda. Originaria di Innsbruck, Claudia ha ora trovato la sua casa in Italia. In qualità di interprete giurata per la lingua italiana, è in grado di tradurre in tedesco il vostro matrimonio civile. Francesco Lamboglia, nato in Italia, è il tuo contatto perfetto per le nostre sedi in Italia."
         },
         "plan2": {
-          "content": "Wedding Planner Beautiful Italian Weddings - Ogni matrimonio è un evento unico. A Beautiful Italian Weddings trattano ogni matrimonio come tale: un giorno molto speciale che appartiene solo a te. Beautiful Italian Weddings ama i matrimoni ed è pronta ad aiutarti a mostrare al mondo quanto vi amate; e chi meglio di un'azienda della terra dell'amore per farlo? Il suo background italiano la rende ricca di immaginazione e idee creative."
+          "content": "Wedding Planner Bellissimi Matrimoni Italiani - Ogni matrimonio è un evento unico. A Beautiful Italian Weddings trattano ogni matrimonio come tale: un giorno molto speciale che appartiene solo a te. Beautiful Italian Weddings ama i matrimoni ed è pronta ad aiutarti a mostrare al mondo quanto vi amate; e chi meglio di un'azienda della terra dell'amore può farlo? Il suo background italiano la rende ricca di fantasia e idee creative."
         }
       }
     },
@@ -401,84 +403,191 @@
     "subTitle": "Sposarsi nella Toscana mediterranea",
     "link": "Al sito web",
     "einleitung": {
-      "title": "Matrimonio in Toscana - Tutto quello che c'è da sapere sull'organizzazione del matrimonio per un matrimonio in Toscana",
+      "title": "Matrimonio in Toscana - Tutto quello che devi sapere sull'organizzazione del matrimonio in Toscana",
       "subTitle": "Sposarsi in Toscana",
-      "content": "Fotografo Matrimonio Toscana - Hai deciso di sposarti e organizzare un matrimonio in Toscana. Vorrei congratularmi con te per questo. Ora è il momento di pianificare il matrimonio. Ti piacerebbe che si svolgesse di fronte a uno scenario mozzafiato? <br> </br> <br> </br> Allora vorrei consigliare un matrimonio a Firenze. In questa guida ti dirò tutto quello che c'è da sapere su come sposarsi a Firenze, altri bei posti dove sposarsi e come trovare un fotografo di matrimonio a Firenze.",
+      "content": "Fotografo Matrimonio Toscana - Hai deciso di sposarti e organizzare un matrimonio in Toscana. Vorrei congratularmi con te per questo. Adesso è il momento di organizzare il matrimonio. Ti piacerebbe che tutto ciò avvenisse davanti ad uno scenario mozzafiato? <br> </br> <br> </br> Allora mi sento di consigliarvi un matrimonio a Firenze. In questa guida ti dirò tutto quello che devi sapere su sposarsi a Firenze, altri bellissimi posti dove sposarsi e come trovare un fotografo di matrimonio a Firenze.",
       "btn": "Contatto"
     },
     "warum": {
       "titel": "Perché un matrimonio in Toscana è così speciale",
-      "content1": "Sposarsi in Toscana - Hai preso la meravigliosa decisione di sposarti nella pittoresca Toscana. L'attenzione è ora sull'organizzazione del matrimonio dei tuoi sogni. Sogni una cerimonia davanti ad un panorama impressionante? Allora consiglio vivamente un matrimonio in Toscana. In questa guida ti svelerò tutti i segreti che devi conoscere per sposarti a Firenze e in altre incantevoli location per matrimoni e come trovare il perfetto fotografo di matrimoni a Firenze."
+      "content1": "Sposarsi in Toscana - Avete preso la meravigliosa decisione di sposarvi nella pittoresca Toscana. Il focus ora è sull’organizzazione del matrimonio dei tuoi sogni. Sogni una cerimonia davanti ad un panorama impressionante? Allora consiglio vivamente un matrimonio in Toscana. In questa guida ti svelerò tutti i segreti che devi sapere per sposarti a Firenze e in altre incantevoli location per matrimoni, e come trovare il fotografo di matrimonio perfetto a Firenze."
     },
     "location": {
       "title": "Location per matrimoni in Toscana",
       "subTitle": "Sposarsi in Toscana - Le migliori location per matrimoni in Toscana",
       "loca1": {
         "subTitle": "Location matrimonio Firenze",
-        "content": "Fotografo di matrimoni Toscana - Per la tua celebrazione di matrimonio unica in Toscana, vorrei raccomandare il Castello di Vincigliata e un fotografo di matrimoni adatto in loco. Questa splendida location immersa nelle colline di Fiesole costituisce uno sfondo perfetto per il fotografo di matrimoni a Firenze. Non lontano dalla città, qui puoi celebrare un matrimonio italiano indimenticabile e scambiare le promesse nei pittoreschi giardini o sulla pittoresca terrazza. Con il suo ampio cortile interno, il castello si rivela la cornice ideale per il vostro matrimonio in Toscana. Offre ai tuoi ospiti e al fotografo di matrimoni spazio sufficiente per una celebrazione suggestiva e foto eccezionali. Il fotografo di matrimoni ti porterà nei vigneti circostanti per catturarti davanti a questo scenario impressionante. Una caratteristica speciale di questo luogo sono le torce che sono poste intorno al castello - uno spettacolo magico che il fotografo di matrimoni catturerà sicuramente nelle immagini."
+        "content": "Fotografo di matrimonio Toscana - Per la vostra celebrazione unica del matrimonio in Toscana, vorrei consigliare il Castello di Vincigliata e un fotografo di matrimonio adatto in loco. Questa splendida location immersa nelle colline di Fiesole costituisce uno sfondo perfetto per il fotografo di matrimonio a Firenze. Non lontano dalla città, qui potrete celebrare un indimenticabile matrimonio italiano e scambiarvi le promesse matrimoniali nei pittoreschi giardini o sulla pittoresca terrazza. Con il suo ampio cortile interno, il castello si rivela la cornice ideale per la celebrazione del vostro matrimonio in Toscana. Offre ai vostri ospiti e al fotografo del matrimonio spazio sufficiente per una celebrazione suggestiva e foto eccezionali. Il fotografo di matrimonio vi condurrà tra i vigneti circostanti per immortalarvi davanti a questo suggestivo scenario. Una caratteristica speciale di questo luogo sono le torce posizionate attorno al castello: uno spettacolo magico che il fotografo di matrimonio catturerà sicuramente nelle immagini."
       },
       "loca2": {
         "subTitle": "Sposarsi in Toscana",
-        "content": "Poco distante dal Castello di Vincigliata si trova l'incantevole Villa di Maiano, dove potrete scegliere di celebrare il vostro matrimonio toscano all'interno o all'esterno. Luoghi adatti, completi di un fotografo di matrimoni toscano, sono disponibili qui in diverse varianti. Ti consiglio di sposarti sotto i vecchi rami di quercia e poi spostare la tua festa nella sala da ballo per fare il tuo primo ballo sotto gli storici lampadari. C'è anche la possibilità di includere la vicina Chiesa di San Maerino a Maiano nei tuoi festeggiamenti se una cerimonia cattolica è nella tua lista dei desideri. C'è spazio per oltre 200 ospiti e ovviamente per il fotografo di matrimoni toscano."
+        "content": "Non lontano dal Castello di Vincigliata si trova l'incantevole Villa di Maiano, dove potrete scegliere di celebrare il vostro matrimonio toscano al chiuso o all'aperto. Le location adatte, complete di fotografo di matrimonio toscano, sono disponibili qui in diverse varianti. Vi consiglio di sposarvi sotto i vecchi rami di quercia e poi di spostare la vostra festa nella sala da ballo per il vostro primo ballo sotto gli storici lampadari. C'è anche la possibilità di includere la vicina Chiesa di San Maerino a Maiano nei vostri festeggiamenti se nella vostra lista dei desideri c'è una cerimonia cattolica. C'è spazio per oltre 200 invitati e ovviamente per il fotografo di matrimonio toscano."
       },
       "loca3": {
         "subTitle": "Fotografo Matrimonio Toscana",
-        "content": "Matrimoni in Toscana - Visualizza il tuo matrimonio da sogno nel cuore di Firenze, circondato da un parco secolare con vista sul famoso Giardino di Boboli. A questo punto vorrei consigliarvi la magnifica Villa Cora. Questo esclusivo grand hotel vi aspetta con sale riunioni da cartolina, tra cui la Moresken Saal e la Sala degli Specchi. Se l'idea di una festa di matrimonio sotto il cielo fiorentino vi ispira, l'ampia terrazza sul tetto con i suoi 150 metri quadrati offre spazio sufficiente per i vostri ospiti. Non dovrebbe mancare, ovviamente, il fotografo di matrimoni fiorentino, che immortala questo scenario spettacolare in immagini indimenticabili."
+        "content": "Matrimoni in Toscana - Visualizza il tuo matrimonio da sogno nel cuore di Firenze, circondato da un parco secolare con vista sul famoso Giardino di Boboli. A questo punto mi sento di consigliarvi la magnifica Villa Cora. Questo esclusivo grand hotel vi aspetta con sale riunioni perfette, tra cui la Moresken Saal e la Sala degli Specchi. Se l'idea di una celebrazione del matrimonio sotto il cielo fiorentino ti ispira, la spaziosa terrazza sul tetto con i suoi 150 metri quadrati offre spazio sufficiente per i tuoi ospiti. Non può mancare ovviamente il fotografo di matrimonio fiorentino, che immortala questo spettacolare scenario in scatti indimenticabili."
       },
       "loca4": {
-        "subTitle": "Location matrimonio Toscana",
-        "content": "Nel cuore di Firenze, a due passi dalla Galleria degli Uffizi e dal Duomo, sorge il magnifico Four Seasons Hotel. Questa villa storica offre spazio per un massimo di 500 invitati e ti consente di organizzare un matrimonio indimenticabili in Toscana. La sala da ballo del monastero costituisce lo sfondo ideale per i vostri voti. In alternativa vi suggerisco il prato del Tempio, circondato da un giardino che esiste da secoli. Il Four Seasons ha anche un'antica cappella risalente al 1475. Il tuo fotografo di matrimoni a Firenze ti metterà in scena abilmente in questi luoghi suggestivi e ti regalerà foto ricordo incomparabili."
+        "subTitle": "Location per matrimoni Toscana",
+        "content": "Nel cuore di Firenze, a due passi dalla Galleria degli Uffizi e dal Duomo, sorge il magnifico Four Seasons Hotel. Questa villa storica offre spazio per un massimo di 500 ospiti invitati e ti consente di organizzare un grande matrimonio indimenticabile in Toscana. La sala da ballo del monastero costituisce lo sfondo ideale per i vostri voti nuziali. In alternativa vi suggerisco il prato di Tempio, circondato da un giardino che esiste da secoli. Il Four Seasons dispone anche di un'antica cappella risalente al 1475. Il vostro fotografo di matrimonio a Firenze vi metterà abilmente in scena in queste suggestive location e vi regalerà foto ricordo incomparabili."
       },
       "loca5": {
         "subTitle": "Fotografo Matrimonio Toscana",
-        "content": "Location per matrimoni Toscana - Proprio sotto il famoso Piazzale Michelangelo si estende il roseto, che offre una vista mozzafiato sulla città. Un giardino giapponese, numerose statue in bronzo e una varietà di 350 diversi tipi di rose rendono questa cornice affascinante per il tuo matrimonio a Firenze. Da maggio a settembre, la terrazza-giardino apre le sue porte per i matrimoni civili. Ovviamente il fotografo di matrimonio toscano è sempre presente."
+        "content": "Location matrimonio Toscana - Proprio sotto il famoso Piazzale Michelangelo si estende il roseto, da cui si gode una vista mozzafiato sulla città. Un giardino giapponese, numerose statue in bronzo e una varietà di 350 tipi diversi di rose rendono questa cornice affascinante per il vostro matrimonio a Firenze. Da maggio a settembre la terrazza-giardino apre le sue porte per i matrimoni civili. Ovviamente è sempre presente il fotografo di matrimonio toscano."
       },
       "loca6": {
         "subTitle": "Sposarsi in Toscana",
-        "content": "Sogni di sposarti in un palazzo storico? Allora il St. Regis di Firenze è l'indirizzo giusto per te. Da qui si aprono splendidi panorami sui luoghi famosi della città e sul fiume Arno. Indipendentemente dal fatto che tu stia pianificando una celebrazione intima o un grande evento: l'hotel offre sale flessibili per eventi di ogni dimensione. La sala più grande può accogliere 250 persone, che naturalmente possono essere ospitate anche nell'hotel. Tutto quello che devi fare è prenotare il fotografo di matrimoni di Firenze e la celebrazione indimenticabile può iniziare."
+        "content": "Sogni di sposarti in un palazzo storico? Allora il St. Regis di Firenze è l'indirizzo giusto per te. Da qui si aprono splendidi panorami sulle famose attrazioni della città e sul fiume Arno. Non importa se state pianificando una festa intima o un grande evento: l'hotel offre sale flessibili per ogni dimensione di evento. La sala più grande può ospitare 250 ospiti, che ovviamente possono essere ospitati anche in hotel. Tutto quello che devi fare è prenotare il fotografo di matrimonio da Firenze e la celebrazione indimenticabile può iniziare."
       }
     },
     "benotigen": {
-      "title": "Sposarsi in Italia <br> </br> di cosa hai bisogno per il tuo matrimonio in Toscana?",
-      "subTitle": "Matrimoni in Toscana - fotografo matrimonio Firenze",
-      "content": "Fotografo Matrimonio Toscana - Hai la cittadinanza americana? <br> </br> Non lasciarti scoraggiare dalla burocrazia, sposarsi in Italia è decisamente fattibile. Ottieni un Atto Notorio al Consolato Italiano prima di lasciare gli Stati Uniti. <br> </br> <br> </br> Per il matrimonio ti serviranno i tuoi due certificati di nascita, eventuali precedenti atti di matrimonio e il decreto assoluto. Se applicabile, sarà necessario anche il certificato di morte certificato e tradotto dell'ex coniuge. Il tuo passaporto verrà timbrato alla frontiera. Inoltre, devi fissare un appuntamento per il tuo matrimonio in Toscana presso il consolato americano e compilare il cosiddetto modulo nulla osta. Dopo il matrimonio, devi portare la tua licenza di matrimonio in Prefettura per farla legalizzare per gli Stati Uniti. E, naturalmente, il fotografo di matrimoni di Firenze è una parte indispensabile dei tuoi preparativi."
+      "title": "Sposarsi in Italia <br> </br> cosa ti occorre per il tuo matrimonio in Toscana?",
+      "subTitle": "Matrimoni in Toscana - fotografo di matrimonio Firenze",
+      "content": "Fotografo Matrimonio Toscana - Hai la cittadinanza americana? <br> </br> Non lasciarti scoraggiare dalla burocrazia, sposarsi in Italia è sicuramente fattibile. Ottieni un Atto Notorio presso il Consolato Italiano prima di lasciare gli Stati Uniti. <br> </br> <br> </br> Per il matrimonio avrete bisogno dei vostri due atti di nascita, degli eventuali certificati di matrimonio precedenti e del decreto assoluto. Se applicabile, ti servirà anche il certificato di morte autenticato e tradotto dell'ex coniuge. Il tuo passaporto verrà timbrato alla frontiera. Inoltre, dovrete fissare un appuntamento per il vostro matrimonio in Toscana presso il consolato americano e compilare il cosiddetto modulo nulla osta. Dopo il matrimonio dovrete portare la vostra licenza di matrimonio alla Prefettura per farla legalizzare per gli Stati Uniti. E, naturalmente, il fotografo di matrimonio di Firenze è una parte indispensabile dei vostri preparativi."
     },
     "kosten": {
       "title": "Quanto <br> </br> costa un matrimonio a Firenze / Toscana / Italia",
       "subTitle": "Quanto costa un matrimonio in Italia o Firenze/Toscana",
-      "content": "È difficile dare una risposta univoca a questa domanda, poiché il costo dipende molto dalla natura della tua celebrazione. Piuttosto, considera quanto sei disposto a investire nel tuo matrimonio in Toscana e il fotografo di matrimonio di Firenze per creare un'esperienza indimenticabile per te e i tuoi ospiti. <br> </br> Come stima approssimativa, dovresti preventivare almeno € 15.000 per un matrimonio a Firenze con circa 65 invitati, incluso un fotografo di matrimoni toscano."
+      "content": "È difficile dare una risposta univoca a questa domanda, poiché il costo dipende molto dalla natura della tua celebrazione. Piuttosto, considera quanto sei disposto a investire nel tuo matrimonio in Toscana e nel fotografo di matrimonio di Firenze per creare un'esperienza indimenticabile per te e i tuoi ospiti. <br> </br> Come stima approssimativa, per un matrimonio a Firenze con circa 65 invitati dovresti preventivare almeno € 15.000, incluso un fotografo di matrimonio toscano."
     },
     "hochzeitsplaner": {
       "title": "I migliori wedding planner in Toscana",
-      "subTitle": "Wedding planner a Firenze / Toscana che posso consigliare",
+      "subTitle": "Wedding planner a Firenze/Toscana che posso consigliare",
       "planer": {
         "plan1": {
-          "content": "Se stai pianificando di sposarti in Toscana e attribuisci grande importanza a wedding planner competenti e a un fotografo di matrimoni professionista di Firenze, Sara e il suo team sono la scelta giusta per te. Lascia che ti aiutiamo a trovare il luogo perfetto, gestire le pratiche burocratiche e tutti gli aspetti della pianificazione del tuo matrimonio. La ricerca del giusto fotografo di matrimoni fiorentino può essere affidata anche a Floé Weddings. Se desideri solo un servizio parziale per la pianificazione del tuo matrimonio, anche questo è possibile."
+          "content": "Se state programmando di sposarvi in ​​Toscana e attribuite grande importanza a wedding planner competenti e ad un fotografo di matrimoni professionista di Firenze, Sara e il suo team sono la scelta giusta per voi. Lascia che ti aiutiamo a trovare il luogo perfetto, a gestire le pratiche burocratiche e tutti gli aspetti della pianificazione del tuo matrimonio. La ricerca del giusto fotografo di matrimonio a Firenze può essere curata anche da Floé Weddings. Se desideri solo un servizio parziale per l'organizzazione del tuo matrimonio, anche questo è possibile."
         },
         "plan2": {
-          "content": "La fondatrice e CEO dell'azienda, Rita, ha radici in Francia, Roma e New York. Insieme al suo team, si è stabilita a Firenze e si dedica all'organizzazione del vostro matrimonio di lusso, incluso un fotografo di matrimonio, in Toscana. Affidati a un team multilingue che, in combinazione con un fotografo di matrimoni toscano, renderà il tuo evento un'esperienza indimenticabile e senza stress."
+          "content": "La fondatrice e CEO dell'azienda, Rita, ha radici in Francia, Roma e New York. Insieme al suo team, si è stabilita a Firenze e si dedica all'organizzazione del vostro matrimonio di lusso, compreso un fotografo di matrimonio, in Toscana. Affidati ad un team multilingue che, in combinazione con un fotografo di matrimonio toscano, renderà il tuo evento un'esperienza indimenticabile e senza stress."
         },
         "plan3": {
-          "content": "Con Mariane e il suo team incontrerai dei veri specialisti per matrimoni e fughe d'amore in Italia. Con sede a Firenze, il team offre una pianificazione completa del matrimonio, incluso il collocamento di un fotografo di matrimoni professionista a Firenze."
+          "content": "Con Mariane e il suo team incontrerai dei veri specialisti per matrimoni ed elopement in Italia. Con sede a Firenze, il team offre una pianificazione completa del matrimonio, inclusa l'assunzione di un fotografo di matrimoni professionista a Firenze."
         },
         "plan4": {
-          "content": "Questa è un'altra agenzia di wedding planner a Firenze, anzi, la prima a specializzarsi in clienti di lingua inglese. Il team collabora con altri fornitori di servizi per matrimoni della regione e con le migliori location. Saranno felici di aiutarti a superare le barriere linguistiche e si occuperanno anche di trovare il giusto fotografo di matrimoni in Toscana."
+          "content": "Questa è un'altra agenzia di pianificazione matrimoni a Firenze, la prima infatti a specializzarsi in clienti di lingua inglese. Il team collabora con altri fornitori di servizi nuziali nella regione e nelle migliori location. Saranno felici di aiutarvi a superare le barriere linguistiche e si occuperanno anche di trovare il giusto fotografo di matrimonio in Toscana."
         }
       }
     },
     "slogan": "Sposarsi in Toscana",
     "kontakt": "Contatto"
   },
-  "test": "i´o sono un testo ",
-
-  "blogPost1": {
-    "zeroConfig": "ITAL 1 Works with zero config",
-    "customizable": "Easy to customize",
-    "fast": "Blazingly fast"
-  },
-  "blogPost2": {
-    "zeroConfig": "ITAL 2 Works with zero config",
-    "customizable": "Easy to customize",
-    "fast": "Blazingly fast"
+  "blog": {
+    "post1": {
+      "id": "6",
+      "title": "Matrimonio nell'Orangerie del Castello di Weikersheim",
+      "description": "Matrimonio al castello di Weikersheim - I due si sono detti sì nella chiesa del castello di Bad Mergentheim e hanno poi celebrato nell'incantevole Orangerie del castello di Weikersheim. La Schlosskirche di Bad Mergentheim era il luogo perfetto per il matrimonio di Jess e Rudi. Il momento in cui i loro occhi si sono incontrati e si sono scambiati i voti è stato semplicemente magico. L'Orangerie nel castello di Weikersheim era il luogo ideale per celebrare l'inizio del loro matrimonio. Con le sue ampie finestre, creava un'atmosfera luminosa ed accogliente. La decorazione progettata con cura ha conferito alla stanza una luce molto speciale. Dalle bellissime composizioni floreali alla tavola apparecchiata con amore, tutto era perfetto fin nel più piccolo dettaglio. Come fotografo di matrimonio, ho avuto il privilegio di catturare i momenti preziosi di quel giorno speciale. Sono stato in grado di catturare le emozioni, l'amore e la felicità nelle mie foto. Dal primo bacio come coppia sposata ai calorosi abbracci e ai momenti divertenti sulla pista da ballo: è stato semplicemente meraviglioso catturare tutti questi momenti indimenticabili. Grazie per avermi permesso di essere lì.",
+      "shortDescription": "Matrimonio nell'Orangerie del castello di Weikersheim",
+      "favourite": "VERO",
+      "thumbnail": "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1689685180/hochzeitsreportagen/JessRudi/146a-Hochzeit-Orangerie-Schloss-Weikersheim_cssqso.jpg",
+      "date": "07/06/2023",
+      "link": "hochzeit-orangerie-schloss-weikersheim",
+      "keyword1": "Matrimonio nel castello dell'Orangerie di Weikersheim",
+      "keyword2": "Matrimonio Castello Weikersheim",
+      "cloudinaryTag": "JessRudi"
+    },
+    "post2": {
+      "id": "11",
+      "title": "Matrimonio sullo Zugspitze - Sina e Marcel",
+      "description": "Sina e Marcel hanno osato e hanno scelto niente meno che lo Zugspitze, la montagna più alta della Germania, per il loro matrimonio da sogno. Ma prima di sposarsi ci siamo incontrati la mattina all'Eibsee e abbiamo scattato alcune foto. Sina e Marcel si sono incontrati per la prima volta in questo giorno speciale all'Eibsee. Quando si sono visti nei loro abiti da sposa, la chimica è stata subito palpabile. Poi si è partiti per lo Zugspitze! In funivia abbiamo goduto della vista mozzafiato sulle cime circostanti. La tensione era palpabile mentre ci avvicinavamo all'apice del loro matrimonio. Una volta in cima, un panorama spettacolare ci aspettava per il matrimonio civile. Nonostante i 5 gradi freschi e la visibilità limitata a 100 metri attraverso la nebbia, Sina e Marcel hanno detto sì alla famiglia e agli amici. La luce soffusa che brilla attraverso la nebbia ha regalato alla cerimonia un'atmosfera fantastica. Dopo il matrimonio abbiamo utilizzato la posizione unica dello Zugspitze per altre foto di matrimonio. La nebbia ha dato alle immagini un tocco misterioso e ha reso lo scenario ancora più incantevole. Sina e Marcel erano raggianti di felicità mentre camminavano mano nella mano nella soffice nebbia. Le foto hanno catturato perfettamente il loro profondo legame e la magia di questo giorno straordinario. Il matrimonio di Sina e Marcel sullo Zugspitze rimarrà indimenticabile. Il vostro matrimonio sullo Zugspitze resterà per sempre un capitolo straordinario nella loro storia comune e ispirerà altre coppie a realizzare i propri sogni. Il matrimonio di Sina e Marcel sullo Zugspitze è stato un capitolo indimenticabile della loro vita. Hanno dimostrato che romanticismo e avventura possono andare di pari passo. La decisione di coronare il loro amore sulla vetta più alta della Germania farà sorridere per sempre i loro volti.",
+      "shortDescription": "Matrimonio sulla montagna più alta della Germania: sposatevi sullo Zuigspitze",
+      "link": "hochzeit-zugspitze",
+      "thumbnail": "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1689685506/hochzeitsreportagen/SinaMarcel/8-Hochzeit-Zugspitze_rh5nzm.jpg",
+      "favourite": "VERO",
+      "date": "07/10/2023",
+      "keyword1": "Matrimonio Zugspitze - matrimonio in montagna",
+      "keyword2": "Sposarsi sullo Zugspitze",
+      "cloudinaryTag": "SinaMarcel"
+    },
+    "post3": {
+      "id": "1",
+      "title": "Matrimonio boho rustico a Gauting - fotografo di matrimoni Gauting",
+      "description": "Pochi giorni fa mi è stato permesso di accompagnare un bellissimo matrimonio a Gauting.",
+      "shortDescription": "Matrimonio boho rustico a Gauting - fotografo di matrimoni Gauting",
+      "link": "hochzeit-in-gauting",
+      "thumbnail": "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1689682924/hochzeitsreportagen/JuliaNicolas/86-Hochzeitsfotograf-Gauting_ph6k3j.jpg",
+      "date": "25/05/22",
+      "favourite": "VERO",
+      "keyword1": "Fotografo di matrimoni Monaco di Baviera Augusta e Starnberg",
+      "keyword2": "Fotografo di matrimoni Starnberg",
+      "cloudinaryTag": "Giulia Nicolas"
+    },
+    "post4": {
+      "id": "2",
+      "title": "Matrimonio nella stalla al Landgasthof Lenderstuben Balzhausen",
+      "description": "Qualche giorno fa mi è stato permesso di fotografare un bellissimo matrimonio nella Lenderstuben di Balzhausen.",
+      "shortDescription": "Matrimonio nella stalla al Landgasthof Lenderstuben Balzhausen",
+      "link": "hochzeit-landgasthof-lederstuben-balzhausen",
+      "thumbnail": "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1689682616/hochzeitsreportagen/KatharinaFred/82-landgasthof-lenderstuben-hochzeit_xszomz.jpg",
+      "date": "14/12/2022",
+      "favourite": "VERO",
+      "keyword1": "Fotografo di matrimoni Monaco di Baviera - Sposarsi al Landgasthof Lenderstuben Balzhausen",
+      "keyword2": "--",
+      "cloudinaryTag": "CaterinaFred"
+    },
+    "post5": {
+      "id": "3",
+      "title": "Amore per la montagna in Alto Adige - Matrimonio sull'Alpe di Siusi",
+      "description": "In questa bellissima mattina mi è stato permesso di fotografare loro due durante uno shooting post-matrimonio sull'Alpe di Siusi, la luce ed erano semplicemente perfetti!",
+      "shortDescription": "Bellissimo servizio fotografico post-matrimonio sull'Alpe di Siusi. Fotografo di matrimoni Alto Adige",
+      "link": "hochzeit-seiser-alm",
+      "thumbnail": "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1689682527/hochzeitsreportagen/PetraAnton/27-hochzeit-seiser-alm-dolomiten_gbc1a9.jpg",
+      "date": "31/12/22",
+      "favourite": "VERO",
+      "keyword1": "Fotografo di matrimoni Alto Adige",
+      "keyword2": "Fotografo di matrimoni Balzhaus",
+      "cloudinaryTag": "PetraAnton"
+    },
+    "post6": {
+      "id": "4",
+      "title": "Shooting di coppia in Toscana al tramonto",
+      "description": "Ho fotografato questi due nella bellissima Toscana al tramonto",
+      "shortDescription": "Bellissimo servizio fotografico di matrimonio di coppia in Toscana. Fotografo Matrimonio Toscana",
+      "link": "hochzeiteitsfotograf-toskana",
+      "thumbnail": "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1689682790/hochzeitsreportagen/elisaDavide/20-hochzeitsfotograf-toskana_uoz4wu.jpg",
+      "date": "01/01/2023",
+      "favourite": "VERO",
+      "keyword1": "Fotografo di matrimonio Firenze",
+      "keyword2": "Fotografo Matrimonio Toscana",
+      "cloudinaryTag": "ElisaDavide"
+    },
+    "post7": {
+      "id": "5",
+      "title": "Matrimonio Mediterraneo in Italia - Lago di Braies",
+      "description": "Mi è stato permesso di fotografare un bellissimo matrimonio mediterraneo qui nel nord Italia. Abbiamo realizzato le riprese di coppia al Lago di Braies. Che ambientazione incredibilmente bella",
+      "shortDescription": "Matrimonio in Italia con servizio fotografico di coppia al Lago di Braies al tramonto - fotografo di matrimonio Italia",
+      "link": "hochzeit-lago-di-braies",
+      "thumbnail": "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1689682690/hochzeitsreportagen/FedericaEnrico/185-hochzeitsfotograf-toskana_hggaiw.jpg",
+      "date": "01/03/2023",
+      "favourite": "VERO",
+      "keyword1": "Fotografo Matrimonio Italia",
+      "keyword2": "Matrimonio al Lago di Braies",
+      "cloudinaryTag": "Federica Enrico"
+    },
+    "post8": {
+      "id": "7",
+      "title": "Matrimonio al Freihof – sposarsi tra i vigneti",
+      "description": "Matrimonio al Freihof Il fotografo di matrimoni di Würzburg accompagna i matrimoni all'Hotel Freihof. Catturare la magia del momento era il mio obiettivo al matrimonio di Sarah e Michael a Freihof. La coppia si è sposata in una suggestiva location tra il verde dei vigneti. Il matrimonio da sogno al Freihof si è svolto presso un laghetto nel parco dell'hotel. Come fotografo di matrimoni di Würzburg ho avuto il permesso di essere presente quando la coppia ha intrapreso l'avventura di sposarsi all'Hotel Freihof. Il matrimonio al Freihof - il fotografo di matrimoni di Würzburg è presente fin dall'inizio.Mi è stato permesso di accompagnare la vestizione degli sposi con la macchina fotografica e di accompagnare da vicino numerosi momenti emozionanti. Circondati da familiari e amici, Sarah e Michael sentivano crescere l'eccitazione, ma anche l'attesa. Con tempo soleggiato e temperature piacevoli, Sarah ha finalmente affrontato il suo Michael. Ho cercato di catturare al meglio le numerose emozioni che si riflettevano sui volti degli sposi così come su quelli degli invitati. L'amore, l'emozione e il senso di gioia onnicomprensivo sono stati chiaramente percepiti durante tutta la cerimonia. Quindi non sorprende che ci siano state numerose lacrime di gioia. Dopo il matrimonio si balla al Freihof: il fotografo di matrimoni di Würzburg può essere presente. Dopo il matrimonio da sogno al Freihof e l'emozionante sì, il matrimonio al Freihof è continuato con bevande fresche e una deliziosa torta. L'atmosfera speciale del matrimonio al Freihof si è percepita chiaramente già al primo brindisi. L'atmosfera era rilassata ed esuberante e tutti erano contenti della felicità dei novelli sposi. Con loro due ho fatto una piccola deviazione tra le vigne per scattare con loro delle autentiche foto di coppia. Verso sera la festa del matrimonio al Freihof si è poi spostata all'Hotel Freihof, dove non solo si è parlato e riso molto, ma si è anche ballato e cantato. Il primo ballo della coppia è stato solo uno dei momenti salienti del matrimonio al Freihof. Matrimonio al Freihof - Un'esperienza indimenticabile Sposandosi all'Hotel Freihof, tutto combacia davvero. la posizione il cibo e ovviamente gli sposi e i loro grandi ospiti. Senza le persone fantastiche e i momenti speciali, sposarsi all'Hotel Freihof non sarebbe stata l'esperienza che ho avuto la fortuna di poter immortalare nelle foto come fotografo di matrimoni di Würzburg.",
+      "shortDescription": "Matrimonio al Freihof vicino a Würzburg. Bellissimo matrimonio gratuito al lago. - Fotografo di matrimoni Würzburg",
+      "link": "hochzeit-hotel-freihof",
+      "thumbnail": "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1689682357/hochzeitsreportagen/SarahMichael/98-hochzeit-hotel-freihof-wurzburg_xbtkst.jpg",
+      "date": "01/06/2023",
+      "favourite": "VERO",
+      "keyword1": "Fotografo di matrimoni Würzburg",
+      "keyword2": "--",
+      "cloudinaryTag": "SarahMichael"
+    },
+    "post9": {
+      "id": "9",
+      "title": "Shooting di matrimonio nelle Dolomiti",
+      "description": "Che ambientazione incredibile! Adoro le Dolomiti, dove puoi scattare foto incredibili!",
+      "shortDescription": "Shooting di matrimonio nelle Dolomiti - sposarsi in Alto Adige",
+      "link": "hochzeit-in-den-dolomiten",
+      "thumbnail": "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1689682747/hochzeitsreportagen/christinaMihel/51-hochzeit_dolomiten_yxcvwo.jpg",
+      "date": "01/08/2023",
+      "favourite": "VERO",
+      "keyword1": "Fotografo Matrimonio Dolomiti - Sposarsi in Alto Adige",
+      "keyword2": "Fotografo di matrimonio Alto Adige Bolzano",
+      "cloudinaryTag": "CristinaMihel"
+    }
   }
 }

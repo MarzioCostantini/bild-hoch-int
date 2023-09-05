@@ -20,9 +20,11 @@ export const metadata = {
     description:
       "Ich bin Marzio Hochzeitsfotograf in München. Hochzeitsreportagen in München und Umgebung | Klickt für weitere Informationen einfach hier!",
     url: "https://bild-hochzeit.de/",
+    siteName: "Euer Hochzeitsfotograf in München | Authentisch und Echt ",
+    type: "website",
     images: [
       {
-        url: "https://bild-hochzeit.de/_next/static/media/Hochzeitsfotograf-Starnberg-Munchen-Augsburg-und-Garmisch-Partenkirchen_avif.99c80d23.avif",
+        url: "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1689686554/Pages/Home/Titelbild_Hochzeitsfotograf_kgk1w7.jpg",
         width: 800,
         height: 600,
       },

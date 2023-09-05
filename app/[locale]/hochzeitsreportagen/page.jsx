@@ -1,9 +1,8 @@
 import Link from "next/link";
 import styles from "../styles/weddingOverview.module.css";
-import weddingData from "../../../WeddingData.json";
 
 import { createTranslator, useTranslations } from "next-intl";
-import WeddingFilterOverview from "../components/WeddingFilterOverview";
+import WeddingFilterOverviewNew from "../components/WeddingFilterOverviewNew";
 
 export async function generateMetadata({ params: { locale } }) {
   const messages = (await import(`../../../messages/${locale}.json`)).default;
@@ -36,7 +35,8 @@ const Hochzeitsreportagen = () => {
         <h1>{t("pageHochzeitsreportagen.title")}</h1>
         <h6>{t("pageHochzeitsreportagen.subTitle")}</h6>
         <hr />
-        <WeddingFilterOverview />
+        {/* <WeddingFilterOverview /> */}
+        <WeddingFilterOverviewNew />
       </section>
     </main>
   );

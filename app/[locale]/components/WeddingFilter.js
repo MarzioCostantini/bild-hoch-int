@@ -1,17 +1,19 @@
-import weddingData from "../../../WeddingData.json";
+// import weddingData from "../../../WeddingData.json";
 import Link from "next/link";
 import Image from "next/image";
 import styles from "../styles/weddingOverviewFilter.module.css";
 import { useTranslations } from "next-intl";
+import data from "../../../messages/de.json";
 
 const FilterWedding = () => {
+  // Gibt mir an Array zurück mit "post1, post2 ... etc"
+  const ArraywithPosts = Object.keys(data.blog);
   const t = useTranslations();
 
-  let favWedding = weddingData
-    .filter((elt) => {
-      return elt.favourite === true;
-    })
-    .slice(0, 6);
+  // Filtern der Posts, die als Favoriten markiert sind
+  const favWedding = ArraywithPosts.filter((item) => {
+    return t(`blog.${item}.favourite`) === "true";
+  }).slice(0, 6);
 
   return (
     <section className={styles.hochzeitsreportagen}>
@@ -22,26 +24,24 @@ const FilterWedding = () => {
           })}
         </h4>
         <hr />
-      </section>
-      <section className={styles.overviewwrapper}>
-        {favWedding.map((wedding, index) => (
-          <article key={index} className={styles.weddingItem}>
-            <Link href={`/hochzeitsreportagen/${wedding.link}`}>
-              <div>
-                <Image
-                  src={wedding.thumbnail}
-                  height={300}
-                  width={400}
-                  alt={wedding.keyword1}
-                  sizes="100vw"
-                  style={{ width: "100%", height: "auto" }}
-                />
-                <h2>{wedding.title}</h2>
-                <p>{`${wedding.description.slice(0, 150)}...`}</p>
-              </div>
-            </Link>
-          </article>
-        ))}
+        <section className={styles.overviewwrapper}>
+          {favWedding.map((item, index) => (
+            <article key={index} className={styles.weddingItem}>
+              <Link href={"hochzeitsreportagen/" + t(`blog.${item}.link`)}>
+                <div>
+                  <Image
+                    src={t(`blog.${item}.thumbnail`)}
+                    height={300}
+                    width={500}
+                    alt={t(`blog.${item}.keyword1`)}
+                  />
+                  <h2>{t(`blog.${item}.title`)}</h2>
+                  <p>{t(`blog.${item}.description`).slice(0, 150)}...</p>
+                </div>
+              </Link>
+            </article>
+          ))}
+        </section>
       </section>
     </section>
   );
