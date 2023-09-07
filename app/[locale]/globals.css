@@ -41,13 +41,14 @@ Import Fonts
 Basic Style
 ***************************/
 :root {
-  --main-color: #eae6d9;
+  --main-color: #e8edde;
   --secondary-color: #e2dcca;
   --white: #f5f5f5;
   --text-black: #3f3e3e;
   --text-light: #918f8f;
   --green: #83c163;
   --bg-white: #f5f1e8;
+  --gold: #c9b598;
 }
 
 * {

@@ -10,12 +10,12 @@ const HochzeitsfotografStarnberg = () => {
       <article>
         <div>
           <Image
-            src="/img/home/Hochzeitsfotograf-Starnberg-deko1-min.avif"
+            src="/img/home/Hochzeitsfotograf_in_München.jpg"
             height={200}
             width={270}
             alt="Hochzeitsfotograf Starnberg München Augsburg Garmisch-Partenkirchen"
             sizes="100vw"
-            style={{ width: "100%", height: "auto" }}
+            style={{ width: "50%", height: "auto" }}
           />
         </div>
 
@@ -34,12 +34,12 @@ const HochzeitsfotografStarnberg = () => {
         </div>
         <div className={styles.img02}>
           <Image
-            src="/img/home/Hochzeitsfotograf-Starnberg-deko2-min.avif"
+            src="/img/home/Hochzeitsfotograf_München_33.jpg"
             height={250}
             width={200}
             alt="Hochzeitsfotograf Starnberg München Augsburg Garmisch-Partenkirchen"
             sizes="100vw"
-            style={{ width: "100%", height: "auto" }}
+            style={{ width: "50%", height: "auto" }}
           />
         </div>
       </article>

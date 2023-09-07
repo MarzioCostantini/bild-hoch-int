@@ -1,5 +1,6 @@
 .authentic {
-  background-image: url("../../../public/img/home/Hochzeitsfotograf-Starnberg-Hintergrundbild-min.avif");
+  background-image: url("https://res.cloudinary.com/dzlk6w9fd/image/upload/v1694089107/Pages/Home/Hochzeitsfotograf%20M%C3%BCnchen.jpg");
+  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -9,8 +10,8 @@
   align-items: center;
   padding: 25vh 0;
   text-align: center;
-  filter: brightness(1);
-  filter: contrast(0.75);
+
+  min-height: 500px;
 }
 
 .authentic h3,

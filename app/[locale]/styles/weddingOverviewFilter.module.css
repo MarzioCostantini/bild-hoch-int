@@ -21,19 +21,26 @@
 }
 
 .overviewwrapper {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  display: flex;
+  flex-direction: column;
   gap: 5rem;
   margin: 5vw;
 }
 
 .weddingItem {
   transition: all 0.2s ease-in-out;
-}
-.weddingItem a {
+  background-color: var(--white);
+  max-width: 1200px;
   margin: auto;
+}
+
+.weddingItem a {
   display: flex;
-  flex-direction: column;
+  align-items: center;
+}
+
+.weddingItem div {
+  padding: 3vw;
 }
 
 .weddingItem h2 {
@@ -41,27 +48,54 @@
   font-size: clamp(2.5rem, 3vw, 3.2rem) !important;
   margin: 2rem 0 0.5rem 0;
   min-height: 8rem;
+  color: var(--gold);
 }
 
-.overviewwrapper .weddingItem h2 {
-  font-size: clamp(1.8rem, 2vw, 2.2rem);
+.weddingItem p {
+  margin-bottom: 30px;
 }
-
 .weddingItem:hover {
   transition: all 0.2s ease-in-out;
   transform: scale(1.05);
 }
 
+.weddingItem:nth-child(even) a {
+  flex-direction: row-reverse;
+}
+
+.weddingItem {
+  border-radius: 0 40px 0 40px;
+  overflow: hidden;
+}
+
+.weddingItem img {
+  height: 400px !important;
+  object-fit: cover;
+}
+
+@media only screen and (max-width: 950px) {
+  .weddingItem img {
+    width: 50% !important;
+  }
+}
+
 @media only screen and (max-width: 768px) {
-  .overviewwrapper {
-    grid-template-columns: repeat(2, 1fr);
+  .weddingItem img {
+    width: 100% !important;
+  }
+  .weddingItem a {
+    flex-direction: column;
+  }
+  .weddingItem:nth-child(even) a {
+    flex-direction: column;
+  }
+
+  .weddingItem img {
+    width: 100%;
   }
 }
 
 @media only screen and (max-width: 576px) {
-  .overviewwrapper {
-    grid-template-columns: repeat(1, 1fr);
-  }
   .weddingItem a h2 {
     margin: 2rem 0 0.2rem 0;
     min-height: auto !important;

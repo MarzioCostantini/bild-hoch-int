@@ -28,15 +28,17 @@ const FilterWedding = () => {
           {favWedding.map((item, index) => (
             <article key={index} className={styles.weddingItem}>
               <Link href={"hochzeitsreportagen/" + t(`blog.${item}.link`)}>
+                <Image
+                  src={t(`blog.${item}.thumbnail`)}
+                  height={300}
+                  width={500}
+                  alt={t(`blog.${item}.keyword1`)}
+                  style={{ width: "100%", height: "auto" }}
+                />
                 <div>
-                  <Image
-                    src={t(`blog.${item}.thumbnail`)}
-                    height={300}
-                    width={500}
-                    alt={t(`blog.${item}.keyword1`)}
-                  />
                   <h2>{t(`blog.${item}.title`)}</h2>
                   <p>{t(`blog.${item}.description`).slice(0, 150)}...</p>
+                  <p className="btn">more</p>
                 </div>
               </Link>
             </article>
