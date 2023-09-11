@@ -1,4 +1,4 @@
-.heroWelcome {
+.heroWelcome .homeWrapper {
   padding: 6vh 0vh;
   display: flex;
   flex-direction: column;
@@ -9,12 +9,49 @@
 
 .heroWelcome h1 {
   line-height: 80px;
-  margin-bottom: 25px;
-  font-size: clamp(3rem, 4vw, 5rem);
+  font-size: clamp(3rem, 4vw, 6rem);
   text-transform: uppercase;
-  padding: 1vw;
+  padding: 1vw 1vw 0.5vw 1vw;
+  font-family: CodePenLight, Arial, Helvetica, sans-serif;
 }
 
+.homeWrapper h2 {
+  margin-bottom: 60px;
+  font-size: clamp(3rem, 4vw, 6rem);
+  color: var(--gold);
+  font-family: CodePenLight, Arial, Helvetica, sans-serif;
+}
+
+.homeWrapper {
+  border: 1px solid var(--text-black);
+  margin: 30px;
+}
+
+.homeWrapper img {
+  border-radius: 100px 100px 0 0;
+}
+
+.homeWrapper .line {
+  transform: rotate(90deg);
+}
+.zusatz {
+  text-transform: uppercase;
+  font-family: CodePen, Arial, Helvetica, sans-serif;
+  font-size: clamp(2.5rem, 3vw, 3.2rem);
+  color: var(--text-black);
+  font-weight: lighter;
+  line-height: 50px;
+  margin: 2vw;
+  word-wrap: break-word;
+  max-width: 300px !important;
+}
+
+.linebtm {
+  height: 10vh;
+  width: 1px;
+  background-color: var(--text-black);
+  margin-bottom: 40px;
+}
 .heroWelcome h2 span {
   text-transform: uppercase;
   font-size: 60px;
@@ -22,7 +59,7 @@
 
 .heroWelcome hr {
   width: 10vw;
-  background-color: black;
+  background-color: var(--text-black);
   height: 3px;
   margin-bottom: 35px;
 }
@@ -32,14 +69,10 @@
   max-width: 70vw;
 }
 
-.heroWelcome div p {
-  font-family: NoireEtBlanc, Arial, Helvetica, sans-serif;
-  font-size: clamp(2.5rem, 3vw, 3.2rem);
-  color: var(--text-black);
-  font-weight: lighter;
-  line-height: 50px;
-  margin: 2vw;
+.content {
+  margin-top: 40px;
 }
+
 .heroWelcome div:nth-of-type(1) {
   display: flex;
   align-items: center;
@@ -60,6 +93,7 @@ RESPONSIV
 @media only screen and (max-width: 900px) {
   .heroWelcome {
     margin-top: 100vh;
+    margin-bottom: 30px;
   }
 
   .heroWelcome div:nth-of-type(1) hr {
@@ -67,9 +101,14 @@ RESPONSIV
   }
   .heroWelcome div:nth-of-type(1) {
     flex-direction: column;
+    margin-bottom: 0;
   }
   .heroWelcome div:nth-of-type(1) h5 {
     width: auto;
+  }
+
+  .content {
+    padding: 4vw;
   }
 }
 

@@ -1,6 +1,7 @@
 import styles from "../styles/WelcomeHero.module.css";
 import Image from "next/image";
 import Link from "next/link";
+import Circle from "../../../public/img/svgs/circle";
 
 import { useTranslations } from "next-intl";
 const WelcomeHero = () => {
@@ -8,40 +9,50 @@ const WelcomeHero = () => {
 
   return (
     <section className={styles.heroWelcome}>
-      <h1>
-        {t.rich("pageHome.welcomeHero.bigTitle", {
-          br: () => <br />,
-        })}
-      </h1>
-
-      <hr></hr>
-      <p>{t("pageHome.welcomeHero.welcomeText")}</p>
-      <div>
-        <hr />
-        <p>
-          {t.rich("pageHome.welcomeHero.zusatztext1", {
+      <div className={styles.homeWrapper}>
+        <h1>
+          {t.rich("pageHome.welcomeHero.bigTitle", {
             br: () => <br />,
           })}
-        </p>
-        <div className="lineimg">
+        </h1>
+        <h2>
+          {t.rich("pageHome.welcomeHero.subTitle", {
+            important: (chunks) => <b>{chunks}</b>,
+            very: (chunks) => <i>{chunks}</i>,
+          })}
+        </h2>
+
+        <div>
+          <hr />
+          <p className={styles.zusatz}>
+            {t.rich("pageHome.welcomeHero.zusatztext1", {
+              br: () => <br />,
+            })}
+          </p>
           <Image
             src="/img/home/Hochzeitsfotograf-Marzio-Costantini-min.avif"
             height={350}
-            width={350}
+            width={300}
             alt="Hochzeitsfotograf München"
             // style={{ width: "100%", height: "auto" }}
           />
+
+          <p className={styles.zusatz}>
+            {t.rich("pageHome.welcomeHero.zusatztext2", {
+              br: () => <br />,
+            })}
+          </p>
+          <hr />
         </div>
-        <p>
-          {t.rich("pageHome.welcomeHero.zusatztext2", {
-            br: () => <br />,
-          })}
+        <div className={styles.linebtm}></div>
+        <Circle />
+        <p className={styles.content}>
+          {t("pageHome.welcomeHero.welcomeText")}
         </p>
-        <hr />
+        <Link href="/about">
+          <p className="btn">{t("pageHome.welcomeHero.buttonHero")}</p>
+        </Link>
       </div>
-      <Link href="/about">
-        <p className="btn">{t("pageHome.welcomeHero.buttonHero")}</p>
-      </Link>
     </section>
   );
 };

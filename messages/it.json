@@ -39,9 +39,10 @@
     },
     "welcomeHero": {
       "bigTitle": "Fotografo di matrimoni Monaco",
+      "subTitle": "<very>by</very> MARZIO COSTANTINI",
       "welcomeText": "Il tuo fotografo di matrimonio a Monaco di Baviera - Benvenuto nel mio sito web. Bello che tu sia lì! Sul mio blog troverai approfondimenti sul mio lavoro precedente come fotografo di matrimoni a Monaco. Come fotografo di matrimoni, creo per voi reportage di matrimonio professionali a Monaco. Il mio obiettivo è catturare in dettaglio ciò che vi rende speciali come coppia nel giorno del vostro matrimonio a Monaco. Mi piace viaggiare! Pertanto non vi accompagnerò solo nella location del vostro matrimonio a Monaco, ma anche in tutto il resto del mondo. Sono pronto per te in tutto il mondo. Invece di immagini kitsch e messe in scena, ti garantisco fotografie autentiche e naturali in qualsiasi parte del mondo che manterranno sempre freschi i tuoi ricordi. Sto raccontando la tua storia così come è accaduta.",
-      "zusatztext1": "Immagini reali del matrimonio <br></br>",
-      "zusatztext2": "Reportage di matrimonio <br></br> autentici",
+      "zusatztext1": "reali & Autentici",
+      "zusatztext2": "foto di matrimonio",
       "buttonHero": "Su di me"
     },
     "authentisch": {

@@ -44,9 +44,10 @@
 
     "welcomeHero": {
       "bigTitle": "Hochzeitsfotograf München",
+      "subTitle": "<very>by</very> MARZIO COSTANTINI",
       "welcomeText": "Ihr Hochzeitsfotograf München - Herzlich Willkommen auf meiner Website. Schön das du da bist! Auf meinem Blog erhältst du Einblicke in meine bisherige Arbeit als ihr Hochzeitsfotograf in München. Als Hochzeitsfotograf erstelle ich für dich professionelle Hochzeitsreportagen in München. Das detailliert einfangen, was euch als Paar an eurem Hochzeitstag in München ausmacht, ist mein Ziel. Ich liebe das Reisen! Daher begleite ich euch nicht nur an eurer Hochzeitslocation München, sondern auch auf der ganzen restlichen Welt. Ich stehe für euch rund um den Globus bereit. Statt kitschigen & gestellten Bildern garantiere ich dir überall auf der Welt authentische und natürliche Fotografien, die deine Erinnerungen immer frisch halten. Ich erzähle eure Geschichte so, wie sie sich zugetragen hat.",
-      "zusatztext1": "Echte <br></br> Hochzeitsbilder",
-      "zusatztext2": "Authentische <br></br> Hochzeitsreportagen",
+      "zusatztext1": "Echte & Authentische ",
+      "zusatztext2": "Hochzeitsreportagen",
       "buttonHero": "Über mich"
     },
     "authentisch": {
