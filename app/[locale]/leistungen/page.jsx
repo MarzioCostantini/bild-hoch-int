@@ -1,6 +1,7 @@
 import Preise from "../components/Preise";
 import ShootingPreise from "../components/ShootingPreise";
 import Memories from "../components/Memories";
+import Includes from "../components/Includes";
 import { createTranslator, useTranslations } from "next-intl";
 
 export async function generateMetadata({ params: { locale } }) {
@@ -58,6 +59,7 @@ const Leistungen = () => {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
       <Memories />
+      <Includes />
       <Preise />
       <ShootingPreise />
     </main>

@@ -19,6 +19,7 @@
 .memories article {
   position: absolute;
   border: 15px solid var(--white);
+  margin: 0 40vw;
 }
 
 .content {
@@ -43,4 +44,13 @@
 .text span {
   font-family: NoireEtBlanc, Arial, Helvetica, sans-serif;
   color: var(--white);
+}
+
+@media only screen and (max-width: 970px) {
+  .memories article p {
+    display: none;
+  }
+  .memories article {
+    margin: 0 30px;
+  }
 }
