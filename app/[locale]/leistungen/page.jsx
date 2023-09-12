@@ -1,6 +1,6 @@
 import Preise from "../components/Preise";
 import ShootingPreise from "../components/ShootingPreise";
-import LeistungenHero from "../components/LeistungenHero";
+import Memories from "../components/Memories";
 import { createTranslator, useTranslations } from "next-intl";
 
 export async function generateMetadata({ params: { locale } }) {
@@ -57,12 +57,7 @@ const Leistungen = () => {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <LeistungenHero
-        titel={t("pageLeistungen.title")}
-        img1="/img/leistungen/Hochzeitsfotograf_Munchen-02-min.jpg"
-        img2="/img/leistungen/Hochzeitsfotograf_Munchen-03-min.jpg"
-        kontakt={t("pageLeistungen.btn")}
-      />
+      <Memories />
       <Preise />
       <ShootingPreise />
     </main>

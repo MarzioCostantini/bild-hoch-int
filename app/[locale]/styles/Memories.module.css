@@ -1,0 +1,46 @@
+.memories {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.memories div {
+  height: 60vh;
+  width: 50vw;
+}
+
+.bgImg {
+  background: url("https://res.cloudinary.com/dzlk6w9fd/image/upload/v1694438814/Pages/Leistungen/Bildverschwommen.jpg")
+    no-repeat center;
+  background-size: cover;
+}
+
+.memories article {
+  position: absolute;
+  border: 15px solid var(--white);
+}
+
+.content {
+  background-color: var(--secondary-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  font-family: NoireEtBlanc, Arial, Helvetica, sans-serif;
+  font-size: clamp(2rem, 3vw, 4rem);
+  line-height: 50px;
+  color: var(--gold);
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: -400px;
+  width: 340px;
+}
+
+.text span {
+  font-family: NoireEtBlanc, Arial, Helvetica, sans-serif;
+  color: var(--white);
+}
