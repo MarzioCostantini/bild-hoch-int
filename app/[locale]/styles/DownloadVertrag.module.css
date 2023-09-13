@@ -1,9 +1,15 @@
 .vertrag {
-  background-color: var(--main-color);
-  padding: 30px;
+  background-color: var(--gold);
+  padding: 8vw 30px;
   text-align: center;
+  text-transform: uppercase;
 }
 
 .vertrag h6 {
   margin-bottom: 60px;
+  color: var(--white);
+}
+
+.vertrag h3 {
+  color: var(--white);
 }

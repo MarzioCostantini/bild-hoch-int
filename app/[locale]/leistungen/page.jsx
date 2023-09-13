@@ -80,6 +80,7 @@ const Leistungen = () => {
         nichtsPassendes={t("hochzeitsPackete.zusatzInfo.nichtsPassendes")}
         kmPreis={t("hochzeitsPackete.zusatzInfo.kmPreis")}
         keineAnfItalien={t("hochzeitsPackete.zusatzInfo.keineAnfItalien")}
+        preisAnf={t("hochzeitsPackete.basicInfo.preisBtn")}
       />
       <ShootingPreise />
     </main>

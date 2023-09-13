@@ -200,7 +200,8 @@
         "beratung": "+ Personal advice",
         "bearbeitung": "+ Post-processing of the photos",
         "onlineGal": "+ Online Gallery",
-        "usbStick": "+ Pictures via USB stick"
+        "usbStick": "+ Pictures via USB stick",
+        "preisBtn": "Price inquiries"
       },
       "zusatzInfo": {
         "nichtsPassendes": "Nothing suitable? Write me a message!",

@@ -2,6 +2,7 @@
 import Image from "next/image";
 import styles from "../styles/WeddingPackete.module.css";
 import { usePathname } from "next/navigation";
+import Link from "next/link";
 
 const WeddingPackete = ({
   title,
@@ -23,6 +24,7 @@ const WeddingPackete = ({
   packetDa1,
   packetDa2,
   packetDa3,
+  preisAnf,
 }) => {
   const pathname = usePathname();
 
@@ -50,7 +52,15 @@ const WeddingPackete = ({
             <li>{onlineGal}</li>
             <li>{usbStick}</li>
           </ul>
-          {pathname == "/preisliste" ? <p>1794,- €</p> : null}
+          {pathname === "/preisliste" ||
+          pathname === "/en/preisliste" ||
+          pathname === "/it/preisliste" ? (
+            <p>1794,- €</p>
+          ) : (
+            <Link className="btn" href="/kontakt">
+              {preisAnf}
+            </Link>
+          )}
         </div>
       </article>
       <article>
@@ -71,7 +81,15 @@ const WeddingPackete = ({
             <li>{onlineGal}</li>
             <li>{usbStick}</li>
           </ul>
-          {pathname == "/preisliste" ? <p>2280,- €</p> : null}
+          {pathname === "/preisliste" ||
+          pathname === "/en/preisliste" ||
+          pathname === "/it/preisliste" ? (
+            <p>2280,- €</p>
+          ) : (
+            <Link className="btn" href="/kontakt">
+              {preisAnf}
+            </Link>
+          )}
         </div>
       </article>
       <article>
@@ -92,7 +110,15 @@ const WeddingPackete = ({
             <li>{onlineGal}</li>
             <li>{usbStick}</li>
           </ul>
-          {pathname == "/preisliste" ? <p>2750,- €</p> : null}
+          {pathname === "/preisliste" ||
+          pathname === "/en/preisliste" ||
+          pathname === "/it/preisliste" ? (
+            <p>2750,- €</p>
+          ) : (
+            <Link className="btn" href="/kontakt">
+              {preisAnf}
+            </Link>
+          )}
         </div>
       </article>
       <article>
@@ -113,7 +139,15 @@ const WeddingPackete = ({
             <li>{onlineGal}</li>
             <li>{usbStick}</li>
           </ul>
-          {pathname == "/preisliste" ? <p>275,- € / h</p> : null}
+          {pathname === "/preisliste" ||
+          pathname === "/en/preisliste" ||
+          pathname === "/it/preisliste" ? (
+            <p>275,- € / h</p>
+          ) : (
+            <Link className="btn" href="/kontakt">
+              {preisAnf}
+            </Link>
+          )}
         </div>
       </article>
       <div className={styles.zusatzText}>
