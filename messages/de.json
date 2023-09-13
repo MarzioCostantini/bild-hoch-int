@@ -221,7 +221,7 @@
         "kmPreis": "Für jeden weiteren gefahrenen Kilometer berechne ich 0,45 Euro, sprich Ihr zahlt nur die Auto kosten. Ausgangspunkt ist Tutzing 82327.",
         "keineAnfItalien": "Keine Anfahrtskosten für Hochzeiten in Italien!"
       },
-      "Hochzeitsvertrag": {
+      "hochzeitsvertrag": {
         "title": "Hochzeitsvetrag Downloaden",
         "subTitle": "HIER KÖNNEN SIE SICH MEINEN HOCHZEITSVETRAG RUNTERLADEN"
       }
@@ -237,6 +237,10 @@
       "subTitle": "Hochzeitsfotograf Starnberg",
       "content": "Ihr müsst nicht zwangsläufig heiraten um vor mir Fotografiert zu werden! Gerne können wir ein Paarshooting In eurer Wunschlocation machen. In der Regel dauert es circa 45 Minuten und ich bekommt circa 50 bearbeitet Bilder von mir."
     }
+  },
+
+  "pagePreisliste": {
+    "title": "Preisliste"
   },
 
   "pageAbout": {

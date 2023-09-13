@@ -208,7 +208,7 @@
         "kmPreis": "For each additional kilometer driven, I charge 0.45 euros, i.e. you only pay the car costs. The starting point is Tutzing 82327.",
         "keineAnfItalien": "No travel costs for weddings in Italy!"
       },
-      "Hochzeitsvertrag": {
+      "hochzeitsvertrag": {
         "title": "Download Wedding Contract",
         "subTitle": "HERE YOU CAN DOWNLOAD MY WEDDING CONTRACT"
       }
@@ -225,6 +225,11 @@
       "content": "You don't necessarily have to get married to be photographed in front of me! We are happy to do a couple shoot in your desired location. Usually it takes about 45 minutes and I get about 50 edited pictures of me."
     }
   },
+
+  "pagePreisliste": {
+    "title": "Price list"
+  },
+
   "pageAGB": {
     "meta": {
       "title": "Terms and Conditions | General terms and conditions of business",

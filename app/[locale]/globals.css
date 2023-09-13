@@ -447,6 +447,21 @@ nav option {
   color: var(--white) !important ;
 }
 
+/* * PRICELISTE */
+.preisliste {
+  text-align: center;
+  text-transform: uppercase;
+  margin: 30px auto 60px auto;
+}
+
+.preisliste h6 {
+  margin-bottom: 30px;
+}
+
+.preisliste hr {
+  margin: auto;
+}
+
 @media screen and (max-width: 1000px) {
   nav ul {
     justify-content: none;

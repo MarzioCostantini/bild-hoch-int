@@ -210,7 +210,7 @@
         "kmPreis": "Per ogni chilometro aggiuntivo percorso, faccio pagare 0,45 euro, cioè paghi solo i costi dell'auto. Il punto di partenza è Tutzing 82327.",
         "keineAnfItalien": "Nessun costo di viaggio per matrimoni in Italia!"
       },
-      "Hochzeitsvertrag": {
+      "hochzeitsvertrag": {
         "title": "Scarica Contratto di matrimonio",
         "subTitle": "QUI PUOI SCARICARE IL MIO CONTRATTO DI MATRIMONIO"
       }
@@ -227,6 +227,11 @@
       "content": "Non devi necessariamente sposarti per essere fotografato di fronte a me! Siamo felici di fare un paio di scatti nella posizione desiderata. Di solito ci vogliono circa 45 minuti e ottengo circa 50 foto modificate di me."
     }
   },
+
+  "pagePreisliste": {
+    "title": "Listino prezzi"
+  },
+
   "pageAbout": {
     "meta": {
       "title": "Su di me | Il tuo fotografo di matrimonio a Monaco",
