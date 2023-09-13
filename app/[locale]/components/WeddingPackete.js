@@ -117,12 +117,9 @@ const WeddingPackete = ({
         </div>
       </article>
       <div className={styles.zusatzText}>
-        <p>Nichts passendes dabei? Schreib mir eine Nachricht!</p>
-        <p>
-          Für jeden weiteren gefahrenen Kilometer berechne ich 0,45 Euro, sprich
-          Ihr zahlt nur die Auto kosten. Ausgangspunkt ist Tutzing 82327.
-        </p>
-        <p>Keine Anfahrtskosten für Hochzeiten in Italien!</p>
+        <p>{nichtsPassendes}</p>
+        <p>{kmPreis}</p>
+        <p>{keineAnfItalien}</p>
       </div>
     </section>
   );

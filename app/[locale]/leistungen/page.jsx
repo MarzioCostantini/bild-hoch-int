@@ -77,9 +77,9 @@ const Leistungen = () => {
         bearbeitung={t("hochzeitsPackete.basicInfo.bearbeitung")}
         onlineGal={t("hochzeitsPackete.basicInfo.onlineGal")}
         usbStick={t("hochzeitsPackete.basicInfo.usbStick")}
-        nichtsPassendes={t("hochzeitsPackete.basicInfo.nichtsPassendes")}
-        kmPreis={t("hochzeitsPackete.basicInfo.kmPreis")}
-        keineAnfItalien={t("hochzeitsPackete.basicInfo.keineAnfItalien")}
+        nichtsPassendes={t("hochzeitsPackete.zusatzInfo.nichtsPassendes")}
+        kmPreis={t("hochzeitsPackete.zusatzInfo.kmPreis")}
+        keineAnfItalien={t("hochzeitsPackete.zusatzInfo.keineAnfItalien")}
       />
       <ShootingPreise />
     </main>
