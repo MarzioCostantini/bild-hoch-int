@@ -1,7 +1,9 @@
+import { useTranslations } from "next-intl";
 import Image from "next/image";
 import styles from "../styles/Includes.module.css";
 
 const Includes = () => {
+  const t = useTranslations("pageLeistungen");
   return (
     <section className={styles.includes}>
       <div className={styles.sun}>
@@ -16,28 +18,16 @@ const Includes = () => {
       <section className={styles.content}>
         <article>
           <div>
-            <h3>Die Hochzeitsreportage</h3>
-            <p>
-              Ich erstelle an eurem Hochzeitstag eine authentische
-              Hochzeitsreportage inkl. Paarshooting und Gruppenbilder, falls
-              erwünscht.
-            </p>
+            <h3>{t("leistungen.leistungTitel1")}</h3>
+            <p>{t("leistungen.leistungBesch1")}</p>
           </div>
           <div>
-            <h3>INDIVIDUELLE BERATUNG</h3>
-            <p>
-              Alle Details bezüglich der Hochzeitsreportage werden gründlich mit
-              euch bei persönlichen Gesprächen oder telefonisch besprochen. In
-              diesem Gespräch berate ich euch unteranderem wie ihr selbst großen
-              Einfluss auf eure Bilder nehmen könnt.
-            </p>
+            <h3>{t("leistungen.leistungTitel2")}</h3>
+            <p>{t("leistungen.leistungBesch2")}</p>
           </div>
           <div>
-            <h3>DIE BILDBEARBEITUNG</h3>
-            <p>
-              Kurz nach eurer Hochzeit sichte, sortiere und bearbeite ich eure
-              Bilde
-            </p>
+            <h3>{t("leistungen.leistungTitel3")}</h3>
+            <p>{t("leistungen.leistungBesch3")}</p>
           </div>
         </article>
         <article className={styles.bwImg}>
@@ -52,26 +42,16 @@ const Includes = () => {
 
         <article>
           <div>
-            <h3>ONLINE GALERIE</h3>
-            <p>
-              Für Euch und eure Gäste wird eine Online Galerie erstellt, so
-              müsst Ihr nicht alle Bilder jedem schicken. Ihr entscheidet wem
-              Ihr den Link weitergibt. (Ab Packet Silver)
-            </p>
+            <h3>{t("leistungen.leistungTitel4")}</h3>
+            <p>{t("leistungen.leistungBesch4")}</p>
           </div>
           <div>
-            <h3>60 - 80 BILDER PRO STUNDE</h3>
-            <p>
-              Je mehr Highlights es auf eurer Hochzeit gibt, desto mehr Bilder
-              gibt es pro Stunde.
-            </p>
+            <h3>{t("leistungen.leistungTitel5")}</h3>
+            <p>{t("leistungen.leistungBesch5")}</p>
           </div>
           <div>
-            <h3>DROHNENAUFNAHMEN</h3>
-            <p>
-              Wenn es sich ergibt und das Drohne fliegen erlaubt ist, mache ich
-              an eure Hochzeit einige Drohnenaufnahmen
-            </p>
+            <h3>{t("leistungen.leistungTitel6")}</h3>
+            <p>{t("leistungen.leistungBesch6")}</p>
           </div>
         </article>
       </section>

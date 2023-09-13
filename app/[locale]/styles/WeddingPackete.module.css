@@ -1,0 +1,76 @@
+.weddingPack {
+  background-color: var(--secondary-color);
+  padding: 5vw;
+}
+
+.weddingPack div:first-child {
+  text-align: center;
+  margin-bottom: 60px;
+  text-transform: uppercase;
+}
+
+.weddingPack div:first-child h3 {
+  color: var(--gold);
+}
+
+.weddingPack article {
+  display: flex;
+  justify-content: center;
+  margin: 5vw 2vw;
+}
+
+.weddingPack article:nth-child(odd) {
+  flex-direction: row-reverse;
+}
+.weddingPack article:nth-child(even) {
+  text-align: right;
+}
+
+.weddingPack article div {
+  border: 1px solid var(--text-black);
+  width: 40vw;
+  padding: 30px;
+}
+
+.weddingPack article div h3 {
+  color: var(--gold);
+}
+.weddingPack article div p {
+  margin-bottom: 30px;
+  text-transform: uppercase;
+}
+
+.weddingPack ul {
+  margin-bottom: 60px;
+}
+
+.weddingPack li {
+  margin: 2vh 0;
+}
+
+.zusatzText {
+  text-align: center;
+}
+
+.zusatzText p:first-child {
+  margin-bottom: 30px;
+}
+
+@media only screen and (max-width: 900px) {
+  .weddingPack article {
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  .weddingPack article:nth-child(odd) {
+    flex-direction: column;
+  }
+
+  .weddingPack article img {
+    max-width: 100% !important;
+  }
+  .weddingPack article div {
+    text-align: center;
+    width: 100%;
+  }
+}

@@ -173,19 +173,57 @@
 
     "title": "Hochzeitsfotograf in Starnberg, München, Augsburg, Garmisch Partenkirchen, Europa- & Weltweit",
     "btn": "Kontakt",
-    "leistungenLabel": {
-      "leistung1": "9-Stündige oder mehr Hochzeitsreportage",
-      "leistung2": "8-Stündige Hochzeitsreportage",
-      "leistung3": "6- Stündige Hochzeitsreportage",
-      "leistung4": "3- Stündige Hochzeitsreportage"
+    "leistungen": {
+      "leistungTitel1": "DIE HOCHZEITSREPORTAGE",
+      "leistungTitel2": "INDIVIDUELLE BERATUNG ",
+      "leistungTitel3": "DIE BILDBEARBEITUNG",
+      "leistungTitel4": "ONLINE GALERIE",
+      "leistungTitel5": "60 - 80 BILDER PRO STUNDE",
+      "leistungTitel6": "DROHNENAUFNAHMEN",
+      "leistungBesch1": "Ich erstelle an eurem Hochzeitstag eine authentische Hochzeitsreportage inkl. Paarshooting und Gruppenbilder, falls erwünscht.",
+      "leistungBesch2": "Alle Details bezüglich der Hochzeitsreportage werden gründlich mit euch bei persönlichen Gesprächen oder telefonisch besprochen. In diesem Gespräch berate ich euch unteranderem wie ihr selbst großen Einfluss auf eure Bilder nehmen könnt.",
+      "leistungBesch3": "Kurz nach eurer Hochzeit sichte, sortiere und bearbeite ich eure Bilde",
+      "leistungBesch4": "Für Euch und eure Gäste wird eine Online Galerie erstellt, so müsst Ihr nicht alle Bilder jedem schicken. Ihr entscheidet wem Ihr den Link weitergibt. (Ab Packet Silver)",
+      "leistungBesch5": "Je mehr Highlights es auf eurer Hochzeit gibt, desto mehr Bilder gibt es pro Stunde.",
+      "leistungBesch6": "Wenn es sich ergibt und das Drohne fliegen erlaubt ist, mache ich an eure Hochzeit einige Drohnenaufnahmen"
     },
-    "leistungsDetail": {
-      "bearatung": "Persönliche Beratung",
-      "nachbearbeitung": "Nachbearbeitung",
-      "bilder": "Ca. 50 - 100 Bilder pro Stunde",
-      "galerie": "Online Galerie",
-      "usbStick": "Bilder via USB Stick in Holzschatulle",
-      "unterDrei": "* In der Hochzeitssaison (April - Oktober) nur von Montag - Donnerstag buchbar, Freitag & Sonntag auf Anfrage."
+    "hochzeitsPackete": {
+      "title": "HOCHZEITSPACKETE",
+
+      "packet1": {
+        "title": "Packet 1",
+        "zeit": "6 Stunden",
+        "fahrt": "+ Keine Anfahrtskosten bis 150km Entfernung"
+      },
+      "packet2": {
+        "title": "Packet 2",
+        "zeit": "8 Stunden",
+        "fahrt": "+ Keine Anfahrtskosten bis 200km Entfernung"
+      },
+      "packet3": {
+        "title": "Packet 3",
+        "zeit": "10 Stunden",
+        "fahrt": "+ Keine Anfahrtskosten bis 350km Entfernung"
+      },
+      "packet4": {
+        "title": "Packet 4",
+        "fahrt": "+ Keine Anfahrtskosten bis 500km Entfernung"
+      },
+      "basicInfo": {
+        "beratung": "+ Persönliche Beratung",
+        "bearbeitung": "+ Nachbearbeitung der Fotos",
+        "onlineGal": "+ Online Galerie",
+        "usbStick": "+ Bilder via USB Stick"
+      },
+      "zusatzInfo": {
+        "nichtsPassendes": "Nichts passendes dabei? Schreib mir eine Nachricht!",
+        "kmPreis": "Für jeden weiteren gefahrenen Kilometer berechne ich 0,45 Euro, sprich Ihr zahlt nur die Auto kosten. Ausgangspunkt ist Tutzing 82327.",
+        "keineAnfItalien": "Keine Anfahrtskosten für Hochzeiten in Italien!"
+      },
+      "Hochzeitsvertrag": {
+        "title": "Hochzeitsvetrag Downloaden",
+        "subTitle": "HIER KÖNNEN SIE SICH MEINEN HOCHZEITSVETRAG RUNTERLADEN"
+      }
     },
     "btnAnfrage": "Jetzt Anfragen",
     "afterWedding": {

@@ -12,7 +12,7 @@ const ShootingPreise = () => {
           <h4>{t("pageLeistungen.afterWedding.title")}</h4>
           <h6>{t("pageLeistungen.afterWedding.subTitle")}</h6>
           <p>{t("pageLeistungen.afterWedding.content")}</p>
-          <h5>350,-€</h5>
+          <p>350,-€</p>
         </div>
         <div className="lineimg">
           <Image
@@ -36,7 +36,7 @@ const ShootingPreise = () => {
           <h4>{t("pageLeistungen.afterWedding.title")}</h4>
           <h6>{t("pageLeistungen.afterWedding.subTitle")}</h6>
           <p>{t("pageLeistungen.afterWedding.content")}</p>
-          <h5>350,-€</h5>
+          <p>350,-€</p>
         </div>
       </article>
     </section>

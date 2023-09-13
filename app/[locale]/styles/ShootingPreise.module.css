@@ -16,6 +16,9 @@
   padding: 30px 30px 30px 60px;
   width: 60%;
 }
+.shootingPreise article h4 {
+  text-transform: uppercase;
+}
 
 .shootingPreise article .contenttext h6,
 .shootingPreise article .contenttext p {

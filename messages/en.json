@@ -156,69 +156,72 @@
   },
   "pageLeistungen": {
     "meta": {
-      "title": "Services | Wedding photographer Munich prices",
-      "description": "Your wedding photographer in Munich for real and natural pictures from €350. Inquire now!"
+      "title": "Services | Wedding Photographer Munich Prices",
+      "description": "Your wedding photographer in Munich for real and natural pictures from 350,- €. Inquire now!"
     },
-    "title": "Wedding photographer in Starnberg, Munich, Augsburg, Garmisch Partenkirchen, Europe & worldwide",
+    "title": "Wedding Photographer in Starnberg, Munich, Augsburg, Garmisch Partenkirchen, Europe & Worldwide",
     "btn": "Contact",
-    "leistungenLabel": {
-      "leistung1": "9-hour or more wedding reportage",
-      "leistung2": "8-hour wedding reportage",
-      "leistung3": "6-hour wedding reportage",
-      "leistung4": "3-hour wedding reportage"
+    "leistungen": {
+      "leistungTitel1": "THE WEDDING REPORTAGE",
+      "leistungTitel2": "INDIVIDUAL ADVICE",
+      "leistungTitel3": "IMAGE EDITING",
+      "leistungTitel4": "ONLINE GALLERY",
+      "leistungTitel5": "60 - 80 FRAMES PER HOUR",
+      "leistungTitel6": "DRONE FOOTAGE",
+      "leistungBesch1": "On your wedding day, I will create an authentic wedding reportage including a couple shoot and group pictures, if desired.",
+      "leistungBesch2": "All details regarding the wedding reportage will be thoroughly discussed with you in personal conversations or by phone. In this conversation, I will advise you, among other things, on how you can have a great influence on your own pictures.",
+      "leistungBesch3": "Shortly after your wedding, I will view, sort and edit your pictures",
+      "leistungBesch4": "An online gallery will be created for you and your guests, so you don't have to send all the pictures to everyone. You decide who you want to pass the link onto. (From Packet Silver)",
+      "leistungBesch5": "The more highlights there are at your wedding, the more pictures there are per hour.",
+      "leistungBesch6": "If it turns out and the drone flying is allowed, I will take some drone shots at your wedding"
     },
-    "leistungsDetail": {
-      "bearatung": "Personal advice",
-      "nachbearbeitung": "post processing",
-      "bilder": "Approx. 50 - 100 images per hour",
-      "galerie": "Online gallery",
-      "usbStick": "Images via USB stick in a wooden box",
-      "unterDrei": "* In the wedding season (April - October) only bookable from Monday - Thursday, Friday & Sunday on request."
+    "hochzeitsPackete": {
+      "title": "WEDDING PACKAGES",
+      "packet1": {
+        "title": "Packet 1",
+        "zeit": "6 Hours",
+        "fahrt": "+ No travel costs up to 150km distance"
+      },
+      "packet2": {
+        "title": "Packet 2",
+        "zeit": "8 Hours",
+        "fahrt": "+ No travel costs up to 200km distance"
+      },
+      "packet3": {
+        "title": "Packet 3",
+        "zeit": "10 Hours",
+        "fahrt": "+ No travel costs up to 350km distance"
+      },
+      "packet4": {
+        "title": "Packet 4",
+        "fahrt": "+ No travel costs up to 500km distance"
+      },
+      "basicInfo": {
+        "beratung": "+ Personal advice",
+        "bearbeitung": "+ Post-processing of the photos",
+        "onlineGal": "+ Online Gallery",
+        "usbStick": "+ Pictures via USB stick"
+      },
+      "zusatzInfo": {
+        "nichtsPassendes": "Nothing suitable? Write me a message!",
+        "kmPreis": "For each additional kilometer driven, I charge 0.45 euros, i.e. you only pay the car costs. The starting point is Tutzing 82327.",
+        "keineAnfItalien": "No travel costs for weddings in Italy!"
+      },
+      "Hochzeitsvertrag": {
+        "title": "Download Wedding Contract",
+        "subTitle": "HERE YOU CAN DOWNLOAD MY WEDDING CONTRACT"
+      }
     },
-    "btnAnfrage": "Inquire now",
+    "btnAnfrage": "Enquire now",
     "afterWedding": {
-      "title": "After wedding shoot",
+      "title": "After Wedding Shooting",
       "subTitle": "Wedding photographer in Starnberg, Munich, Augsburg",
-      "content": "If the time during your wedding is too short for the couple shooting, we are happy to arrange an after-wedding shooting appointment. Your wedding couple shoot was only postponed a few days. The after-wedding shoot takes about 45-60 minutes. In the end you will get about 50 edited pictures from me"
+      "content": "If the time during your wedding is too short for the couple shoot, we can arrange an afterwedding shoot appointment. So to speak, your wedding couple shoot was only postponed for a few days. The afterwedding shoot lasts about 45-60 minutes. In the end you get about 50 edited pictures from me"
     },
     "paarShooting": {
-      "title": "Couple of shoots",
-      "subTitle": "Wedding photographer Starnberg",
-      "content": "You don't necessarily have to get married to be photographed in front of me! We are happy to do a couple shooting in your desired location. It usually takes about 45 minutes and I get about 50 edited pictures of me."
-    }
-  },
-  "pageAbout": {
-    "meta": {
-      "title": "About me | Your wedding photographer in Munich",
-      "description": "Everything you need to know about me as a wedding photographer in Munich. Wedding reports in and around Munich"
-    },
-    "welcomeSection": {
-      "title": "Hi, I'm Marzio",
-      "content": "Wedding photographer since 2014, mainly in the Starnberg area, Munich, Augsburg and Garmisch-Partenkirchen, Lake Garda, Lake Como & Tuscany, but I photograph weddings in Europe and worldwide. If you are looking for authentic wedding photos, then you have come to the right place. I am usually the silent observer at your wedding, I observe people, looks, gestures, love, joy, emotions. I seek the painting of the moment, the beat of a song that opens the shutter of my camera and captures a story forever."
-    },
-    "details": {
-      "detailsInfo": "details",
-      "paarInfos": "A few infos about me",
-      "reisen": {
-        "title": "i love to travel",
-        "content": "I just love traveling and going to distant countries to get to know different cultures. That's why I've already made two trips around the world. Add a little adventure to a long-distance trip, PERFECT! So in 2019 I was at Mt. Everest Basecamp or rode a motorbike via Cambodia and Vietnam up to the Chinese border. Ah yes, did I mention that I don't have a motorcycle license yet?"
-      },
-      "natur": {
-        "title": "I like to be out in nature",
-        "content": "I originally started with landscape photography and only got into wedding photography over the years. So it's actually clear that I like to be outside hiking or sleeping under the open sky :-)"
-      },
-      "zwillinge": {
-        "title": "I exist twice :-)",
-        "content": "Well, not quite but almost. I have a twin brother who I look a lot like who I do most of my wild adventures with. He himself also photographs weddings and you can also book us for two."
-      },
-      "programmieren": {
-        "title": "My second passion is programming",
-        "content": "If I don't have a camera in my hand or I'm not out and about in the world, I might be teaching a few people how to program. I also love to express myself creatively in this direction. Believe it or not, programming can be creative :-)"
-      },
-      "gerade": {
-        "title": "I hate it when things aren't straight",
-        "content": "In some ways I'm just a perfectionist and I hate it when things aren't straight like a picture on the wall or my monitors! The two monitors have to fit perfectly edge to edge and there can't be any gap between them... :-D"
-      }
+      "title": "Couple shootings",
+      "subTitle": "Wedding Photographer Starnberg",
+      "content": "You don't necessarily have to get married to be photographed in front of me! We are happy to do a couple shoot in your desired location. Usually it takes about 45 minutes and I get about 50 edited pictures of me."
     }
   },
   "pageAGB": {

@@ -158,35 +158,72 @@
   },
   "pageLeistungen": {
     "meta": {
-      "title": "Servizi | Prezzi del fotografo di matrimoni a Monaco",
-      "description": "Il vostro fotografo di matrimonio a Monaco per foto vere e naturali a partire da € 350. Informarsi ora!"
+      "title": "Servizi | Fotografo di matrimoni Monaco di Baviera Prezzi",
+      "description": "Il tuo fotografo di matrimoni a Monaco di Baviera per immagini reali e naturali a partire da 350,- €. Richiedi ora!"
     },
-    "title": "Fotografo di matrimoni a Starnberg, Monaco, Augusta, Garmisch Partenkirchen, in Europa e nel mondo",
+    "title": "Fotografo di matrimoni a Starnberg, Monaco di Baviera, Augusta, Garmisch Partenkirchen, Europa e nel mondo",
     "btn": "Contatto",
-    "leistungenLabel": {
-      "leistung1": "Reportage di matrimonio di 9 ore o più",
-      "leistung2": "Reportage di matrimonio di 8 ore",
-      "leistung3": "Reportage di matrimonio di 6 ore",
-      "leistung4": "Reportage di matrimonio di 3 ore"
+    "leistungen": {
+      "leistungTitel1": "IL REPORTAGE DI MATRIMONIO",
+      "leistungTitel2": "CONSULENZA INDIVIDUALE",
+      "leistungTitel3": "MODIFICA DELLE IMMAGINI",
+      "leistungTitel4": "GALLERIA ONLINE",
+      "leistungTitel5": "60 - 80 FOTOGRAMMI ALL'ORA",
+      "leistungTitel6": "RIPRESE DEI DRONI",
+      "leistungBesch1": "Il giorno del tuo matrimonio, creerò un autentico reportage di matrimonio che include un servizio fotografico di coppia e foto di gruppo, se lo desideri.",
+      "leistungBesch2": "Tutti i dettagli riguardanti il reportage di matrimonio saranno discussi approfonditamente con voi in conversazioni personali o per telefono. In questa conversazione, ti consiglierò, tra le altre cose, su come puoi avere una grande influenza sulle tue foto.",
+      "leistungBesch3": "Poco dopo il tuo matrimonio, vedrò, ordinerò e modificherò le tue foto",
+      "leistungBesch4": "Verrà creata una galleria online per te e i tuoi ospiti, quindi non dovrai inviare tutte le foto a tutti. Sei tu a chi vuoi passare il link. (Da Packet Silver)",
+      "leistungBesch5": "Più punti salienti ci sono al tuo matrimonio, più foto ci sono all'ora.",
+      "leistungBesch6": "Se si scopre e il volo del drone è permesso, farò alcune foto di droni al tuo matrimonio"
     },
-    "leistungsDetail": {
-      "bearatung": "Consiglio personale",
-      "nachbearbeitung": "post produzione",
-      "bilder": "Circa 50 - 100 immagini all'ora",
-      "galerie": "Galleria in linea",
-      "usbStick": "Immagini tramite chiavetta USB in scatola di legno",
-      "unterDrei": "* Nella stagione dei matrimoni (aprile - ottobre) prenotabile solo dal lunedì al giovedì, venerdì e domenica su richiesta."
+    "hochzeitsPackete": {
+      "title": "PACCHETTI DI NOZZE",
+      "packet1": {
+        "title": "Pacchetto 1",
+        "zeit": "6 Ore",
+        "fahrt": "+ Nessun costo di viaggio fino a 150 km di distanza"
+      },
+      "packet2": {
+        "title": "Pacchetto 2",
+        "zeit": "8 Ore",
+        "fahrt": "+ Nessun costo di viaggio fino a 200 km di distanza"
+      },
+      "packet3": {
+        "title": "Pacchetto 3",
+        "zeit": "10 Ore",
+        "fahrt": "+ Nessun costo di viaggio fino a 350 km di distanza"
+      },
+      "packet4": {
+        "title": "Pacchetto 4",
+        "fahrt": "+ Nessun costo di viaggio fino a 500 km di distanza"
+      },
+      "basicInfo": {
+        "beratung": "+ Consulenza personale",
+        "bearbeitung": "+ Post-elaborazione delle foto",
+        "onlineGal": "+ Galleria online",
+        "usbStick": "+ Immagini tramite chiavetta USB"
+      },
+      "zusatzInfo": {
+        "nichtsPassendes": "Niente di adatto? Scrivimi un messaggio!",
+        "kmPreis": "Per ogni chilometro aggiuntivo percorso, faccio pagare 0,45 euro, cioè paghi solo i costi dell'auto. Il punto di partenza è Tutzing 82327.",
+        "keineAnfItalien": "Nessun costo di viaggio per matrimoni in Italia!"
+      },
+      "Hochzeitsvertrag": {
+        "title": "Scarica Contratto di matrimonio",
+        "subTitle": "QUI PUOI SCARICARE IL MIO CONTRATTO DI MATRIMONIO"
+      }
     },
-    "btnAnfrage": "Informarsi ora",
+    "btnAnfrage": "Richiedi ora",
     "afterWedding": {
-      "title": "Dopo le riprese del matrimonio",
-      "subTitle": "Fotografo di matrimoni a Starnberg, Monaco, Augusta",
-      "content": "Se il tempo durante il vostro matrimonio è troppo breve per lo shooting di coppia, saremo lieti di organizzare un appuntamento per lo shooting post-matrimonio. Le riprese della vostra coppia di sposi sono state posticipate solo di pochi giorni. Le riprese post-matrimonio durano circa 45-60 minuti. Alla fine riceverai da me circa 50 immagini modificate"
+      "title": "Dopo le riprese di matrimonio",
+      "subTitle": "Fotografo di matrimoni a Starnberg, Monaco di Baviera, Augusta",
+      "content": "Se il tempo durante il tuo matrimonio è troppo breve per le riprese di coppia, possiamo fissare un appuntamento per le riprese dopo il matrimonio. Per così dire, il servizio fotografico della coppia di sposi è stato solo posticipato di alcuni giorni. Le riprese dopo il matrimonio durano circa 45-60 minuti. Alla fine ottieni circa 50 immagini modificate da me"
     },
     "paarShooting": {
-      "title": "Un paio di tiri",
+      "title": "Sparatorie di coppia",
       "subTitle": "Fotografo di matrimoni Starnberg",
-      "content": "Non devi necessariamente sposarti per farti fotografare davanti a me! Saremo lieti di realizzare uno shooting di coppia nella location desiderata. Di solito ci vogliono circa 45 minuti e ricevo circa 50 mie foto modificate."
+      "content": "Non devi necessariamente sposarti per essere fotografato di fronte a me! Siamo felici di fare un paio di scatti nella posizione desiderata. Di solito ci vogliono circa 45 minuti e ottengo circa 50 foto modificate di me."
     }
   },
   "pageAbout": {

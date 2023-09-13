@@ -1,7 +1,7 @@
-import Preise from "../components/Preise";
 import ShootingPreise from "../components/ShootingPreise";
 import Memories from "../components/Memories";
 import Includes from "../components/Includes";
+import WeddingPackete from "../components/WeddingPackete";
 import { createTranslator, useTranslations } from "next-intl";
 
 export async function generateMetadata({ params: { locale } }) {
@@ -51,7 +51,7 @@ const jsonLd = [
 ];
 
 const Leistungen = () => {
-  const t = useTranslations();
+  const t = useTranslations("pageLeistungen");
   return (
     <main>
       <script
@@ -60,7 +60,27 @@ const Leistungen = () => {
       />
       <Memories />
       <Includes />
-      <Preise />
+      <WeddingPackete
+        title={t("hochzeitsPackete.title")}
+        packet1Title={t("hochzeitsPackete.packet1.title")}
+        packet1Fahrt={t("hochzeitsPackete.packet1.fahrt")}
+        packetDa1={t("hochzeitsPackete.packet1.zeit")}
+        packet2Title={t("hochzeitsPackete.packet2.title")}
+        packet2Fahrt={t("hochzeitsPackete.packet2.fahrt")}
+        packetDa2={t("hochzeitsPackete.packet2.zeit")}
+        packet3Title={t("hochzeitsPackete.packet3.title")}
+        packet3Fahrt={t("hochzeitsPackete.packet3.fahrt")}
+        packetDa3={t("hochzeitsPackete.packet3.zeit")}
+        packet4Title={t("hochzeitsPackete.packet4.title")}
+        packet4Fahrt={t("hochzeitsPackete.packet4.fahrt")}
+        beratung={t("hochzeitsPackete.basicInfo.beratung")}
+        bearbeitung={t("hochzeitsPackete.basicInfo.bearbeitung")}
+        onlineGal={t("hochzeitsPackete.basicInfo.onlineGal")}
+        usbStick={t("hochzeitsPackete.basicInfo.usbStick")}
+        nichtsPassendes={t("hochzeitsPackete.basicInfo.nichtsPassendes")}
+        kmPreis={t("hochzeitsPackete.basicInfo.kmPreis")}
+        keineAnfItalien={t("hochzeitsPackete.basicInfo.keineAnfItalien")}
+      />
       <ShootingPreise />
     </main>
   );
