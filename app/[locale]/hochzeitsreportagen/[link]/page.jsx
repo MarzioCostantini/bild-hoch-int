@@ -2,6 +2,7 @@ import styles from "../../styles/WeddingDetailNew.module.css";
 import { createTranslator, useTranslations } from "next-intl";
 import Link from "next/link";
 import ShowGallery from "../../components/ShowGallery";
+import Circle from "../../../../public/img/svgs/circle";
 
 // ! METADATA START
 
@@ -116,16 +117,30 @@ const Page = ({ params }) => {
 
   return (
     <main className={styles.weddingDetail}>
-      <h1>{postData.title}</h1>
-      <div className="line"></div>
-      <p>{postData.description}</p>
-      <p>
-        Wenn auch ihr noch auf der Suche nach einem Hochzeitsfotografen seid,
-        schreibt mir gerne eine Nachricht.
-      </p>
-      <Link className="btn" href="/kontakt">
-        Kontakt
-      </Link>
+      <section>
+        <div className={styles.longLine}></div>
+        <p className={styles.feauter}>Feauter in Wedding</p>
+        <h1>{postData.title}</h1>
+        <Circle />
+        <article className={styles.btnKontakt}>
+          <div></div>
+          <Link className="btn" href="/kontakt">
+            Kontakt
+          </Link>
+          <div></div>
+        </article>
+        <div className={styles.content}>
+          <p>{postData.description}</p>
+        </div>
+        <article className={styles.touch}>
+          <p>Like What you See?</p>
+          <div></div>
+          <Link className="btn" href="/kontakt">
+            GET IN TOUCH
+          </Link>
+        </article>
+      </section>
+
       <ShowGallery tag={postData.cloudinaryTag} alt={postData.keyword1} />
     </main>
   );
