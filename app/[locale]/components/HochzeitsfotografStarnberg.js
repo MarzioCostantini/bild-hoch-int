@@ -14,8 +14,8 @@ const HochzeitsfotografStarnberg = () => {
             height={200}
             width={270}
             alt="Hochzeitsfotograf Starnberg München Augsburg Garmisch-Partenkirchen"
-            sizes="100vw"
             style={{ width: "50%", height: "auto" }}
+            sizes="100vw"
           />
         </div>
 
@@ -38,8 +38,8 @@ const HochzeitsfotografStarnberg = () => {
             height={250}
             width={200}
             alt="Hochzeitsfotograf Starnberg München Augsburg Garmisch-Partenkirchen"
-            sizes="100vw"
             style={{ width: "50%", height: "auto" }}
+            sizes="100vw"
           />
         </div>
       </article>
