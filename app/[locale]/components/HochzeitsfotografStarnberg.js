@@ -41,6 +41,14 @@ const HochzeitsfotografStarnberg = () => {
             style={{ width: "50%", height: "auto" }}
             sizes="100vw"
           />
+          <Image
+            src="/img/home/Hochzeitsfotograf-Starnberg-deko3-min.avif"
+            height={250}
+            width={200}
+            alt="Hochzeitsfotograf Starnberg München Augsburg Garmisch-Partenkirchen"
+            style={{ width: "50%", height: "auto" }}
+            sizes="100vw"
+          />
         </div>
       </article>
       <div className={styles.imgCol}>
@@ -56,7 +64,7 @@ const HochzeitsfotografStarnberg = () => {
         </div>
 
         <Image
-          src="/img/home/Hochzeitsfotograf-Starnberg-deko4-min.avif"
+          src="/img/home/Hochzeitsfotograf-Starnberg-deko5-min.avif"
           height={300}
           width={230}
           alt="Hochzeitsfotograf Starnberg München Augsburg Garmisch-Partenkirchen"
