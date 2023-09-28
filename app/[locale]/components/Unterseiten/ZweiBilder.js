@@ -7,7 +7,7 @@ const ZweiBilder = ({ title, text1, text2, img1, img2, dekoText }) => {
       <article className={styles.hero}>
         <div></div>
         <Image
-          src="/../public/img/sonstige/kreuz.png"
+          src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1695904301/deko/kreuz_hqtbq7.png"
           height={90}
           width={90}
           alt="Hochzeitsfotograf München Starnberg Augsburg Garmisch-partenkirchen Gardasee Florenz"
@@ -30,7 +30,7 @@ const ZweiBilder = ({ title, text1, text2, img1, img2, dekoText }) => {
         </div>
         <div>
           <Image
-            src="/../public/img/sonstige/rain.png"
+            src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1695904301/deko/rain_itbrvh.png"
             height={105}
             width={100}
             alt="Hochzeitsfotograf Starnberg"
