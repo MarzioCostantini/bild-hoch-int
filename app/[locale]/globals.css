@@ -90,7 +90,7 @@ h2 {
 }
 h3 {
   font-family: NoireEtBlanc, Arial, Helvetica, sans-serif;
-  font-size: clamp(3rem, 3.5vw, 4rem);
+  font-size: clamp(2.5rem, 3.3vw, 4rem);
   color: var(--text-black);
   font-weight: lighter;
 }
