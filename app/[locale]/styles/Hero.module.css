@@ -57,7 +57,7 @@
   margin: auto;
   color: var(--main-color);
   text-transform: uppercase;
-  font-size: clamp(3rem, 3.5vw, 4rem);
+  font-size: clamp(2.5rem, 3.5vw, 4rem);
   text-shadow: 0 0 70px var(--secondary-color);
   letter-spacing: 0.5vw;
 }

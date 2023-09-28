@@ -2,6 +2,7 @@
   padding: 100px 0;
   background-color: var(--gold);
   color: var(--white);
+  padding: 5vw;
 }
 
 .hero {
@@ -74,14 +75,18 @@
 .num {
   font-family: NoireEtBlanc, Arial, Helvetica, sans-serif;
   font-size: clamp(3rem, 3vw, 4rem);
+  width: 10vw;
 }
-
+.text {
+  width: 50vw;
+}
 .locationItem div {
   margin-top: -20px;
 }
 
 .infobox {
   text-align: center;
+  width: 25vw;
 }
 
 .infobox h6 {
@@ -93,4 +98,22 @@
 }
 .locationItem div p {
   margin-bottom: 30px;
+}
+
+@media only screen and (max-width: 768px) {
+  .locations .locationItem {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .infobox {
+    width: 90vw;
+  }
+
+  .num {
+    width: 90vw;
+  }
+  .text {
+    width: 90vw;
+  }
 }

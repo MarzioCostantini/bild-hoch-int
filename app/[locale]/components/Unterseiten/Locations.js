@@ -36,7 +36,7 @@ const Locations = ({ title, subTitle, locations, einleitung }) => {
                   Zur Webseite
                 </Link>
               </div>
-              <p>{location.text}</p>
+              <p className={styles.text}>{location.text}</p>
             </li>
           ))}
         </ul>
