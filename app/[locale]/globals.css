@@ -149,6 +149,21 @@ p span {
 .btn:hover {
   background-color: var(--main-color);
 }
+.btnWhite {
+  font-family: CodePen, Arial, Helvetica, sans-serif;
+  font-size: 3rem;
+  border: 1px solid var(--white);
+  color: var(--white);
+  padding: 5px 25px;
+  display: inline-block;
+  text-align: center;
+  min-width: 150px;
+  transition: all 0.2s;
+  cursor: pointer;
+}
+.btnWhite:hover {
+  background-color: var(--main-color);
+}
 
 .line {
   width: 40vw;

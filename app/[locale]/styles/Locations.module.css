@@ -1,0 +1,96 @@
+.locations {
+  padding: 100px 0;
+  background-color: var(--gold);
+  color: var(--white);
+}
+
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 60px;
+}
+.hero p {
+  margin-bottom: -5px;
+  font-size: 35px;
+  color: var(--white);
+}
+
+.hero div {
+  background-color: var(--white);
+  height: 1px;
+  width: 100%;
+}
+
+.locations div {
+  color: var(--white);
+}
+
+.locations h2,
+.locations p,
+.locations h3 {
+  color: var(--white);
+}
+
+.locations h2,
+.locations h3 {
+  text-transform: uppercase;
+}
+
+.title p:not(.einleitung) {
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
+.title {
+  text-align: center;
+}
+.einleitung {
+  max-width: 60vw;
+  margin: 0 auto 90px auto;
+}
+
+.line {
+  width: 80vw;
+  height: 1px;
+  background-color: var(--white);
+  margin: 0 auto 90px auto;
+}
+.locations .locationItem {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 60px;
+  max-width: 80vw;
+  margin: 60px auto;
+  line-height: auto;
+  border-bottom: 1px solid var(--white);
+  padding-bottom: 60px;
+}
+.locations h3 {
+  font-size: clamp(2rem, 2.5vw, 3.5rem);
+}
+
+.num {
+  font-family: NoireEtBlanc, Arial, Helvetica, sans-serif;
+  font-size: clamp(3rem, 3vw, 4rem);
+}
+
+.locationItem div {
+  margin-top: -20px;
+}
+
+.infobox {
+  text-align: center;
+}
+
+.infobox h6 {
+  margin-bottom: 15px;
+  color: var(--white);
+}
+.locationItem div h3 {
+  margin-bottom: 15px;
+}
+.locationItem div p {
+  margin-bottom: 30px;
+}

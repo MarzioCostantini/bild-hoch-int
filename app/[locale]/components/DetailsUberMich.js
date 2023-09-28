@@ -25,7 +25,7 @@ const DetailsUberMich = () => {
             height={300}
             width={500}
             alt="Hochzeitsfotograf München Starnberg Augsburg Garmisch-partenkirchen Gardasee Florenz"
-          />{" "}
+          />
         </div>
       </article>
       <article className={styles.list}>

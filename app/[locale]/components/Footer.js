@@ -24,6 +24,9 @@ const Footer = () => {
             <Link href="/">
               <p>{t("footer.legal.link4")}</p>
             </Link>
+            <Link href="/hochzeitsfotograf-starnberg">
+              <p>{t("footer.legal.link5a")}</p>
+            </Link>
             <Link href="/hochzeitsfotograf-mallorca">
               <p>{t("footer.legal.link5")}</p>
             </Link>

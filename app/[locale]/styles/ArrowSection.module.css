@@ -1,0 +1,117 @@
+.arrowSection {
+  margin: auto;
+  padding: 100px 5vw;
+  max-width: 70vw;
+  position: relative;
+}
+
+.imgCont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* background-color: rgb(221, 233, 242); */
+}
+/* .imgCont img {
+  opacity: 50%;
+} */
+
+.imgCont h2 {
+  font-size: clamp(3rem, 3vw, 7rem);
+  margin: 0;
+  padding: 0;
+  width: 450px;
+  text-transform: uppercase;
+  margin-right: -150px;
+  position: relative;
+  z-index: 10;
+  color: var(--gold);
+  line-height: auto;
+  letter-spacing: 10px;
+}
+
+.imgCont h2::before {
+  content: "";
+  position: absolute;
+  left: -9vw;
+  width: 8vw;
+  height: 60px;
+  background-image: url("../../../public/img/sonstige/arrow.png");
+  background-size: cover;
+  background-position: center;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.imgCont div {
+  position: relative;
+}
+
+.imgCont div::after {
+  content: "";
+  position: absolute;
+  bottom: 2vh;
+  right: -9vw;
+  width: 8vw;
+  height: 60px;
+  background-image: url("../../../public/img/sonstige/arrow.png");
+  background-size: cover;
+  background-position: center;
+  transform: rotate(180deg);
+}
+
+.text {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  /* background-color: aliceblue; */
+  align-items: flex-start;
+  padding: 100px 30px 30px 30px;
+  border: solid 1px var(--gold);
+  margin-top: -30px;
+}
+
+.text p {
+  width: 50%;
+}
+@media only screen and (max-width: 1000px) {
+  .arrowSection {
+    max-width: 90vw;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .arrowSection {
+    margin-top: 70px;
+  }
+
+  .imgCont {
+    flex-direction: column-reverse;
+    text-align: center;
+  }
+  .imgCont h2 {
+    width: auto;
+    margin: 30px 0 0 0;
+    line-height: 60px;
+  }
+
+  .text {
+    flex-direction: column;
+    margin-top: 10px;
+    padding: 3vw;
+  }
+
+  .text p {
+    width: 100%;
+  }
+
+  .imgCont div::after {
+    top: -100px;
+    height: 40px;
+    width: 120px;
+    left: 50%;
+    transform: translateX(-50%) rotate(90deg);
+  }
+  .imgCont h2::before {
+    display: none;
+  }
+}

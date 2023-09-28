@@ -1,0 +1,87 @@
+.hero {
+  min-height: 80vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 60px;
+}
+
+.hero div {
+  background-color: var(--main-color);
+  position: absolute;
+}
+
+.lineTop {
+  left: 0;
+  right: 0;
+  height: 1px;
+  top: 2vw;
+}
+
+.lineLeft {
+  width: 1px;
+  top: 0;
+  bottom: 0;
+  left: 2vw;
+}
+
+.lineLeftZwei {
+  width: 1px;
+  top: 0;
+  bottom: 30px;
+  left: 2.5vw;
+}
+
+.lineRight {
+  width: 1px;
+  top: 0;
+  bottom: 0;
+  right: 2vw;
+}
+
+.lineRightZwei {
+  width: 1px;
+  top: 0;
+  bottom: 30px;
+  right: 2.5vw;
+}
+
+.hero h1 {
+  max-width: 85vw;
+  text-align: center;
+  margin: auto;
+  color: var(--main-color);
+  text-transform: uppercase;
+  font-size: clamp(3rem, 3.5vw, 4rem);
+  text-shadow: 0 0 70px var(--secondary-color);
+  letter-spacing: 0.5vw;
+}
+
+.hero article {
+  border-top: 1px solid var(--main-color);
+  position: absolute;
+  bottom: 0;
+  padding: 5vh 0;
+  left: 0;
+  right: 0;
+}
+
+.hero article p {
+  color: var(--main-color);
+  text-transform: uppercase;
+}
+
+@media only screen and (max-width: 870px) {
+  .lineRight,
+  .lineLeftZwei,
+  .lineLeft,
+  .lineRightZwei,
+  .lineTop {
+    display: none;
+  }
+}
