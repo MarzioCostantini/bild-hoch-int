@@ -114,6 +114,9 @@ const Footer = () => {
             <Link href="/about">
               <p>{t("footer.sitemap.link6")}</p>
             </Link>
+            <Link href="/partner">
+              <p>Partner</p>
+            </Link>
           </div>
         </article>
       </section>
