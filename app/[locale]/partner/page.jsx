@@ -2,19 +2,6 @@ import Link from "next/link";
 import ArrowSection from "../components/Unterseiten/ArrowSection";
 import Locations from "../components/Unterseiten/Locations";
 
-const partner = [
-  {
-    name: "Blumenoase",
-    text: "Say YES - Zu deiner beeindruckenden Blumendekoration - Die Florale Dekoration  ist dabei eine der wichtigsten Bausteine für die gesamte Atmosphäre. Das Team begleitet euch von Anfang an, mit jahrelanger Erfahrung, bei der Planung eurer Dekoration.",
-    link: "https://www.dieblumenoase.de/",
-  },
-  {
-    name: "Blumenoas 2222",
-    text: "Say YES - Zu deiner beeindruckenden Blumendekoration - Die Florale Dekoration  ist dabei eine der wichtigsten Bausteine für die gesamte Atmosphäre. Das Team begleitet euch von Anfang an, mit jahrelanger Erfahrung, bei der Planung eurer Dekoration.",
-    link: "https://www.dieblumenoase.de/",
-  },
-];
-
 const Partner = () => {
   return (
     <main>
@@ -34,6 +21,14 @@ const Partner = () => {
             webseite: "https://www.dieblumenoase.de/",
             slogan: " Hochzeitsfloristik",
             text: "Say YES - Zu deiner beeindruckenden Blumendekoration - Die Florale Dekoration  ist dabei eine der wichtigsten Bausteine für die gesamte Atmosphäre. Das Team begleitet euch von Anfang an, mit jahrelanger Erfahrung, bei der Planung eurer Dekoration.",
+            catrgory: "Florist",
+          },
+          {
+            name: "StuhlHussenWorld",
+            webseite: "https://stuhlhussenworld.de/",
+            slogan: "Stuhlhussen",
+            text: "Sie planen eine Hochzeit oder eine Geburtstagsfeier, haben aber noch keine Vorstellung, wie Sie Ihren Anlass dekorativ gestalten? Wir helfen Ihnen, Ihre persönliche Dekoidee zu finden. Wir beraten Sie schnell und unkompliziert damit Sie die passenden Stuhlhussen mieten und die perfekte Dekoration bekommen. StuhlHussenWorld ist auf den Verleih von Hussen jeglicher Art und Dekoration spezialisiert. Zu unseren Kunden zählen Privatpersonen und Gewerbetreibende, wie Eventagenturen, Gastronomie- und Hotellerie Betriebe. Durch Stuhlhussen und der passenden Dekoration schaffen Sie auf Hochzeiten, Geburtstagsfeiern, Taufen, Jubiläumsveranstaltungen und Events jeglicher Art ein feierliches Flair. Wir freuen uns auf Ihre Anfrage.",
+            catrgory: "Florist",
           },
         ]}
       />
