@@ -56,7 +56,7 @@ const HochzeitsfotografStarnberg = () => {
         </div>
 
         <Image
-          src="/img/home/Hochzeitsfotograf-Starnberg-deko5-min.avif"
+          src="/img/home/Hochzeitsfotograf-Starnberg-deko4-min.avif"
           height={300}
           width={230}
           alt="Hochzeitsfotograf Starnberg München Augsburg Garmisch-Partenkirchen"

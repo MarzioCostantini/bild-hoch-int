@@ -28,6 +28,20 @@ const Partner = () => {
             webseite: "https://stuhlhussenworld.de/",
             slogan: "Stuhlhussen",
             text: "Sie planen eine Hochzeit oder eine Geburtstagsfeier, haben aber noch keine Vorstellung, wie Sie Ihren Anlass dekorativ gestalten? Wir helfen Ihnen, Ihre persönliche Dekoidee zu finden. Wir beraten Sie schnell und unkompliziert damit Sie die passenden Stuhlhussen mieten und die perfekte Dekoration bekommen. StuhlHussenWorld ist auf den Verleih von Hussen jeglicher Art und Dekoration spezialisiert. Zu unseren Kunden zählen Privatpersonen und Gewerbetreibende, wie Eventagenturen, Gastronomie- und Hotellerie Betriebe. Durch Stuhlhussen und der passenden Dekoration schaffen Sie auf Hochzeiten, Geburtstagsfeiern, Taufen, Jubiläumsveranstaltungen und Events jeglicher Art ein feierliches Flair. Wir freuen uns auf Ihre Anfrage.",
+            catrgory: "Sonstiges",
+          },
+          {
+            name: "Bine Singt",
+            webseite: "https://www.binesingt.net/Hochzeit",
+            slogan: "Hochzeitssängerin",
+            text: "Sie suchen noch Ihre Hochzeitssängerin? Mit viel Herz und Stimme sorgt die Sängerin Bine Trinker aus München bei Ihrer Trauung für Gänsehautmomente. Auf Wunsch begleitet sie auch den Empfang musikalisch und sorgt am Abend mit ihrer Band für Partystimmung auf der Tanzfläche.",
+            catrgory: "Sänger",
+          },
+          {
+            name: "Hochzeitsflorstik Kirsten Brugger",
+            webseite: "www.kirsten-brugger.de",
+            slogan: "Hochzeitsflorstik",
+            text: "Gerne biete ich euch professionelle Hochzeitsfloristik für eure Hochzeit in München, Starnberg, am Ammersee, Starnberger See oder im Landkreis Fürstenfeldbruck. Ob Ihr euch eine elegante und festliche Dekoration für Ihre Hochzeit wünscht, eine romantische Boho-Hochzeit plant oder eine traditionelle bayerische Trachtenhochzeit bevorzugt, die Gestaltung Ihrer Traumhochzeit liegt in euren Händen. Unser Ziel ist es, eure Hochzeit zu einem unvergesslichen Erlebnis zu machen.",
             catrgory: "Florist",
           },
         ]}
