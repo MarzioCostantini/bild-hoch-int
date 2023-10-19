@@ -572,6 +572,11 @@ nav option {
   .lineimg:after {
     width: 60vh;
   }
+
+  .cookie article {
+    flex-direction: column;
+    align-items: center;
+  }
 }
 
 .white-color a {
