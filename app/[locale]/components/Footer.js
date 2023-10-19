@@ -3,7 +3,7 @@ import styles from "../styles/Footer.module.css";
 import Image from "next/image";
 import WebDevelopment from "../../../public/img/svgs/WebDevelopment";
 import { useTranslations } from "next-intl";
-
+import { CldImage } from "next-cloudinary";
 const Footer = () => {
   const t = useTranslations();
   return (

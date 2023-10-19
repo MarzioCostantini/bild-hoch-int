@@ -2,6 +2,7 @@
 import { useState } from "react";
 import styles from "../styles/KontaktForm.module.css";
 import { getCookie } from "cookies-next";
+import { CldImage } from "next-cloudinary";
 
 const KontaktForm = ({
   name,
@@ -123,6 +124,13 @@ const KontaktForm = ({
       ) : (
         ""
       )}
+
+      <CldImage
+        width="600"
+        height="600"
+        src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697717542/Pages/heiraten-auf-der-zugspitze/Heiraten-auf-der-zugspitze-58_axinw2.jpg"
+        alt="hi"
+      />
     </article>
   );
 };
