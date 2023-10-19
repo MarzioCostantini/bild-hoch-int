@@ -1,0 +1,35 @@
+.heroTwo {
+  background-color: var(--main-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  text-align: center;
+  gap: 5vw;
+  padding: 5vw;
+}
+
+.heroTwo h1 {
+  color: var(--gold);
+  text-transform: uppercase;
+  font-size: clamp(2.5rem, 3.3vw, 4rem);
+}
+
+.heroTwo h6 {
+  margin-bottom: 40px;
+}
+
+.heroTwo div img {
+  margin-bottom: 40px;
+}
+
+@media only screen and (max-width: 768px) {
+  .heroTwo {
+    padding-top: 100px;
+    flex-direction: column;
+  }
+
+  .heroTwo img:first-child {
+    display: none;
+  }
+}

@@ -1,0 +1,103 @@
+.threeText {
+  padding: 5vw;
+  text-align: center;
+}
+
+.threeText h2,
+.threeText h3 {
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+.threeText h2 {
+  font-size: clamp(2.8rem, 3.2vw, 3.8rem);
+}
+
+.threeText h3 {
+  font-size: clamp(2.5rem, 2.5vw, 3rem);
+  min-height: 120px;
+  margin-bottom: 10px;
+}
+.deko {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  margin-bottom: 5vw;
+}
+
+.header {
+  margin: 5vw auto 5vw auto;
+  max-width: 50%;
+}
+
+.line {
+  margin: 0 auto 5vw auto;
+  height: 1px;
+  width: 50%;
+  background-color: var(--gold);
+}
+.deko div {
+  width: 100%;
+  height: 1px;
+  background-color: var(--gold);
+}
+
+.middle {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 4vw;
+}
+
+.middle section {
+  width: 50%;
+}
+
+.textcontent {
+  display: block;
+  min-height: 200px;
+}
+
+.threeText img {
+  margin: 30px;
+}
+
+/* Tablet */
+
+@media only screen and (min-width: 1700px) {
+  .threeText h3 {
+    min-height: auto;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .header {
+    max-width: 100%;
+  }
+  .middle {
+    flex-direction: column;
+    margin: 0 0 60px 0;
+    gap: 60px;
+  }
+  .middle section {
+    width: 100%;
+  }
+  .textcontent {
+    min-height: auto;
+  }
+  .threeText h3 {
+    min-height: auto;
+  }
+  .line {
+    margin: 60px auto 60px auto;
+  }
+  .threeText img {
+    margin: auto;
+    width: 100% !important;
+  }
+}
+
+/* Handy */
+@media only screen and (max-width: 576px) {
+}

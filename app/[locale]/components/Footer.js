@@ -36,6 +36,9 @@ const Footer = () => {
             <Link href="/hochzeitsfotograf-gardasee">
               <p>{t("footer.legal.link7")}</p>
             </Link>
+            <Link href="/heiraten-auf-der-zugspitze">
+              <p>{t("footer.legal.link8")}</p>
+            </Link>
           </div>
         </article>
         <div className={styles.dekoimg}>

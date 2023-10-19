@@ -1,0 +1,84 @@
+.threeImg {
+  padding: 5vw;
+  text-align: center;
+}
+
+.threeImg h2,
+.threeImg h3 {
+  color: var(--gold);
+  text-transform: uppercase;
+}
+
+.threeImg h2 {
+  font-size: clamp(2.8rem, 3.2vw, 3.8rem);
+}
+
+.threeImg h3 {
+  font-size: clamp(2.5rem, 2.5vw, 3rem);
+  margin-bottom: 10px;
+}
+
+.hero {
+  margin: 0 auto 5vw auto;
+  max-width: 50%;
+}
+
+.textbox {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 5vw;
+  margin-bottom: 5vw;
+}
+
+.textbox div {
+  width: 50%;
+}
+
+.imgbox {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 60px 0;
+}
+
+.imgbox {
+  border-top: 1px solid var(--gold);
+  border-bottom: 1px solid var(--gold);
+}
+
+.showImg {
+  display: none;
+}
+
+/* Tablet */
+
+@media only screen and (max-width: 1000px) {
+  .imgbox img:first-child,
+  .imgbox img:last-child {
+    display: none;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .hero {
+    max-width: 100%;
+    margin-bottom: 60px;
+  }
+  .textbox {
+    flex-direction: column;
+    row-gap: 60px;
+  }
+  .textbox div {
+    width: 100%;
+  }
+
+  .imgbox {
+    flex-direction: column;
+    gap: 30px;
+    margin: 60px 0;
+  }
+}
+
+/* Handy */
+@media only screen and (max-width: 576px) {
+}
