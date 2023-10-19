@@ -30,6 +30,8 @@ const HeroTwoImg = ({ title, subTitle, text, imgLinks, imgRechts }) => {
         width={290}
         alt="Hochzeitsfotograf Starnberg München Augsburg Garmisch-Partenkirchen"
       />
+      <img src={imgRechts} alt="" />
+      <h2>Haloo</h2>
     </section>
   );
 };
