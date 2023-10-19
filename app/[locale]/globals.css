@@ -576,6 +576,9 @@ nav option {
   .cookie article {
     flex-direction: column;
     align-items: center;
+    /* height: 40%; */
+    padding-bottom: 100px;
+    justify-content: center;
   }
 }
 
