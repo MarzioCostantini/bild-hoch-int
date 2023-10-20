@@ -2,7 +2,7 @@ import styles from "../styles/WelcomeHero.module.css";
 import Image from "next/image";
 import Link from "next/link";
 import Circle from "../../../public/img/svgs/circle";
-
+import McImage from "./McImage";
 import { useTranslations } from "next-intl";
 const WelcomeHero = () => {
   const t = useTranslations();
@@ -29,12 +29,12 @@ const WelcomeHero = () => {
               br: () => <br />,
             })}
           </p>
-          <Image
-            src="/img/home/Hochzeitsfotograf-Marzio-Costantini-min.avif"
-            height={350}
-            width={300}
+          <McImage
+            src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697793557/Components/Hochzeitsfotograf-Marzio-Costantini-min_que6ep.avif"
+            height="300"
+            width="300"
             alt="Hochzeitsfotograf München"
-            // style={{ width: "100%", height: "auto" }}
+            style={{ width: "300", height: "300" }}
           />
 
           <p className={styles.zusatz}>

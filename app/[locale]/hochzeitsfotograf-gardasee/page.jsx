@@ -5,6 +5,7 @@ import PortfolioBanner from "../components/PortfolioBanner";
 import LeistungenHero from "../components/LeistungenHero";
 import styles from "../styles/Unterseite.module.css";
 import { createTranslator, useTranslations } from "next-intl";
+import McImage from "../components/McImage";
 
 export async function generateMetadata({ params: { locale } }) {
   const messages = (await import(`../../../messages/${locale}.json`)).default;
@@ -127,16 +128,16 @@ const HochzeitsfotografGardasee = () => {
 
           <article className={styles.imgwrapper}>
             <div>
-              <Image
-                src="/img/sonstige/Hochzeitsfotograf-münchen-augsburg-starnberg-17-min.jpg"
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697807533/Components/Hochzeitsfotograf-mu%CC%88nchen-augsburg-starnberg-17-min_ictg8a.jpg"
                 height={400}
                 width={300}
                 alt="Hochzeitsfotograf Gardasee - Starnberg Marzio Costantini"
               />
             </div>
             <div>
-              <Image
-                src="/img/sonstige/hochzeitsfotograf-tutzing-18-min.jpg"
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697807541/Components/hochzeitsfotograf-tutzing-18-min_kksnxj.jpg"
                 height={200}
                 width={300}
                 alt="Hochzeitsfotograf Gardasee - Starnberg Marzio Costantini"
@@ -147,12 +148,12 @@ const HochzeitsfotografGardasee = () => {
         <section className={styles.oneImg}>
           <article>
             <div className="lineim">
-              <Image
-                src="/img/sonstige/Hochzeitsfotograf-starnberg-mallorca-15-min.jpg"
-                height={700}
-                width={1000}
-                sizes="100vw"
-                style={{ width: "100%", height: "auto" }}
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697807584/Components/Hochzeitsfotograf-starnberg-mallorca-15-min_ryjylb.jpg"
+                height={500}
+                width={900}
+                // sizes="100vw"
+                // style={{ width: "100%", height: "auto" }}
                 alt="Hochzeitsfotograf Gardasee - Starnberg Marzio Costantini"
               />
             </div>
@@ -185,8 +186,8 @@ const HochzeitsfotografGardasee = () => {
 
           <article className={styles.imgwrapper}>
             <div>
-              <Image
-                src="/img/florenz/Hochzeitsfotograf-toskana-florenz (6 von 11)-min.jpg"
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697807010/Components/Hochzeitsfotograf-toskana-florenz_6_von_11_-min_eypin1.jpg"
                 height={600}
                 width={400}
                 alt="Hochzeitsfotograf Gardasee - Starnberg Marzio Costantini"
@@ -364,24 +365,24 @@ const HochzeitsfotografGardasee = () => {
           </p>
           <div className={styles.img}>
             <div>
-              <Image
-                src="/img/florenz/Hochzeitsfotograf-toskana-florenz (10 von 11)-min.jpg"
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697807678/Components/Hochzeitsfotograf-toskana-florenz_10_von_11_-min_soiria.jpg"
                 height={300}
                 width={450}
                 alt="Hochzeitsfotograf Mallorca - Hochzeit Mallorca"
               />
             </div>
             <div>
-              <Image
-                src="/img/florenz/Hochzeitsfotograf-toskana-florenz (8 von 11)-min.jpg"
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697807681/Components/Hochzeitsfotograf-toskana-florenz_8_von_11_-min_b3y1eh.jpg"
                 height={500}
                 width={350}
                 alt="Hochzeitsfotograf Mallorca - Hochzeit Mallorca"
               />
             </div>
             <div>
-              <Image
-                src="/img/florenz/hochzeitslocation-toskana-1-min.jpg"
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697807688/Components/hochzeitslocation-toskana-1-min_by4wbj.jpg"
                 height={250}
                 width={370}
                 alt="Hochzeitsfotograf Mallorca - Hochzeit Mallorca"

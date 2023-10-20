@@ -5,6 +5,7 @@ import PortfolioBanner from "../components/PortfolioBanner";
 import LeistungenHero from "../components/LeistungenHero";
 import styles from "../styles/Unterseite.module.css";
 import { createTranslator, useTranslations } from "next-intl";
+import McImage from "../components/McImage";
 
 export async function generateMetadata({ params: { locale } }) {
   const messages = (await import(`../../../messages/${locale}.json`)).default;
@@ -118,16 +119,16 @@ const HochzeitsfotografMallorca = () => {
 
           <article className={styles.imgwrapper}>
             <div>
-              <Image
-                src="/img/sonstige/Hochzeitsfotograf-munchen-augsburg-starnberg-9.jpg"
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697806860/Components/Hochzeitsfotograf-munchen-augsburg-starnberg-9_stw0wn.jpg"
                 height={400}
                 width={300}
                 alt="Hochzeitsfotograf Starnberg Marzio Costantini"
               />
             </div>
             <div>
-              <Image
-                src="/img/sonstige/Hochzeitsfotograf-munchen-augsburg-starnberg-3.jpg"
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697806876/Components/Hochzeitsfotograf-munchen-augsburg-starnberg-3_byn5ex.jpg"
                 height={200}
                 width={300}
                 alt="Hochzeitsfotograf Starnberg Marzio Costantini"
@@ -138,12 +139,12 @@ const HochzeitsfotografMallorca = () => {
         <section className={styles.oneImg}>
           <article>
             <div className="lineim">
-              <Image
-                src="/img/sonstige/Hochzeitsfotograf-münchen-augsburg-starnberg-7.jpg"
-                height={400}
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697806950/Components/Hochzeitsfotograf-mu%CC%88nchen-augsburg-starnberg-7_kgueo1.jpg"
+                height={450}
                 width={600}
-                sizes="100vw"
-                style={{ width: "90%", height: "auto" }}
+                // sizes="100vw"
+                // style={{ width: "90%", height: "auto" }}
                 alt="Hochzeitsfotograf Starnberg Marzio Costantini"
               />
             </div>
@@ -175,10 +176,10 @@ const HochzeitsfotografMallorca = () => {
 
           <article className={styles.imgwrapper}>
             <div>
-              <Image
-                src="/img/florenz/Hochzeitsfotograf-toskana-florenz (6 von 11)-min.jpg"
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697807010/Components/Hochzeitsfotograf-toskana-florenz_6_von_11_-min_eypin1.jpg"
                 height={600}
-                width={400}
+                width={450}
                 alt="Hochzeitsfotograf Starnberg Marzio Costantini"
               />
             </div>
@@ -304,24 +305,24 @@ const HochzeitsfotografMallorca = () => {
           </p>
           <div className={styles.img}>
             <div>
-              <Image
-                src="/img/sonstige/Hochzeitsfotograf-starnberg-mallorca-5-min.jpg"
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697807077/Components/Hochzeitsfotograf-starnberg-mallorca-5-min_wye9sj.jpg"
                 height={250}
                 width={400}
                 alt="Hochzeitsfotograf Mallorca - Hochzeit Mallorca"
               />
             </div>
             <div>
-              <Image
-                src="/img/sonstige/Hochzeitsfotograf-starnberg-mallorca-35-min.jpg"
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697807086/Components/Hochzeitsfotograf-starnberg-mallorca-35-min_h2ra2f.jpg"
                 height={400}
                 width={300}
                 alt="Hochzeitsfotograf Mallorca - Hochzeit Mallorca"
               />
             </div>
             <div>
-              <Image
-                src="/img/sonstige/Hochzeitsfotograf-starnberg-mallorca-2-min.jpg"
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697807092/Components/Hochzeitsfotograf-starnberg-mallorca-2-min_w1gd7h.jpg"
                 height={200}
                 width={300}
                 alt="Hochzeitsfotograf Mallorca - Hochzeit Mallorca"
@@ -377,7 +378,7 @@ const HochzeitsfotografMallorca = () => {
         <section>
           <LeistungenHero
             titel={t("slogan")}
-            img1="/img/leistungen/Hochzeitsfotograf_Munchen-02-min.jpg"
+            img1="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697807092/Components/Hochzeitsfotograf-starnberg-mallorca-2-min_w1gd7h.jpg"
             img2="/img/leistungen/Hochzeitsfotograf_Munchen-03-min.jpg"
             kontakt={t("kontakt")}
           />

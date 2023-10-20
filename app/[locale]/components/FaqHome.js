@@ -1,6 +1,7 @@
 import styles from "../styles/Faq.module.css";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
+import McImage from "./McImage";
 
 const FaqHome = () => {
   const t = useTranslations();
@@ -12,8 +13,8 @@ const FaqHome = () => {
       <hr />
       <article>
         <div className="lineimg">
-          <Image
-            src="/img/faq/Hochzeitsfotograf_augsburg_01-min.avif"
+          <McImage
+            src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697793218/Components/Hochzeitsfotograf_augsburg_01-min_ulpezg.avif"
             height={300}
             width={300}
             alt="Hochzeitsfotograf München Starnberg Augsburg Garmisch-partenkirchen Gardasee Florenz"
@@ -42,8 +43,8 @@ const FaqHome = () => {
           </p>
         </div>
         <div className="lineimg">
-          <Image
-            src="/img/faq/Hochzeitsfotograf_augsburg_02-min.avif"
+          <McImage
+            src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697793219/Components/Hochzeitsfotograf_augsburg_02-min_m29sgh.avif"
             height={300}
             width={300}
             alt="Hochzeitsfotograf München Starnberg Augsburg Garmisch-partenkirchen Gardasee Florenz"
@@ -52,8 +53,8 @@ const FaqHome = () => {
       </article>
       <article>
         <div className="lineimg">
-          <Image
-            src="/img/faq/Hochzeitsfotograf_augsburg_03-min.avif"
+          <McImage
+            src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697793219/Components/Hochzeitsfotograf_augsburg_03-min_qdsbjy.avif"
             height={300}
             width={300}
             alt="Hochzeitsfotograf München Starnberg Augsburg Garmisch-partenkirchen Gardasee Florenz"

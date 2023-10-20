@@ -2,7 +2,7 @@ import Image from "next/image";
 import styles from "../styles/weddingOverview.module.css";
 import { useTranslations } from "next-intl";
 import data from "../../../messages/de.json";
-
+import McImage from "./McImage";
 import Link from "next/link";
 
 const WeddingFilterOverviewNew = () => {
@@ -18,9 +18,9 @@ const WeddingFilterOverviewNew = () => {
           <article key={index} className={styles.weddingItem}>
             <Link href={"hochzeitsreportagen/" + t(`${item}.link`)}>
               <div>
-                <Image
+                <McImage
                   src={t(`${item}.thumbnail`)}
-                  height={300}
+                  height={350}
                   width={500}
                   alt={t(`${item}.keyword1`)}
                 />

@@ -1,6 +1,6 @@
 import Image from "next/image";
 import styles from "../styles/WeddingDetail.module.css";
-
+import McImage from "./McImage";
 async function fetchImg({ tag }) {
   const productsRespons = await fetch(
     // So bekommen ich die Bilder via Tagname
@@ -36,7 +36,7 @@ export default async function ShowGallery({ tag, alt }) {
     <section className={styles.gallery}>
       {sortedProduct.map((item) => {
         return (
-          <Image
+          <McImage
             key={item.secure_url}
             src={item.secure_url}
             width={item.width}

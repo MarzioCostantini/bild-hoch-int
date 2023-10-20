@@ -1,6 +1,7 @@
 import Image from "next/image";
 import parse from "html-react-parser";
 import styles from "../../styles/ThreeText.module.css";
+import McImage from "../McImage";
 
 // #   title, textEinleitung, titleLinks, textLinks,  titleRechts, textRechts, img
 
@@ -23,7 +24,7 @@ const ThreeText = ({
     >
       <article className={styles.deko}>
         <div></div>
-        <Image
+        <McImage
           src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1695904301/deko/kreuz_hqtbq7.png"
           height={70}
           width={70}
@@ -50,7 +51,7 @@ const ThreeText = ({
           </div>
         </section>
       </article>
-      <Image
+      <McImage
         src={img}
         height={450}
         width={690}

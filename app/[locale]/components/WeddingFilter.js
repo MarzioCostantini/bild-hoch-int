@@ -4,6 +4,7 @@ import Image from "next/image";
 import styles from "../styles/weddingOverviewFilter.module.css";
 import { useTranslations } from "next-intl";
 import data from "../../../messages/de.json";
+import McImage from "./McImage";
 
 const FilterWedding = () => {
   // Gibt mir an Array zurück mit "post1, post2 ... etc"
@@ -28,12 +29,12 @@ const FilterWedding = () => {
           {favWedding.map((item, index) => (
             <article key={index} className={styles.weddingItem}>
               <Link href={"hochzeitsreportagen/" + t(`blog.${item}.link`)}>
-                <Image
+                <McImage
                   src={t(`blog.${item}.thumbnail`)}
                   height={300}
-                  width={500}
+                  width={600}
                   alt={t(`blog.${item}.keyword1`)}
-                  style={{ width: "100%", height: "auto" }}
+                  // style={{ width: "100%", height: "auto" }}
                 />
                 <div>
                   <h2>{t(`blog.${item}.title`)}</h2>

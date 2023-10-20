@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Image from "next/image";
+import McImage from "./McImage";
 
 function Tabs({
   details,
@@ -69,8 +70,8 @@ function Tabs({
           className={toggleState === 1 ? "content  active-content" : "content"}
         >
           <p>{reisencontent}</p>
-          <Image
-            src="/img/about/Hochzeitsfotograf_Starnberg_vietnam_bike.png"
+          <McImage
+            src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697799663/Components/Hochzeitsfotograf_Starnberg_vietnam_bike_n44yls.png"
             height={450}
             width={600}
             alt="Hochzeitsfotograf Starnberg, München, Garmisch-Partenkirch, Augsburg, Tutzing"
@@ -81,8 +82,8 @@ function Tabs({
           className={toggleState === 2 ? "content  active-content" : "content"}
         >
           <p>{naturcontent}</p>
-          <Image
-            src="/img/about/Hochzeitsfotograf_Starnberg_berg-min.jpg"
+          <McImage
+            src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697799662/Components/Hochzeitsfotograf_Starnberg_berg-min_zirgpw.jpg"
             height={400}
             width={500}
             alt="Hochzeitsfotograf Starnberg, München, Garmisch-Partenkirch, Augsburg, Tutzing"
@@ -93,8 +94,8 @@ function Tabs({
           className={toggleState === 3 ? "content  active-content" : "content"}
         >
           <p>{zwilligecontent}</p>
-          <Image
-            src="/img/about/Hochzeitsfotograf_Starnberg_vietnam-min.jpg"
+          <McImage
+            src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697799664/Components/Hochzeitsfotograf_Starnberg_vietnam-min_qxae4m.jpg"
             height={400}
             width={500}
             alt="Hochzeitsfotograf Starnberg, München, Garmisch-Partenkirch, Augsburg, Tutzing"
@@ -105,8 +106,8 @@ function Tabs({
           className={toggleState === 4 ? "content  active-content" : "content"}
         >
           <p>{programmierencontent}</p>
-          <Image
-            src="/img/about/Hochzeitsfotograf_Starnberg_code-min.jpg"
+          <McImage
+            src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697799663/Components/Hochzeitsfotograf_Starnberg_code-min_kfeejk.jpg"
             height={500}
             width={400}
             alt="Hochzeitsfotograf Starnberg, München, Garmisch-Partenkirch, Augsburg, Tutzing"

@@ -1,5 +1,6 @@
 import weddingData from "../WeddingData";
 import Image from "next/image";
+import McImage from "../McImage";
 
 export const getStaticProps = async () => {
   const AllWeddings = () => {
@@ -21,7 +22,7 @@ export const getStaticProps = async () => {
       <h1>All Weddings</h1>
 
       {imgContent.map((elme, index) => (
-        <Image
+        <McImage
           key={index}
           src={elme}
           height={600}

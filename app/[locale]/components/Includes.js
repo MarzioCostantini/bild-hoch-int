@@ -1,17 +1,18 @@
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 import styles from "../styles/Includes.module.css";
+import McImage from "./McImage";
 
 const Includes = () => {
   const t = useTranslations("pageLeistungen");
   return (
     <section className={styles.includes}>
       <div className={styles.sun}>
-        <Image
+        <McImage
           alt="Sun"
           width={"120"}
           height={"120"}
-          src="/img/leistungen/sun.png"
+          src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697808101/Components/sun_fyukkq.png"
         />
       </div>
 
@@ -31,11 +32,11 @@ const Includes = () => {
           </div>
         </article>
         <article className={styles.bwImg}>
-          <Image
-            alt="Sun"
-            width={"350"}
-            height={"350"}
-            src="/img/leistungen/Hochzeitsfotograf_Bild.png"
+          <McImage
+            alt="hochzeit"
+            width="400"
+            height="400"
+            src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697798111/Components/Hochzeitsfotograf_Bild_mx9ghg.png"
             style={{ width: "100%", height: "auto", maxWidth: "350px" }}
           />
         </article>

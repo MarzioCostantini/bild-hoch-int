@@ -1,6 +1,7 @@
 import parse from "html-react-parser";
 import Image from "next/image";
 import styles from "../../styles/ThreeImg.module.css";
+import McImage from "../McImage";
 
 // #title, text, linksTitle, linksText, rechtsTitle, rechtsText, linksImg, mitteImg, rechtsImg, bgColor, showImg
 
@@ -44,31 +45,31 @@ const ThreeImg = ({
           showImg == "false" ? styles.showImg : ""
         }`}
       >
-        <Image
+        <McImage
           src={linksImg}
           height={400}
           width={300}
           alt="Hochzeitsfotograf Starnberg München Augsburg Garmisch-Partenkirchen"
         />
-        <Image
+        <McImage
           src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1695904301/deko/kreuz_hqtbq7.png"
           height={60}
           width={60}
           alt="Hochzeitsfotograf Starnberg München Augsburg Garmisch-Partenkirchen"
         />
-        <Image
+        <McImage
           src={queerImg}
           height={500}
           width={400}
           alt="Hochzeitsfotograf Starnberg München Augsburg Garmisch-Partenkirchen"
         />
-        <Image
+        <McImage
           src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1695904301/deko/kreuz_hqtbq7.png"
           height={60}
           width={60}
           alt="Hochzeitsfotograf Starnberg München Augsburg Garmisch-Partenkirchen"
         />
-        <Image
+        <McImage
           src={rechtsImg}
           height={400}
           width={300}

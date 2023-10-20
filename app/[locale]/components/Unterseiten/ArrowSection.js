@@ -1,7 +1,7 @@
 import Image from "next/image";
 import ArrowInd from "../../../../public/img/svgs/ArrowInd";
 import styles from "../../styles/ArrowSection.module.css";
-
+import McImage from "../McImage";
 // # title, img, text1, text2
 
 const ArrowSection = ({ title, img, text1, text2 }) => {
@@ -10,7 +10,7 @@ const ArrowSection = ({ title, img, text1, text2 }) => {
       <article className={styles.imgCont}>
         <h2>{title}</h2>
         <div>
-          <Image
+          <McImage
             src={img}
             height={500}
             width={900}

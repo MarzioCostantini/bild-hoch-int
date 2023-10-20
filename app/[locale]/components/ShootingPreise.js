@@ -1,6 +1,7 @@
 import styles from "../styles/ShootingPreise.module.css";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
+import McImage from "./McImage";
 
 const ShootingPreise = () => {
   const t = useTranslations();
@@ -15,8 +16,8 @@ const ShootingPreise = () => {
           <p>350,-€</p>
         </div>
         <div className="lineimg">
-          <Image
-            src="/img/leistungen/Hochzeitsfotograf_Munchen-05-min.jpg"
+          <McImage
+            src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697798250/Components/Hochzeitsfotograf_Munchen-03-min_obl9wq.jpg"
             height={450}
             width={350}
             alt="Hochzeitsfotograf München"
@@ -25,8 +26,8 @@ const ShootingPreise = () => {
       </article>
       <article>
         <div className="lineimg">
-          <Image
-            src="/img/leistungen/Hochzeitsfotograf_Munchen-04-min.jpg"
+          <McImage
+            src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697798239/Components/Hochzeitsfotograf_Munchen-04-min_bw31fe.jpg"
             height={450}
             width={350}
             alt="Hochzeitsfotograf München"

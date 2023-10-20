@@ -5,6 +5,7 @@ import PortfolioBanner from "../components/PortfolioBanner";
 import LeistungenHero from "../components/LeistungenHero";
 import styles from "../styles/Unterseite.module.css";
 import { createTranslator, useTranslations } from "next-intl";
+import McImage from "../components/McImage";
 
 export async function generateMetadata({ params: { locale } }) {
   const messages = (await import(`../../../messages/${locale}.json`)).default;
@@ -123,16 +124,16 @@ const HochzeitsfotografFlorenz = () => {
 
           <article className={styles.imgwrapper}>
             <div>
-              <Image
-                src="/img/florenz/Hochzeitsfotograf-toskana-florenz (6 von 11)-min.jpg"
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697807010/Components/Hochzeitsfotograf-toskana-florenz_6_von_11_-min_eypin1.jpg"
                 height={400}
                 width={300}
                 alt="Hochzeitsfotograf Starnberg Marzio Costantini"
               />
             </div>
             <div>
-              <Image
-                src="/img/home/Hochzeitsfotograf-Starnberg-deko5-min.jpg"
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697794421/Components/Hochzeitsfotograf-Starnberg-deko5-min_wjaesf.avif"
                 height={200}
                 width={300}
                 alt="Hochzeitsfotograf Starnberg Marzio Costantini"
@@ -143,12 +144,12 @@ const HochzeitsfotografFlorenz = () => {
         <section className={styles.oneImg}>
           <article>
             <div className="lineim">
-              <Image
-                src="/img/florenz/hochzeitsfotograftoskana-1.jpg"
-                height={500}
-                width={400}
-                sizes="100vw"
-                style={{ width: "80%", height: "auto" }}
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697807363/Components/hochzeitslocation-toskana-4-min_dxg7dd.jpg"
+                height={600}
+                width={450}
+                // sizes="100vw"
+                // style={{ width: "80%", height: "auto" }}
                 alt="Hochzeitsfotograf Starnberg Marzio Costantini"
               />
             </div>
@@ -286,24 +287,24 @@ const HochzeitsfotografFlorenz = () => {
           </p>
           <div className={styles.img}>
             <div>
-              <Image
-                src="/img/home/Hochzeitsfotograf-Starnberg-Hintergrundbild-min.jpg"
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697807452/Components/Hochzeitsfotograf-Starnberg-Hintergrundbild-min_xhuu8x.avif"
                 height={200}
                 width={400}
                 alt="Hochzeitsfotograf Starnberg Marzio Costantini"
               />
             </div>
             <div>
-              <Image
-                src="/img/sonstige/Hochzeitsfotograf-starnberg-mallorca-35-min.jpg"
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697807086/Components/Hochzeitsfotograf-starnberg-mallorca-35-min_h2ra2f.jpg"
                 height={400}
                 width={300}
                 alt="Hochzeitsfotograf Starnberg Marzio Costantini"
               />
             </div>
             <div>
-              <Image
-                src="/img/faq/Hochzeitsfotograf_augsburg_06-min.jpg"
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697793220/Components/Hochzeitsfotograf_augsburg_06-min_bh9xe7.avif"
                 height={200}
                 width={300}
                 alt="Hochzeitsfotograf Starnberg Marzio Costantini"

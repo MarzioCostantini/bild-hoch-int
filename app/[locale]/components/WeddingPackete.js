@@ -3,6 +3,7 @@ import Image from "next/image";
 import styles from "../styles/WeddingPackete.module.css";
 import { usePathname } from "next/navigation";
 import Link from "next/link";
+import McImage from "./McImage";
 
 const WeddingPackete = ({
   title,
@@ -35,7 +36,7 @@ const WeddingPackete = ({
         <p>Choose Your Favorite...</p>
       </div>
       <article>
-        <Image
+        <McImage
           src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1694526017/Pages/Leistungen/packet01_srlybb.jpg"
           height={1000}
           width={1000}
@@ -64,7 +65,7 @@ const WeddingPackete = ({
         </div>
       </article>
       <article>
-        <Image
+        <McImage
           src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1694526556/Pages/Leistungen/packet02_vci9ef.jpg"
           height={500}
           width={800}
@@ -93,7 +94,7 @@ const WeddingPackete = ({
         </div>
       </article>
       <article>
-        <Image
+        <McImage
           src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1694526555/Pages/Leistungen/Packet03_mlcfn7.jpg"
           height={1000}
           width={1000}
@@ -122,7 +123,7 @@ const WeddingPackete = ({
         </div>
       </article>
       <article>
-        <Image
+        <McImage
           src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1694526556/Pages/Leistungen/packet04_beozzl.jpg"
           height={1000}
           width={1000}

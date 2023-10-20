@@ -1,6 +1,7 @@
 import styles from "../styles/IchBinMarzio.module.css";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
+import McImage from "./McImage";
 
 const IchBinMarzio = () => {
   const t = useTranslations();
@@ -13,10 +14,10 @@ const IchBinMarzio = () => {
         <div></div>
         <p>{t("pageAbout.welcomeSection.content")}</p>
       </article>
-      <Image
-        src="/img/about/Hochzeitsfotograf_Starnberg_01-min.jpg"
+      <McImage
+        src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697799584/Components/Hochzeitsfotograf_Starnberg_01-min_ezdrcl.jpg"
         height={600}
-        width={450}
+        width={500}
         alt="Hochzeitsfotograf München Starnberg Augsburg Garmisch-partenkirchen Gardasee Florenz"
       />
     </section>

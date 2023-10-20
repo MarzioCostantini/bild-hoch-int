@@ -1,5 +1,6 @@
 import Image from "next/image";
 import styles from "../styles/Memories.module.css";
+import McImage from "./McImage";
 
 const Memories = () => {
   return (
@@ -7,10 +8,10 @@ const Memories = () => {
       <div className={styles.bgImg}></div>
       <div className={styles.content}></div>
       <article>
-        <Image
+        <McImage
           src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1694435004/Pages/Leistungen/Hochzeitsfotograf-mu%CC%88nchen-augsburg-starnberg-1-3_u4gjmb.jpg"
-          height={300}
-          width={300}
+          height={500}
+          width={500}
           alt="Hochzeitsfotograf München Starnberg Augsburg Garmisch-partenkirchen Gardasee Florenz"
           style={{ width: "100%", height: "auto" }}
         />

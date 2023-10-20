@@ -3,7 +3,8 @@ import styles from "../styles/Footer.module.css";
 import Image from "next/image";
 import WebDevelopment from "../../../public/img/svgs/WebDevelopment";
 import { useTranslations } from "next-intl";
-import { CldImage } from "next-cloudinary";
+import McImage from "./McImage";
+
 const Footer = () => {
   const t = useTranslations();
   return (
@@ -53,38 +54,38 @@ const Footer = () => {
 
           <Link target="_blank" href="https://www.instagram.com/bild_hochzeit/">
             <div className={styles.igColl}>
-              <Image
-                src="/img/footer/Hochzeitsfotograf_Munchen04-min.avif"
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697793410/Components/Hochzeitsfotograf_Munchen04-min_k7yb25.avif"
                 height={200}
                 width={200}
                 alt="Hochzeitsfotograf München"
               />
-              <Image
-                src="/img/footer/Hochzeitsfotograf_Munchen06-min.avif"
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697793411/Components/Hochzeitsfotograf_Munchen06-min_nevtur.avif"
                 height={200}
                 width={200}
                 alt="Hochzeitsfotograf München"
               />
-              <Image
-                src="/img/footer/Hochzeitsfotograf_Munchen01-min.avif"
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697793410/Components/Hochzeitsfotograf_Munchen01-min_ws3vkd.avif"
                 height={200}
                 width={200}
                 alt="Hochzeitsfotograf München"
               />
-              <Image
-                src="/img/footer/Hochzeitsfotograf_Munchen03-min.avif"
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697793411/Components/Hochzeitsfotograf_Munchen03-min_mm9zem.avif"
                 height={200}
                 width={200}
                 alt="Hochzeitsfotograf München"
               />
-              <Image
-                src="/img/footer/Hochzeitsfotograf_Munchen02-min.avif"
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697793409/Components/Hochzeitsfotograf_Munchen02-min_rhyp0m.avif"
                 height={200}
                 width={200}
                 alt="Hochzeitsfotograf München"
               />
-              <Image
-                src="/img/footer/Hochzeitsfotograf_Munchen05-min.avif"
+              <McImage
+                src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697793410/Components/Hochzeitsfotograf_Munchen05-min_kptw9w.avif"
                 height={200}
                 width={200}
                 alt="Hochzeitsfotograf München"

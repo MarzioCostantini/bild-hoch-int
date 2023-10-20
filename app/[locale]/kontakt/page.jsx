@@ -2,6 +2,7 @@ import { createTranslator, useTranslations } from "next-intl";
 import Image from "next/image";
 import KontaktForm from "../components/KontaktForm";
 import styles from "../styles/Kontakt.module.css";
+import McImage from "../components/McImage";
 
 export async function generateMetadata({ params: { locale } }) {
   const messages = (await import(`../../../messages/${locale}.json`)).default;
@@ -52,8 +53,8 @@ const Kontakt = () => {
       </section>
       <section>
         <div className="lineimg">
-          <Image
-            src="/img/kontakt/Hochzeitsfotograf-Starnberg-min.jpg"
+          <McImage
+            src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697794842/Components/Hochzeitsfotograf-Starnberg-min_kodcqf.jpg"
             height={700}
             width={500}
             alt="Hochzeitsfotograf Starnberg Marzio Costantini"

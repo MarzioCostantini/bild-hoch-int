@@ -1,6 +1,7 @@
 import styles from "../styles/Faq.module.css";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
+import McImage from "./McImage";
 
 const FaqAll = () => {
   const t = useTranslations();
@@ -12,8 +13,8 @@ const FaqAll = () => {
       <hr></hr>
       <article>
         <div className="lineimg">
-          <Image
-            src="/img/faq/Hochzeitsfotograf_augsburg_01-min.avif"
+          <McImage
+            src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697793218/Components/Hochzeitsfotograf_augsburg_01-min_ulpezg.avif"
             height={300}
             width={300}
             alt="Hochzeitsfotograf München Starnberg Augsburg Garmisch-partenkirchen Gardasee Florenz"
@@ -42,8 +43,8 @@ const FaqAll = () => {
           </p>
         </div>
         <div className="lineimg">
-          <Image
-            src="/img/faq/Hochzeitsfotograf_augsburg_02-min.avif"
+          <McImage
+            src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697793219/Components/Hochzeitsfotograf_augsburg_02-min_m29sgh.avif"
             height={300}
             width={300}
             alt="Hochzeitsfotograf München Starnberg Augsburg Garmisch-partenkirchen Gardasee Florenz"
@@ -52,8 +53,8 @@ const FaqAll = () => {
       </article>
       <article>
         <div className="lineimg">
-          <Image
-            src="/img/faq/Hochzeitsfotograf_augsburg_03-min.avif"
+          <McImage
+            src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697793219/Components/Hochzeitsfotograf_augsburg_03-min_qdsbjy.avif"
             height={300}
             width={300}
             alt="Hochzeitsfotograf München Starnberg Augsburg Garmisch-partenkirchen Gardasee Florenz"
@@ -83,8 +84,8 @@ const FaqAll = () => {
           </p>
         </div>
         <div className="lineimg">
-          <Image
-            src="/img/faq/Hochzeitsfotograf_augsburg_05-min.avif"
+          <McImage
+            src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697793219/Components/Hochzeitsfotograf_augsburg_05-min_dqojqi.avif"
             height={300}
             width={300}
             alt="Hochzeitsfotograf München Starnberg Augsburg Garmisch-partenkirchen Gardasee Florenz"
@@ -93,8 +94,8 @@ const FaqAll = () => {
       </article>
       <article>
         <div className="lineimg">
-          <Image
-            src="/img/faq/Hochzeitsfotograf_augsburg_06-min.avif"
+          <McImage
+            src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697793220/Components/Hochzeitsfotograf_augsburg_06-min_bh9xe7.avif"
             height={300}
             width={300}
             alt="Hochzeitsfotograf München Starnberg Augsburg Garmisch-partenkirchen Gardasee Florenz"
@@ -123,8 +124,8 @@ const FaqAll = () => {
           </p>
         </div>
         <div className="lineimg">
-          <Image
-            src="/img/faq/Hochzeitsfotograf_augsburg_07-min.avif"
+          <McImage
+            src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697793219/Components/Hochzeitsfotograf_augsburg_07-min_f8mod1.avif"
             height={300}
             width={300}
             alt="Hochzeitsfotograf München Starnberg Augsburg Garmisch-partenkirchen Gardasee Florenz"
@@ -133,8 +134,8 @@ const FaqAll = () => {
       </article>
       <article>
         <div className="lineimg">
-          <Image
-            src="/img/faq/Hochzeitsfotograf_augsburg_08-min.avif"
+          <McImage
+            src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697793220/Components/Hochzeitsfotograf_augsburg_08-min_dfscqw.avif"
             height={300}
             width={300}
             alt="Hochzeitsfotograf München Starnberg Augsburg Garmisch-partenkirchen Gardasee Florenz"
@@ -163,10 +164,10 @@ const FaqAll = () => {
           </p>
         </div>
         <div className="lineimg">
-          <Image
-            src="/img/faq/Hochzeitsfotograf_augsburg_09-min.avif"
-            height={300}
-            width={300}
+          <McImage
+            src="https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697793220/Components/Hochzeitsfotograf_augsburg_09-min_rqbhcc.avif"
+            height={350}
+            width={350}
             alt="Hochzeitsfotograf München Starnberg Augsburg Garmisch-partenkirchen Gardasee Florenz"
           />
         </div>
