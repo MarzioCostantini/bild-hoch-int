@@ -39,10 +39,31 @@ const Partner = () => {
           },
           {
             name: "Hochzeitsflorstik Kirsten Brugger",
-            webseite: "www.kirsten-brugger.de",
+            webseite: "https://www.kirsten-brugger.de",
             slogan: "Hochzeitsflorstik",
             text: "Gerne biete ich euch professionelle Hochzeitsfloristik für eure Hochzeit in München, Starnberg, am Ammersee, Starnberger See oder im Landkreis Fürstenfeldbruck. Ob Ihr euch eine elegante und festliche Dekoration für Ihre Hochzeit wünscht, eine romantische Boho-Hochzeit plant oder eine traditionelle bayerische Trachtenhochzeit bevorzugt, die Gestaltung Ihrer Traumhochzeit liegt in euren Händen. Unser Ziel ist es, eure Hochzeit zu einem unvergesslichen Erlebnis zu machen.",
             catrgory: "Florist",
+          },
+          {
+            name: "Styleupyourlook",
+            webseite: "https://www.braut-styling-muenchen.de/",
+            slogan: "Maskenbildnerin / Friseurin",
+            text: "Sie habenbereits etwas Blaues, etwas Geliehenes, etwas Neues und etwas Altes? Was Ihnen noch fehlt, ist das passende Make-up und Hairstyling perfekt abgestimmt auf ihren Typ, Ihr Kleid und ihre Blumen.",
+            catrgory: "Maskenbildnerin / Friseurin",
+          },
+          {
+            name: "giulsS.ART",
+            webseite: "https://giulssart.com/",
+            slogan: "Hochzeitsflorstik",
+            text: "Mit Leidenschaft zu Blumen, Liebe zum Detail, Kreativität und größter Sorgfalt plane und gestalte ich sehr gerne individuelle Blumenarrangements für Ihre Hochzeit. Ich freu mich, Ihren besonderen Tag mit floraler Dekoration auszuschmücken und die zauberhafte Atmosphäre zu unterstützen.",
+            catrgory: "Florist",
+          },
+          {
+            name: "Franziska Porer",
+            webseite: "https://www.franziskasporer.de",
+            slogan: "Hochzeitssängerin",
+            text: "Als professionell ausgebildete Sängerin trete ich mit meiner Band den ISARTONES auf und singe auf Hochzeiten & Events. Mein Angebot und Repertoire ist so ausgelegt, dass ich Euch in verschiedenen Konstellationen den ganzen Tag, oder individuell nach Euren musikalischen Wünschen, stundenweise begleiten kann.",
+            catrgory: "Sänger",
           },
         ]}
       />
