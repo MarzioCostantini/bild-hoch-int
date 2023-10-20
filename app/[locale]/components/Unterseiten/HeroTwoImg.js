@@ -2,7 +2,7 @@ import Image from "next/image";
 import styles from "../../styles/HeroTwoImg.module.css";
 import parse from "html-react-parser";
 
-import CldImage from "../CldImage";
+import CldImage from "../McImage";
 
 // # title, text, imgLinks, imgRechts, SubTitle
 const HeroTwoImg = ({ title, subTitle, text, imgLinks, imgRechts }) => {
@@ -36,8 +36,8 @@ const HeroTwoImg = ({ title, subTitle, text, imgLinks, imgRechts }) => {
       <h2>Haloo</h2>
       <CldImage
         src={imgRechts}
-        height={450}
-        width={290}
+        height={600}
+        width={400}
         alt="Hochzeitsfotograf Starnberg München Augsburg Garmisch-Partenkirchen"
       />
     </section>
