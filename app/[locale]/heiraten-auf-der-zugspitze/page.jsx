@@ -11,20 +11,28 @@ export const metadata = {
   title: "Heiraten auf der Zugspitze | Deutschlands höchster Hochzeitsort",
   description:
     "Plant ihr, auf der Zugspitze zu heiraten? Unser umfassender Leitfaden bietet alles, was ihr über eure Hochzeiten auf der Zugspitze wissen müsst. Termine, Anreise und mehr...",
-  images: [
-    {
-      url: "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697717555/Pages/heiraten-auf-der-zugspitze/Heiraten-auf-der-zugspitze-65_juwmzb.jpg",
-      width: 800,
-      height: 600,
-    },
-    {
-      url: "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697717550/Pages/heiraten-auf-der-zugspitze/Heiraten-auf-der-zugspitze-45_q01okl.jpg",
-      width: 1800,
-      height: 1600,
-      alt: "Heiraten auf der Zugspitze",
-    },
-  ],
-  locale: "de",
+  openGraph: {
+    title: "Heiraten auf der Zugspitze | Deutschlands höchster Hochzeitsort",
+    description:
+      "Plant ihr, auf der Zugspitze zu heiraten? Unser umfassender Leitfaden bietet alles, was ihr über eure Hochzeiten auf der Zugspitze wissen müsst. Termine, Anreise und mehr...",
+    url: "https://bild-hochzeit.de/heiraten-auf-der-zugspitze",
+    siteName: "Heiraten auf der Zugspitze | Deutschlands höchster Hochzeitsort",
+    images: [
+      {
+        url: "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697717555/Pages/heiraten-auf-der-zugspitze/Heiraten-auf-der-zugspitze-65_juwmzb.jpg",
+        width: 800,
+        height: 600,
+      },
+      {
+        url: "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697717550/Pages/heiraten-auf-der-zugspitze/Heiraten-auf-der-zugspitze-45_q01okl.jpg",
+        width: 1800,
+        height: 1600,
+        alt: "Heiraten auf der Zugspitze",
+      },
+    ],
+    locale: "de",
+    type: "website",
+  },
 };
 
 const Zugspitze = () => {
