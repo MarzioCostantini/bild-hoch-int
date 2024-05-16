@@ -19,7 +19,7 @@ export const metadata = {
     siteName: "Heiraten auf der Zugspitze | Deutschlands höchster Hochzeitsort",
     images: [
       {
-        url: "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697717555/Pages/heiraten-auf-der-zugspitze/Heiraten-auf-der-zugspitze-65_juwmzb.jpg",
+        url: "https://res.cloudinary.com/dzlk6w9fd/image/upload/v1697717555/Pages/heiraten-auf-der-zugspitze/Heiraten-auf-der-zugspitze-65_juwmzb.jpggit ",
         width: 800,
         height: 600,
       },
