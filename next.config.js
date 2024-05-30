@@ -1,4 +1,7 @@
-const { default: next } = require("next");
+const withNextIntl = require("next-intl/plugin")(
+  // This is the default (also the `src` folder is supported out of the box)
+  "./i18n.js"
+);
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -8,11 +11,19 @@ const nextConfig = {
   images: {
     domains: ["res.cloudinary.com"],
   },
+  async headers() {
+    return [
+      {
+        source: "/:path*", // Gilt für alle Routen
+        headers: [
+          {
+            key: "X-Robots-Tag",
+            value: "noindex, nofollow",
+          },
+        ],
+      },
+    ];
+  },
 };
-
-const withNextIntl = require("next-intl/plugin")(
-  // This is the default (also the `src` folder is supported out of the box)
-  "./i18n.js"
-);
 
 module.exports = withNextIntl(nextConfig);
